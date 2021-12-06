@@ -780,25 +780,64 @@ http://192.168.123.1:4200/rtp/238.1.78.4:7936
 http://192.168.123.1:4200/rtp/238.1.78.248:7856
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",IPTV8+
 http://192.168.123.1:4200/rtp/238.1.78.249:7864
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",直播室201
-http://192.168.123.1:4200/rtp/238.1.78.226:7680
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",直播室202
-http://192.168.123.1:4200/rtp/238.1.78.227:7688
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",直播室203
-http://192.168.123.1:4200/rtp/238.1.78.228:7696
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",直播室204
-http://192.168.123.1:4200/rtp/238.1.78.224:7664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",直播室205
-http://192.168.123.1:4200/rtp/238.1.78.229:7704
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",直播室206
-http://192.168.123.1:4200/rtp/238.1.78.230:7712
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",直播室207
-http://192.168.123.1:4200/rtp/238.1.78.225:7672
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",直播室208
-http://192.168.123.1:4200/rtp/238.1.78.234:7744
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",直播室209
-http://192.168.123.1:4200/rtp/238.1.78.231:7720
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",直播室210
-http://192.168.123.1:4200/rtp/238.1.78.232:7728
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",直播室211
-http://192.168.123.1:4200/rtp/238.1.78.233:7736
+#EXTINF:-1 group-title="myTVB" ,无线新闻
+http://iptv.tvfix.org/hls/inews.m3u8
+#EXTINF:-1 group-title="myTVB" ,翡翠台(繁体)
+http://iptv.tvfix.org/hls/jade.m3u8
+#EXTINF:-1 group-title="myTVB" ,翡翠台(简体)
+http://iptv.tvfix.org/hls/jade2.m3u8
+#EXTINF:-1 group-title="myTVB" ,翡翠台海外版(繁体)
+http://iptv.tvfix.org/hls/jadenhk.m3u8
+#EXTINF:-1 group-title="myTVB" ,翡翠台海外版(简体)
+http://iptv.tvfix.org/hls/jadenhk2.m3u8
+#EXTINF:-1 group-title="myTVB" ,TVB经典(港版)
+http://iptv.tvfix.org/hls/tvbjd.m3u8
+#EXTINF:-1 group-title="myTVB" ,TVB为食台
+http://iptv.tvfix.org/hls/tvbws.m3u8
+#EXTINF:-1 group-title="myTVB" ,TVB为食台(2)
+http://iptv.tvfix.org/hls/tvbws2.m3u8
+#EXTINF:-1 group-title="myTVB" ,美亚港版(粤语)
+http://iptv.tvfix.org/hls/mydy.m3u8
+#EXTINF:-1 group-title="myTVB" ,美亚港版(国语)
+http://iptv.tvfix.org/hls/mydy2.m3u8
+#EXTINF:-1 group-title="myTVB" ,TVB功夫(粤语)
+http://iptv.tvfix.org//hls/tvbkf.m3u8
+#EXTINF:-1 group-title="myTVB" ,TVB功夫(国语)
+http://iptv.tvfix.org//hls/tvbkf2.m3u8
+#EXTINF:-1 group-title="myTVB" ,TVB星河(粤语)
+http://iptv.tvfix.org/hls/tvbxh.m3u8
+#EXTINF:-1 group-title="myTVB" ,TVB星河(国语)
+http://iptv.tvfix.org/hls/tvbxh2.m3u8
+#EXTINF:-1 group-title="myTVB" ,J2台
+http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1 group-title="myTVB" ,J2台(2)
+http://iptv.tvfix.org/hls/j22.m3u8
+#EXTINF:-1 group-title="myTVB" ,明珠台
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:-1 group-title="myTVB" ,明珠台2
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:-1 group-title="myTVB" ,无线财经
+http://iptv.tvfix.org/hls/finance.m3u8
+#EXTINF:-1 group-title="myTVB" ,无线财经(2)
+http://iptv.tvfix.org/hls/finance2.m3u8
+#EXTINF:-1 group-title="myTVB" ,无线财经海外版
+http://iptv.tvfix.org/hls/financenhk.m3u8
+#EXTINF:-1 group-title="myTVB" ,TVBS亚洲台
+http://iptv.tvfix.org/hls/tvbs.m3u8
+#EXTINF:-1 group-title="myTVB" ,TVBS新闻台
+http://iptv.tvfix.org/hls/tvbsnews.m3u8
+#EXTINF:-1 group-title="myTVB" ,Channel V
+http://iptv.tvfix.org/hls/channelv.m3u8
+#EXTINF:-1 group-title="myTVB" ,星空卫视
+http://iptv.tvfix.org/hls/startv.m3u8
+#EXTINF:-1 group-title="myTVB" ,国家地理
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1 group-title="myTVB" ,Thrill
+http://iptv.tvfix.org//hls/thrill.m3u8
+#EXTINF:-1 group-title="myTVB" ,Thrill(第2声道)
+http://iptv.tvfix.org/hls/thrill2.m3u8
+#EXTINF:-1 group-title="myTVB" ,天映经典(粤语)
+http://iptv.tvfix.org/hls/tyjd.m3u8
+#EXTINF:-1 group-title="myTVB" ,天映经典(国语)
+http://iptv.tvfix.org/hls/tyjd2.m3u8
+
