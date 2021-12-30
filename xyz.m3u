@@ -183,20 +183,20 @@ https://cdn.hkdtmb.com/hls/82/index.m3u8
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台CDN",ViuTV6
 https://cdn.hkdtmb.com/hls/96/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台LIVE",凤凰资讯
-http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台LIVE",凤凰中文
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台LIVE",凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台LIVE",凤凰资讯
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台LIVE",凤凰中文
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台LIVE",凤凰咨询
-https://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台LIVE",凤凰电影
-http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台LIVE",莲花卫视
+http://nettvpro.live/hls/lotustv.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台LIVE",凤凰中文
+https://asus.eu.org/tv/fhx.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台LIVE",凤凰资讯
+https://asus.eu.org/tv/fhx.php?id=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台LIVE",凤凰香港
+https://asus.eu.org/tv/fhx.php?id=3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台LIVE",RTHK31台
 http://livetv.dnsfor.me:80/channel.1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台LIVE",RTHK32
