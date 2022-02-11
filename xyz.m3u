@@ -33,6 +33,8 @@ http://192.168.123.1:4200/rtp/238.1.78.243:7816
 http://192.168.123.1:4200/rtp/238.1.78.222:7648
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥运
 http://192.168.123.1:4200/rtp/238.1.79.10:4192
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥运4K
+http://192.168.123.1:4200/rtp/238.1.79.68:4680
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
 http://192.168.123.1:4200/rtp/238.1.78.178:7296
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV电视指南
@@ -125,6 +127,8 @@ http://192.168.123.1:4200/rtp/238.1.79.9:4184
 http://192.168.123.1:4200/rtp/238.1.78.151:7080
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="央视",快乐垂钓(付费)
 http://192.168.123.1:4200/rtp/238.1.79.31:4360
+#EXTINF:-1 tvg-id="6595" tvg-name="欢笑4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="央视",欢笑4K
+http://192.168.123.1:4200/rtp/238.1.79.67:4672
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",陶瓷
 http://192.168.123.1:4200/rtp/238.1.78.157:7128
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",体育赛事(付费)
