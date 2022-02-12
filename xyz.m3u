@@ -33,7 +33,7 @@ http://192.168.123.1:4200/rtp/238.1.78.243:7816
 http://192.168.123.1:4200/rtp/238.1.78.222:7648
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥运
 http://192.168.123.1:4200/rtp/238.1.79.10:4192
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥运4K
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16-4k" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥运4K
 http://192.168.123.1:4200/rtp/238.1.79.68:4680
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
 http://192.168.123.1:4200/rtp/238.1.78.178:7296
