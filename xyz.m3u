@@ -195,10 +195,10 @@ http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",莲花卫视
 http://nettvpro.live/hls/lotustv.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",凤凰中文
-http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",凤凰香港
-http://223.110.235.11/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",凤凰中文1080
+http://iptv.tvfix.org/hls/fhzw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",凤凰资讯1080
+http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台CDN",RTHK31台
 http://livetv.dnsfor.me:80/channel.1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台CDN",RTHK32
