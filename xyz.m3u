@@ -129,6 +129,8 @@ http://192.168.123.1:4200/rtp/238.1.78.151:7080
 http://192.168.123.1:4200/rtp/238.1.79.31:4360
 #EXTINF:-1 tvg-id="6595" tvg-name="欢笑4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="央视",欢笑4K
 http://192.168.123.1:4200/rtp/238.1.79.67:4672
+#EXTINF:-1 tvg-id="6595" tvg-name="乐游" tvg-logo="" group-title="央视", 乐游
+http://192.168.123.1:4200/rtp/238.1.78.151:7080
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",陶瓷
 http://192.168.123.1:4200/rtp/238.1.78.157:7128
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",体育赛事(付费)
