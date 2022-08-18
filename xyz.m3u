@@ -171,60 +171,82 @@ http://192.168.123.1:4200/rtp/238.1.79.34:4384
 http://192.168.123.1:4200/rtp/238.1.78.111:6760
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",爱生活
 http://192.168.123.1:4200/rtp/238.1.78.17:4040
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台CDN",RTHK31
-https://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台CDN",RTHK32
-https://cdn.hkdtmb.com/hls/32/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台CDN",RTHK33
-https://cdn.hkdtmb.com/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台CDN",翡翠台
-https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台CDN",明珠台
-https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台CDN",无线财经资讯台
-https://cdn.hkdtmb.com/hls/85/index.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台CDN",无线新闻台
-https://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳台CDN",香港国际财经台
-https://cdn.hkdtmb.com/hls/76/index.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台CDN",香港开电视
-https://cdn.hkdtmb.com/hls/77/index.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台CDN",J2台
-https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台CDN",ViuTV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台CDN",ViuTV6
-https://cdn.hkdtmb.com/hls/96/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",凤凰香港
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",莲花卫视
-http://nettvpro.live/hls/lotustv.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",凤凰中文1080
-http://iptv.tvfix.org/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",凤凰资讯1080
-http://iptv.tvfix.org/hls/fhzx.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台CDN",RTHK31台
-http://livetv.dnsfor.me:80/channel.1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台CDN",RTHK32
-http://livetv.dnsfor.me:80/channel.2.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台CDN",翡翠台
-http://livetv.dnsfor.me/channel.18.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台CDN",无线财经资讯台
-http://livetv.dnsfor.me:80/channel.11.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台CDN",无线新闻台
-http://livetv.dnsfor.me:80/channel.10.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台185",香港开电视
-http://livetv.dnsfor.me/channel.9.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台185",香港开电视
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台CDN",J2台
-http://livetv.dnsfor.me:80/channel.19.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台CDN",ViuTV
-http://livetv.dnsfor.me:80/channel.20.m3u8
+#EXTINF:-1 ,group-title="81IPTV",安徽卫视HD
+http://192.168.123.1:4200/udp/238.1.81.25:8096
+#EXTINF:-1 ,group-title="81IPTV",东南卫视HD
+http://192.168.123.1:4200/udp/238.1.81.27:8104
+#EXTINF:-1 ,group-title="81IPTV",江西卫视HD
+http://192.168.123.1:4200/udp/238.1.81.28:8108
+#EXTINF:-1 ,group-title="81IPTV",CCTV2HD
+http://192.168.123.1:4200/udp/238.1.81.29:8112
+#EXTINF:-1 ,group-title="81IPTV",家有购物HD
+http://192.168.123.1:4200/udp/238.1.81.15:8056
+#EXTINF:-1 ,group-title="81IPTV",广西卫视HD
+http://192.168.123.1:4200/udp/238.1.81.8:8028
+#EXTINF:-1 ,group-title="81IPTV",陕西卫视HD
+http://192.168.123.1:4200/udp/238.1.81.9:8032
+#EXTINF:-1 ,group-title="81IPTV",云南卫视HD
+http://192.168.123.1:4200/udp/238.1.81.10:8036
+#EXTINF:-1 ,group-title="81IPTV",CCTV-1HD
+http://192.168.123.1:4200/udp/238.1.81.14:8052
+#EXTINF:-1 ,group-title="81IPTV",金鹰卡通HD
+http://192.168.123.1:4200/udp/238.1.81.17:8064
+#EXTINF:-1 ,group-title="81IPTV",CCTV-5＋HD
+http://192.168.123.1:4200/udp/238.1.81.30:8116
+#EXTINF:-1 ,group-title="81IPTV",CCTV7HD
+http://192.168.123.1:4200/udp/238.1.81.31:8120
+#EXTINF:-1 ,group-title="81IPTV",CCTV9HD
+http://192.168.123.1:4200/udp/238.1.81.32:8124
+#EXTINF:-1 ,group-title="81IPTV",CCTV10HD
+http://192.168.123.1:4200/udp/238.1.81.33:8128
+#EXTINF:-1 ,group-title="81IPTV",CCTV12HD
+http://192.168.123.1:4200/udp/238.1.81.34:8132
+#EXTINF:-1 ,group-title="81IPTV",CCTV14HD
+http://192.168.123.1:4200/udp/238.1.81.35:8136
+#EXTINF:-1 ,group-title="81IPTV",河北卫视HD
+http://192.168.123.1:4200/udp/238.1.81.36:8140
+#EXTINF:-1 ,group-title="81IPTV",CCTV17HD
+http://192.168.123.1:4200/udp/238.1.81.37:8144
+#EXTINF:-1 ,group-title="81IPTV",深圳卫视HD
+http://192.168.123.1:4200/udp/238.1.81.38:8148
+#EXTINF:-1 ,group-title="81IPTV",四川卫视HD
+http://192.168.123.1:4200/udp/238.1.81.39:8152
+#EXTINF:-1 ,group-title="81IPTV",重庆卫视HD
+http://192.168.123.1:4200/udp/238.1.81.40:8156
+#EXTINF:-1 ,group-title="81IPTV",黑龙江卫视HD
+http://192.168.123.1:4200/udp/238.1.81.41:8160
+#EXTINF:-1 ,group-title="81IPTV",湖南卫视HD
+http://192.168.123.1:4200/udp/238.1.81.42:8164
+#EXTINF:-1 ,group-title="81IPTV",北京卫视HD
+http://192.168.123.1:4200/udp/238.1.81.43:8168
+#EXTINF:-1 ,group-title="81IPTV",东方卫视HD
+http://192.168.123.1:4200/udp/238.1.81.44:8172
+#EXTINF:-1 ,group-title="81IPTV",浙江卫视HD
+http://192.168.123.1:4200/udp/238.1.81.45:8176
+#EXTINF:-1 ,group-title="81IPTV",江苏卫视HD
+http://192.168.123.1:4200/udp/238.1.81.46:8180
+#EXTINF:-1 ,group-title="81IPTV",CCTV13HD
+http://192.168.123.1:4200/udp/238.1.81.47:8184
+#EXTINF:-1 ,group-title="81IPTV",湖北卫视HD
+http://192.168.123.1:4200/udp/238.1.81.48:8188
+#EXTINF:-1 ,group-title="81IPTV",山东卫视HD
+http://192.168.123.1:4200/udp/238.1.81.49:8192
+#EXTINF:-1 ,group-title="81IPTV",CETV4
+http://192.168.123.1:4200/udp/238.1.81.50:8196
+#EXTINF:-1 ,group-title="81IPTV",山东教育
+http://192.168.123.1:4200/udp/238.1.81.51:8200
+#EXTINF:-1 ,group-title="81IPTV",吉林卫视HD
+http://192.168.123.1:4200/udp/238.1.81.52:8204
+#EXTINF:-1 ,group-title="81IPTV",安徽经济HD
+http://192.168.123.1:4200/udp/238.1.81.53:8208
+#EXTINF:-1 ,group-title="81IPTV",安徽影视HD
+http://192.168.123.1:4200/udp/238.1.81.54:8212
+#EXTINF:-1 ,group-title="81IPTV",安徽公共HD
+http://192.168.123.1:4200/udp/238.1.81.55:8216
+#EXTINF:-1 ,group-title="81IPTV",安徽综艺体育HD
+http://192.168.123.1:4200/udp/238.1.81.56:8220
+#EXTINF:-1 ,group-title="81IPTV",安徽农业科教HD
+http://192.168.123.1:4200/udp/238.1.81.57:8224
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",NOW体育
 http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",NOW新闻
@@ -523,63 +545,3 @@ http://192.168.123.1:4200/rtp/238.1.78.4:7936
 http://192.168.123.1:4200/rtp/238.1.78.248:7856
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",IPTV8+
 http://192.168.123.1:4200/rtp/238.1.78.249:7864
-#EXTINF:-1 group-title="myTVB" ,无线新闻
-http://iptv.tvfix.org/hls/inews.m3u8
-#EXTINF:-1 group-title="myTVB" ,翡翠台(繁体)
-http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1 group-title="myTVB" ,翡翠台(简体)
-http://iptv.tvfix.org/hls/jade2.m3u8
-#EXTINF:-1 group-title="myTVB" ,翡翠台海外版(繁体)
-http://iptv.tvfix.org/hls/jadenhk.m3u8
-#EXTINF:-1 group-title="myTVB" ,翡翠台海外版(简体)
-http://iptv.tvfix.org/hls/jadenhk2.m3u8
-#EXTINF:-1 group-title="myTVB" ,TVB经典(港版)
-http://iptv.tvfix.org/hls/tvbjd.m3u8
-#EXTINF:-1 group-title="myTVB" ,TVB为食台
-http://iptv.tvfix.org/hls/tvbws.m3u8
-#EXTINF:-1 group-title="myTVB" ,TVB为食台(2)
-http://iptv.tvfix.org/hls/tvbws2.m3u8
-#EXTINF:-1 group-title="myTVB" ,美亚港版(粤语)
-http://iptv.tvfix.org/hls/mydy.m3u8
-#EXTINF:-1 group-title="myTVB" ,美亚港版(国语)
-http://iptv.tvfix.org/hls/mydy2.m3u8
-#EXTINF:-1 group-title="myTVB" ,TVB功夫(粤语)
-http://iptv.tvfix.org//hls/tvbkf.m3u8
-#EXTINF:-1 group-title="myTVB" ,TVB功夫(国语)
-http://iptv.tvfix.org//hls/tvbkf2.m3u8
-#EXTINF:-1 group-title="myTVB" ,TVB星河(粤语)
-http://iptv.tvfix.org/hls/tvbxh.m3u8
-#EXTINF:-1 group-title="myTVB" ,TVB星河(国语)
-http://iptv.tvfix.org/hls/tvbxh2.m3u8
-#EXTINF:-1 group-title="myTVB" ,J2台
-http://iptv.tvfix.org/hls/j2.m3u8
-#EXTINF:-1 group-title="myTVB" ,J2台(2)
-http://iptv.tvfix.org/hls/j22.m3u8
-#EXTINF:-1 group-title="myTVB" ,明珠台
-http://iptv.tvfix.org/hls/pearl.m3u8
-#EXTINF:-1 group-title="myTVB" ,明珠台2
-http://iptv.tvfix.org/hls/pearl.m3u8
-#EXTINF:-1 group-title="myTVB" ,无线财经
-http://iptv.tvfix.org/hls/finance.m3u8
-#EXTINF:-1 group-title="myTVB" ,无线财经(2)
-http://iptv.tvfix.org/hls/finance2.m3u8
-#EXTINF:-1 group-title="myTVB" ,无线财经海外版
-http://iptv.tvfix.org/hls/financenhk.m3u8
-#EXTINF:-1 group-title="myTVB" ,TVBS亚洲台
-http://iptv.tvfix.org/hls/tvbs.m3u8
-#EXTINF:-1 group-title="myTVB" ,TVBS新闻台
-http://iptv.tvfix.org/hls/tvbsnews.m3u8
-#EXTINF:-1 group-title="myTVB" ,Channel V
-http://iptv.tvfix.org/hls/channelv.m3u8
-#EXTINF:-1 group-title="myTVB" ,星空卫视
-http://iptv.tvfix.org/hls/startv.m3u8
-#EXTINF:-1 group-title="myTVB" ,国家地理
-http://iptv.tvfix.org/hls/natlgeo.m3u8
-#EXTINF:-1 group-title="myTVB" ,Thrill
-http://iptv.tvfix.org//hls/thrill.m3u8
-#EXTINF:-1 group-title="myTVB" ,Thrill(第2声道)
-http://iptv.tvfix.org/hls/thrill2.m3u8
-#EXTINF:-1 group-title="myTVB" ,天映经典(粤语)
-http://iptv.tvfix.org/hls/tyjd.m3u8
-#EXTINF:-1 group-title="myTVB" ,天映经典(国语)
-http://iptv.tvfix.org/hls/tyjd2.m3u8
