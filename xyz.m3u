@@ -111,6 +111,12 @@ http://192.168.123.1:4200/rtp/238.1.78.20:6088
 http://192.168.123.1:4200/rtp/238.1.78.30:6168
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://192.168.123.1:4200/rtp/238.1.78.31:6176
+#EXTINF:-1 tvg-id="40" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
+http://192.168.123.1:4200/rtp/238.1.81.8:8028
+#EXTINF:-1 tvg-id="40" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
+http://192.168.123.1:4200/rtp/238.1.81.9:8032
+#EXTINF:-1 tvg-id="40" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+http://192.168.123.1:4200/rtp/238.1.81.10:8036
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",动漫秀场
 http://192.168.123.1:4200/rtp/238.1.78.154:7104
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",茶(付费)
