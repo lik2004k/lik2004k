@@ -245,36 +245,72 @@ http://192.168.123.1:4200/udp/238.1.81.17:8064
 http://192.168.123.1:4200/udp/238.1.81.50:8196
 #EXTINF:-1 ,group-title="81IPTV",山东教育
 http://192.168.123.1:4200/udp/238.1.81.51:8200
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",NOW体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港源",NOW体育
 http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",NOW新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港源",NOW新闻
 http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",NOW直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港源",NOW直播
 http://livetv.dnsfor.me/channel.3.m3u8
-#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台185",有线财经资讯台
+#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="香港源",有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台185",有线新闻台
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="香港源",有线新闻台
 https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",RTHK32
-http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",RTHK31
-http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",RTHK33
-http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台185",J2台
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台185",翡翠台
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台185",无线财经资讯台
-http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台185",明珠台
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台185",无线新闻台
-http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台185",ViuTV6
-http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台185",ViuTV
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="香港源",CCTV 11
+http://112.118.211.119:9981/stream/channelid/167973884?ticket=96c5e9ee8f40cd1809410354af08129080ead598&profile=pass
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="香港源",CCTV 15
+http://112.118.211.119:9981/stream/channelid/1692420490?ticket=433fffc1de4a9513713f2eb6b8e570371a2c04b2&profile=pass
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="香港源",CCTV 2
+http://112.118.211.119:9981/stream/channelid/1590072368?ticket=62e73dee0f067f72db52869ec1a96c663d82cfef&profile=pass
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="香港源",CCTV 4A
+http://112.118.211.119:9981/stream/channelid/1442611293?ticket=680b8734c67a1bdb48ae627826bff28eb988a55f&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港源",CETV1
+http://112.118.211.119:9981/stream/channelid/560338891?ticket=ee36e3579c8f8d6db7911320c6939e26b79080e9&profile=pass
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="香港源",CGTN
+http://112.118.211.119:9981/stream/channelid/2060722565?ticket=8fdd505b519866f08981b964b3bc94de83dca883&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港源",FJTV
+http://112.118.211.119:9981/stream/channelid/925278644?ticket=4bd04e83146f6368064b795d7e76e590132352be&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港源",Guangdong1
+http://112.118.211.119:9981/stream/channelid/1195399812?ticket=81e70af1bb5ab3d320636130c32704874cb38081&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港源",GXTV
+http://112.118.211.119:9981/stream/channelid/1497575650?ticket=09314ea05fc353d33fd104739aca6fd42b0120f4&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港源",HD Phx Chinese Channel
+http://112.118.211.119:9981/stream/channelid/787366383?ticket=cd28ca39d1a0077098529940e372b6a423dea01b&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港源",HD Phx HK Channel
+http://112.118.211.119:9981/stream/channelid/150614819?ticket=dd70952c64923407b928e4bf0c522de8a11b8f6f&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港源",HD Phx Infonews Channel
+http://112.118.211.119:9981/stream/channelid/1837236829?ticket=fdf6c53fd05d8c4598f18072cd91d5ed9d2a16b2&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港源",hnstv
+http://112.118.211.119:9981/stream/channelid/1905101369?ticket=d98f1658b17949493db8be645fd823930a6df609&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港源",JSWS
+http://112.118.211.119:9981/stream/channelid/619119206?ticket=6c1f7fca7b8e5d8f43d6c93a55575a0db99c118a&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港源",jykatong
+http://112.118.211.119:9981/stream/channelid/491637144?ticket=6899276b1e2dd2d5e8ff91eb26d43588c39a084d&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港源",港台电视 31
+http://112.118.211.119:9981/stream/channelid/1958338046?ticket=25b7b3ab85597efd6e25df57b0aa32caa8fefeec&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港源",港台电视 32
+http://112.118.211.119:9981/stream/channelid/1439024591?ticket=ddbdf4c039bc2929e5ea31e70cbdb70ca4d1352e&profile=pass
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="香港源",中央电视台综合频道(CCTV-1综合)
+http://112.118.211.119:9981/stream/channelid/660690630?ticket=577338bd2946789c4fbb59f232183ddfbfc904f5&profile=pass
+#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳台",香港国际财经台
+http://112.118.211.119:9981/stream/channelid/1015194673?ticket=e6e4eb12d5a238caec7f10fa6fe3b879c9682816&profile=pass
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
+http://112.118.211.119:9981/stream/channelid/1089427433?ticket=0fc428bd977fa7ce9be1bfa9da886ee06ae04207&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港源",78台
+http://112.118.211.119:9981/stream/channelid/1689256635?ticket=606b01591673bd02c0f975ed1669c75fd75c1437&profile=pass
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+http://112.118.211.119:9981/stream/channelid/89897661?ticket=ed0aea2b3164aef9042b50935d5a7e00f042b567&profile=pass
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台
+http://112.118.211.119:9981/stream/channelid/1563650536?ticket=e4c5fb5400cf4df11a783053f76347b3cec20796&profile=pass
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
+http://112.118.211.119:9981/stream/channelid/1793255727?ticket=cf868a89daed4f16189047eb041070dacdbc7675&profile=pass
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
+http://112.118.211.119:9981/stream/channelid/685255588?ticket=1a90e7d5a90c80b9221cba64c58003563a5b26b1&profile=pass
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经 · 资讯台
+http://112.118.211.119:9981/stream/channelid/412464624?ticket=21f8ee876b91e451aa8d2de9a91af6a474441d68&profile=pass
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTVsix
+http://112.118.211.119:9981/stream/channelid/1692807249?ticket=5499bbef37bd90a565121a76d5c3074da6dfc81b&profile=pass
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
+http://112.118.211.119:9981/stream/channelid/295697949?ticket=dc0bc69bf46c9bec02202a11f4c8366bd051c6b8&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",阜阳都市
 http://192.168.123.1:4200/rtp/238.1.78.127:6888
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",阜阳公共
