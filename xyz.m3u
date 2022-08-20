@@ -171,26 +171,10 @@ http://192.168.123.1:4200/rtp/238.1.79.34:4384
 http://192.168.123.1:4200/rtp/238.1.78.111:6760
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",爱生活
 http://192.168.123.1:4200/rtp/238.1.78.17:4040
-#EXTINF:-1 ,group-title="81IPTV",安徽卫视HD
-http://192.168.123.1:4200/udp/238.1.81.25:8096
-#EXTINF:-1 ,group-title="81IPTV",东南卫视HD
-http://192.168.123.1:4200/udp/238.1.81.27:8104
-#EXTINF:-1 ,group-title="81IPTV",江西卫视HD
-http://192.168.123.1:4200/udp/238.1.81.28:8108
-#EXTINF:-1 ,group-title="81IPTV",CCTV2HD
-http://192.168.123.1:4200/udp/238.1.81.29:8112
-#EXTINF:-1 ,group-title="81IPTV",家有购物HD
-http://192.168.123.1:4200/udp/238.1.81.15:8056
-#EXTINF:-1 ,group-title="81IPTV",广西卫视HD
-http://192.168.123.1:4200/udp/238.1.81.8:8028
-#EXTINF:-1 ,group-title="81IPTV",陕西卫视HD
-http://192.168.123.1:4200/udp/238.1.81.9:8032
-#EXTINF:-1 ,group-title="81IPTV",云南卫视HD
-http://192.168.123.1:4200/udp/238.1.81.10:8036
 #EXTINF:-1 ,group-title="81IPTV",CCTV-1HD
 http://192.168.123.1:4200/udp/238.1.81.14:8052
-#EXTINF:-1 ,group-title="81IPTV",金鹰卡通HD
-http://192.168.123.1:4200/udp/238.1.81.17:8064
+#EXTINF:-1 ,group-title="81IPTV",CCTV2HD
+http://192.168.123.1:4200/udp/238.1.81.29:8112
 #EXTINF:-1 ,group-title="81IPTV",CCTV-5＋HD
 http://192.168.123.1:4200/udp/238.1.81.30:8116
 #EXTINF:-1 ,group-title="81IPTV",CCTV7HD
@@ -201,12 +185,24 @@ http://192.168.123.1:4200/udp/238.1.81.32:8124
 http://192.168.123.1:4200/udp/238.1.81.33:8128
 #EXTINF:-1 ,group-title="81IPTV",CCTV12HD
 http://192.168.123.1:4200/udp/238.1.81.34:8132
+#EXTINF:-1 ,group-title="81IPTV",CCTV13HD
+http://192.168.123.1:4200/udp/238.1.81.47:8184
 #EXTINF:-1 ,group-title="81IPTV",CCTV14HD
 http://192.168.123.1:4200/udp/238.1.81.35:8136
-#EXTINF:-1 ,group-title="81IPTV",河北卫视HD
-http://192.168.123.1:4200/udp/238.1.81.36:8140
 #EXTINF:-1 ,group-title="81IPTV",CCTV17HD
 http://192.168.123.1:4200/udp/238.1.81.37:8144
+#EXTINF:-1 ,group-title="81IPTV",安徽卫视HD
+http://192.168.123.1:4200/udp/238.1.81.25:8096
+#EXTINF:-1 ,group-title="81IPTV",东南卫视HD
+http://192.168.123.1:4200/udp/238.1.81.27:8104
+#EXTINF:-1 ,group-title="81IPTV",江西卫视HD
+http://192.168.123.1:4200/udp/238.1.81.28:8108
+#EXTINF:-1 ,group-title="81IPTV",广西卫视HD
+http://192.168.123.1:4200/udp/238.1.81.8:8028
+#EXTINF:-1 ,group-title="81IPTV",陕西卫视HD
+http://192.168.123.1:4200/udp/238.1.81.9:8032
+#EXTINF:-1 ,group-title="81IPTV",云南卫视HD
+http://192.168.123.1:4200/udp/238.1.81.10:8036
 #EXTINF:-1 ,group-title="81IPTV",深圳卫视HD
 http://192.168.123.1:4200/udp/238.1.81.38:8148
 #EXTINF:-1 ,group-title="81IPTV",四川卫视HD
@@ -225,16 +221,12 @@ http://192.168.123.1:4200/udp/238.1.81.44:8172
 http://192.168.123.1:4200/udp/238.1.81.45:8176
 #EXTINF:-1 ,group-title="81IPTV",江苏卫视HD
 http://192.168.123.1:4200/udp/238.1.81.46:8180
-#EXTINF:-1 ,group-title="81IPTV",CCTV13HD
-http://192.168.123.1:4200/udp/238.1.81.47:8184
+#EXTINF:-1 ,group-title="81IPTV",河北卫视HD
+http://192.168.123.1:4200/udp/238.1.81.36:8140
 #EXTINF:-1 ,group-title="81IPTV",湖北卫视HD
 http://192.168.123.1:4200/udp/238.1.81.48:8188
 #EXTINF:-1 ,group-title="81IPTV",山东卫视HD
 http://192.168.123.1:4200/udp/238.1.81.49:8192
-#EXTINF:-1 ,group-title="81IPTV",CETV4
-http://192.168.123.1:4200/udp/238.1.81.50:8196
-#EXTINF:-1 ,group-title="81IPTV",山东教育
-http://192.168.123.1:4200/udp/238.1.81.51:8200
 #EXTINF:-1 ,group-title="81IPTV",吉林卫视HD
 http://192.168.123.1:4200/udp/238.1.81.52:8204
 #EXTINF:-1 ,group-title="81IPTV",安徽经济HD
@@ -247,6 +239,12 @@ http://192.168.123.1:4200/udp/238.1.81.55:8216
 http://192.168.123.1:4200/udp/238.1.81.56:8220
 #EXTINF:-1 ,group-title="81IPTV",安徽农业科教HD
 http://192.168.123.1:4200/udp/238.1.81.57:8224
+#EXTINF:-1 ,group-title="81IPTV",金鹰卡通HD
+http://192.168.123.1:4200/udp/238.1.81.17:8064
+#EXTINF:-1 ,group-title="81IPTV",CETV4
+http://192.168.123.1:4200/udp/238.1.81.50:8196
+#EXTINF:-1 ,group-title="81IPTV",山东教育
+http://192.168.123.1:4200/udp/238.1.81.51:8200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",NOW体育
 http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台185",NOW新闻
