@@ -245,6 +245,14 @@ http://192.168.123.1:4200/udp/238.1.81.17:8064
 http://192.168.123.1:4200/udp/238.1.81.50:8196
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="81IPTV",山东教育
 http://192.168.123.1:4200/udp/238.1.81.51:8200
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
+http://iptv.lik2004k.ml/tvbnews.php?id=1
+#EXTINF:-1 tvg-id="130" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线财经台
+http://iptv.lik2004k.ml/tvbnews.php?id=2
+#EXTINF:-1 tvg-id="130" tvg-name="无线直播1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线直播台1
+http://iptv.lik2004k.ml/tvbnews.php?id=3
+#EXTINF:-1 tvg-id="130" tvg-name="无线直播2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线直播台2
+http://iptv.lik2004k.ml/tvbnews.php?id=4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW体育
 http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
@@ -255,36 +263,12 @@ http://livetv.dnsfor.me/channel.3.m3u8
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="港澳台",CCTV 11
-http://112.118.211.119:9981/stream/channelid/167973884?ticket=96c5e9ee8f40cd1809410354af08129080ead598&profile=pass
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="港澳台",CCTV 15
-http://112.118.211.119:9981/stream/channelid/1692420490?ticket=433fffc1de4a9513713f2eb6b8e570371a2c04b2&profile=pass
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="港澳台",CCTV 2
-http://112.118.211.119:9981/stream/channelid/1590072368?ticket=62e73dee0f067f72db52869ec1a96c663d82cfef&profile=pass
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="港澳台",CCTV 4A
-http://112.118.211.119:9981/stream/channelid/1442611293?ticket=680b8734c67a1bdb48ae627826bff28eb988a55f&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",CETV1
-http://112.118.211.119:9981/stream/channelid/560338891?ticket=ee36e3579c8f8d6db7911320c6939e26b79080e9&profile=pass
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="港澳台",CGTN
-http://112.118.211.119:9981/stream/channelid/2060722565?ticket=8fdd505b519866f08981b964b3bc94de83dca883&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",FJTV
-http://112.118.211.119:9981/stream/channelid/925278644?ticket=4bd04e83146f6368064b795d7e76e590132352be&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Guangdong1
-http://112.118.211.119:9981/stream/channelid/1195399812?ticket=81e70af1bb5ab3d320636130c32704874cb38081&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",GXTV
 http://112.118.211.119:9981/stream/channelid/1497575650?ticket=09314ea05fc353d33fd104739aca6fd42b0120f4&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HD Phx Chinese Channel
 http://112.118.211.119:9981/stream/channelid/787366383?ticket=cd28ca39d1a0077098529940e372b6a423dea01b&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HD Phx HK Channel
 http://112.118.211.119:9981/stream/channelid/150614819?ticket=dd70952c64923407b928e4bf0c522de8a11b8f6f&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HD Phx Infonews Channel
-http://112.118.211.119:9981/stream/channelid/1837236829?ticket=fdf6c53fd05d8c4598f18072cd91d5ed9d2a16b2&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",hnstv
-http://112.118.211.119:9981/stream/channelid/1905101369?ticket=d98f1658b17949493db8be645fd823930a6df609&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",JSWS
-http://112.118.211.119:9981/stream/channelid/619119206?ticket=6c1f7fca7b8e5d8f43d6c93a55575a0db99c118a&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",jykatong
-http://112.118.211.119:9981/stream/channelid/491637144?ticket=6899276b1e2dd2d5e8ff91eb26d43588c39a084d&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",港台电视 31
 http://112.118.211.119:9981/stream/channelid/1958338046?ticket=25b7b3ab85597efd6e25df57b0aa32caa8fefeec&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",港台电视 32
@@ -295,8 +279,6 @@ http://112.118.211.119:9981/stream/channelid/660690630?ticket=577338bd2946789c4f
 http://112.118.211.119:9981/stream/channelid/1015194673?ticket=e6e4eb12d5a238caec7f10fa6fe3b879c9682816&profile=pass
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
 http://112.118.211.119:9981/stream/channelid/1089427433?ticket=0fc428bd977fa7ce9be1bfa9da886ee06ae04207&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",78台
-http://112.118.211.119:9981/stream/channelid/1689256635?ticket=606b01591673bd02c0f975ed1669c75fd75c1437&profile=pass
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://112.118.211.119:9981/stream/channelid/89897661?ticket=ed0aea2b3164aef9042b50935d5a7e00f042b567&profile=pass
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台
