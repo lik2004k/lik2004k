@@ -258,17 +258,15 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227226/index.m3
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
-http://iptv.lik2004k.ml/tvbnews.php?id=1
+https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=1
 #EXTINF:-1 tvg-id="130" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线财经台
-http://iptv.lik2004k.ml/tvbnews.php?id=2
-#EXTINF:-1 tvg-id="130" tvg-name="无线直播1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线直播台1
-http://iptv.lik2004k.ml/tvbnews.php?id=3
-#EXTINF:-1 tvg-id="130" tvg-name="无线直播2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线直播台2
-http://iptv.lik2004k.ml/tvbnews.php?id=4
+https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW体育
 http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
 http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
+https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=332
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW直播
 http://livetv.dnsfor.me/channel.3.m3u8
 #EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台",有线财经资讯台
@@ -276,35 +274,6 @@ https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 https://api.leonardpark.dev/live/icable/109
 http://112.118.211.119:9981/stream/channelid/1497575650?ticket=09314ea05fc353d33fd104739aca6fd42b0120f4&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HD Phx Chinese Channel
-http://112.118.211.119:9981/stream/channelid/787366383?ticket=cd28ca39d1a0077098529940e372b6a423dea01b&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HD Phx HK Channel
-http://112.118.211.119:9981/stream/channelid/150614819?ticket=dd70952c64923407b928e4bf0c522de8a11b8f6f&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HD Phx Infonews Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",港台电视 31
-http://112.118.211.119:9981/stream/channelid/1958338046?ticket=25b7b3ab85597efd6e25df57b0aa32caa8fefeec&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",港台电视 32
-http://112.118.211.119:9981/stream/channelid/1439024591?ticket=ddbdf4c039bc2929e5ea31e70cbdb70ca4d1352e&profile=pass
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="港澳台",中央电视台综合频道(CCTV-1综合)
-http://112.118.211.119:9981/stream/channelid/660690630?ticket=577338bd2946789c4fbb59f232183ddfbfc904f5&profile=pass
-#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳台",香港国际财经台
-http://112.118.211.119:9981/stream/channelid/1015194673?ticket=e6e4eb12d5a238caec7f10fa6fe3b879c9682816&profile=pass
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
-http://112.118.211.119:9981/stream/channelid/1089427433?ticket=0fc428bd977fa7ce9be1bfa9da886ee06ae04207&profile=pass
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://112.118.211.119:9981/stream/channelid/89897661?ticket=ed0aea2b3164aef9042b50935d5a7e00f042b567&profile=pass
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台
-http://112.118.211.119:9981/stream/channelid/1563650536?ticket=e4c5fb5400cf4df11a783053f76347b3cec20796&profile=pass
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
-http://112.118.211.119:9981/stream/channelid/1793255727?ticket=cf868a89daed4f16189047eb041070dacdbc7675&profile=pass
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
-http://112.118.211.119:9981/stream/channelid/685255588?ticket=1a90e7d5a90c80b9221cba64c58003563a5b26b1&profile=pass
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经 · 资讯台
-http://112.118.211.119:9981/stream/channelid/412464624?ticket=21f8ee876b91e451aa8d2de9a91af6a474441d68&profile=pass
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTVsix
-http://112.118.211.119:9981/stream/channelid/1692807249?ticket=5499bbef37bd90a565121a76d5c3074da6dfc81b&profile=pass
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
-http://112.118.211.119:9981/stream/channelid/295697949?ticket=dc0bc69bf46c9bec02202a11f4c8366bd051c6b8&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="市级频道",阜阳都市
 http://192.168.123.1:4200/udp/238.1.78.127:6888
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="市级频道",阜阳公共
