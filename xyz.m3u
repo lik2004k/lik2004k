@@ -593,6 +593,8 @@ http://192.168.123.1:4200/udp/238.1.78.4:7936
 http://192.168.123.1:4200/udp/238.1.78.248:7856
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",IPTV8+
 http://192.168.123.1:4200/udp/238.1.78.249:7864
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHP代理",翡翠台
+http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHP代理",凤凰中文
 http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHP代理",凤凰资讯
