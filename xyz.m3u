@@ -257,10 +257,26 @@ http://[2409:8c02:21c:60::6b]/live.rxip.sc96655.com/live/test2_4000.m3u8
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227226/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
+http://223.17.122.230:9981/stream/channelid/1847209808?ticket=3c53b520f7ae8e8d804712782f6ad89c82688c44&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",开电视HD
+http://223.17.122.230:9981/stream/channelid/1238433746?ticket=5c55d8d7cff49bc5c6479d604d3b077081920138&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32HD
+https://epg.pm/stream/cb4e8d8c7964dbf1a8a5f8d2fea27decde933dc7ab8b11c3cc3038b52c20f677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK31
+http://218.93.208.119:54799/hk/index.php?id=11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32
+http://218.93.208.119:54799/hk/index.php?id=12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ViuTV HD
+http://218.93.208.119:54799/hk/index.php?id=13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
+http://218.93.208.119:54799/hk/index.php?id=1
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
-https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=1
+http://218.93.208.119:54799/hk/index.php?id=15
 #EXTINF:-1 tvg-id="130" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线财经台
-https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=2
+http://218.93.208.119:54799/hk/index.php?id=14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",无线新闻台1080（迟）
+http://radius.8866.org:800/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW体育
 http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
@@ -269,16 +285,30 @@ http://livetv.dnsfor.me:80/channel.4.m3u8
 https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=332
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW直播
 http://livetv.dnsfor.me/channel.3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",开电视720P
+http://218.93.208.119:54799/hk/index.php?id=16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线18台
+http://218.93.208.119:54799/hk/index.php?id=17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线财经
+http://218.93.208.119:54799/hk/index.php?id=18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线体育
+http://218.93.208.119:54799/hk/index.php?id=19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线新闻
+http://218.93.208.119:54799/hk/index.php?id=20
 #EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台",有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台
-http://223.17.122.230:9981/stream/channelid/1847209808?ticket=3c53b520f7ae8e8d804712782f6ad89c82688c44&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",开电视
-http://223.17.122.230:9981/stream/channelid/1238433746?ticket=5c55d8d7cff49bc5c6479d604d3b077081920138&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",卫视电影台
+http://23.237.10.66:16010
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVB翡翠台
+http://23.237.10.66:16106
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",无线新闻台
-http://radius.8866.org:800/hls/82/index.m3u8
+http://23.237.10.66:16110
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",台视HD
+http://23.237.10.66:16344
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中天新闻
+http://23.237.10.66:16372
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",无线财经台
 http://radius.8866.org:800/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台
@@ -295,38 +325,6 @@ http://radius.8866.org:800/hls/91/index.m3u8
 http://radius.8866.org:800/hls/89/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32
 http://radius.8866.org:800/hls/90/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32
-https://epg.pm/stream/cb4e8d8c7964dbf1a8a5f8d2fea27decde933dc7ab8b11c3cc3038b52c20f677.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",8频道
-http://23.237.10.66:16150
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",卫视电影台
-http://23.237.10.66:16010
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVB翡翠台
-http://23.237.10.66:16106
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",无线新闻台
-http://23.237.10.66:16110
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",台视HD
-http://23.237.10.66:16344
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中天新闻
-http://23.237.10.66:16372
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",无线新闻台
-http://shazui.8866.org:800/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",无线财经台
-http://shazui.8866.org:800/hls/83/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台
-http://shazui.8866.org:800/hls/80/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",无线pear
-http://shazui.8866.org:800/hls/84/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ViuTV6
-http://shazui.8866.org:800/hls/85/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ViuTV
-http://shazui.8866.org:800/hls/86/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK33
-http://shazui.8866.org:800/hls/91/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK31
-http://shazui.8866.org:800/hls/89/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32
-http://shazui.8866.org:800/hls/90/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="市级频道",阜阳都市
 http://192.168.123.1:4200/udp/238.1.78.127:6888
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="市级频道",阜阳公共
