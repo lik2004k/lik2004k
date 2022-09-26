@@ -319,22 +319,6 @@ http://23.237.10.66:16342
 http://23.237.10.66:16334
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中天综合HD
 http://23.237.10.66:16372
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",无线财经台
-http://radius.8866.org:800/hls/83/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台
-http://radius.8866.org:800/hls/80/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",无线pear
-http://radius.8866.org:800/hls/84/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ViuTV6
-http://radius.8866.org:800/hls/85/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ViuTV
-http://radius.8866.org:800/hls/86/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK33
-http://radius.8866.org:800/hls/91/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK31
-http://radius.8866.org:800/hls/89/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32
-http://radius.8866.org:800/hls/90/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="市级频道",阜阳都市
 http://192.168.123.1:4200/udp/238.1.78.127:6888
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="市级频道",阜阳公共
