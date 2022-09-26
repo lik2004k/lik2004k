@@ -39,7 +39,7 @@ http://192.168.123.1:4200/udp/238.1.79.68:4680
 http://192.168.123.1:4200/udp/238.1.78.178:7296
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV电视指南
 http://192.168.123.1:4200/udp/238.1.79.53:4560
-#EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="央视",央视文化精品
+#EXTINF:-1 tvg-id="94" tvg-name="央视文化精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="央视",央视文化精品
 http://192.168.123.1:4200/udp/238.1.79.54:4568
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视",女性时尚
 http://192.168.123.1:4200/udp/238.1.79.55:4576
@@ -61,7 +61,7 @@ http://192.168.123.1:4200/udp/238.1.79.64:4648
 http://192.168.123.1:4200/udp/238.1.79.58:4600
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视",央视台球
 http://192.168.123.1:4200/udp/238.1.79.59:4608
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="央视",爱上4K
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="安徽省内台",爱上4K
 http://192.168.123.1:4200/udp/238.1.78.23:6112
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="央视",CETV-1
 http://192.168.123.1:4200/udp/238.1.78.158:7136
@@ -117,21 +117,21 @@ http://192.168.123.1:4200/udp/238.1.81.8:8028
 http://192.168.123.1:4200/udp/238.1.81.9:8032
 #EXTINF:-1 tvg-id="40" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://192.168.123.1:4200/udp/238.1.81.10:8036
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",动漫秀场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安徽省内台",动漫秀场
 http://192.168.123.1:4200/udp/238.1.78.154:7104
-#EXTINF:-1 tvg-id="茶" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="央视",茶(付费)
+#EXTINF:-1 tvg-id="" tvg-name="茶" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="安徽省内台",茶(付费)
 http://192.168.123.1:4200/udp/238.1.79.30:4352
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",中甲联赛
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安徽省内台",中甲联赛
 http://192.168.123.1:4200/udp/238.1.79.39:4424
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="央视",生活时尚
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="安徽省内台",生活时尚
 http://192.168.123.1:4200/udp/238.1.78.155:7112
-#EXTINF:-1 tvg-id="1988" tvg-name="央视纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="央视",纪实人文
+#EXTINF:-1 tvg-id="1988" tvg-name="央视纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="安徽省内台",纪实人文
 http://192.168.123.1:4200/udp/238.1.78.153:7096
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="央视",金鹰纪实
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="安徽省内台",金鹰纪实
 http://192.168.123.1:4200/udp/238.1.79.9:4184
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="央视",全纪实
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="安徽省内台",全纪实
 http://192.168.123.1:4200/udp/238.1.78.151:7080
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="央视",快乐垂钓(付费)
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="安徽省内台",快乐垂钓(付费)
 http://192.168.123.1:4200/udp/238.1.79.31:4360
 #EXTINF:-1 tvg-id="6595" tvg-name="欢笑4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="安徽省台",欢笑4K
 http://192.168.123.1:4200/udp/238.1.79.67:4672
@@ -257,7 +257,7 @@ http://[2409:8c02:21c:60::6b]/live.rxip.sc96655.com/live/test2_4000.m3u8
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227226/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
+#EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
 http://223.17.122.230:9981/stream/channelid/1847209808?ticket=3c53b520f7ae8e8d804712782f6ad89c82688c44&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",开电视HD
 http://223.17.122.230:9981/stream/channelid/1238433746?ticket=5c55d8d7cff49bc5c6479d604d3b077081920138&profile=pass
@@ -269,11 +269,11 @@ http://218.93.208.119:54799/hk/index.php?id=11
 http://218.93.208.119:54799/hk/index.php?id=12
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ViuTV HD
 http://218.93.208.119:54799/hk/index.php?id=13
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
+#EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
 http://218.93.208.119:54799/hk/index.php?id=1
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
+#EXTINF:-1 tvg-id="236" tvg-name="无线新闻" tvg-logo=""港澳台",无线新闻台
 http://218.93.208.119:54799/hk/index.php?id=15
-#EXTINF:-1 tvg-id="130" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线财经台
+#EXTINF:-1 tvg-id="237" tvg-name="无线财经" tvg-logo="" group-title="港澳台",无线财经台
 http://218.93.208.119:54799/hk/index.php?id=14
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",8频道
 http://23.237.10.66:16150
@@ -301,9 +301,9 @@ https://api.leonardpark.dev/live/icable/108
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",卫视电影台
 http://23.237.10.66:16010
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
+#EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
 http://23.237.10.66:16106
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",无线新闻台
+#EXTINF:-1 tvg-id="236" tvg-name="" tvg-logo="" group-title="港澳台",无线新闻台
 http://23.237.10.66:16110
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVBJ
 http://23.237.10.66:16410
@@ -585,7 +585,7 @@ http://192.168.123.1:4200/udp/238.1.78.4:7936
 http://192.168.123.1:4200/udp/238.1.78.248:7856
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="专业频道",IPTV8+
 http://192.168.123.1:4200/udp/238.1.78.249:7864
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHP代理",翡翠台
+#EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="PHP代理",翡翠台
 http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHP代理",凤凰中文
 http://wxwxw.qwl1965.top:8890/tbs.php?tid=gt&id=1
