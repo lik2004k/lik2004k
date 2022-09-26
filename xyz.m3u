@@ -275,8 +275,8 @@ http://218.93.208.119:54799/hk/index.php?id=1
 http://218.93.208.119:54799/hk/index.php?id=15
 #EXTINF:-1 tvg-id="130" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线财经台
 http://218.93.208.119:54799/hk/index.php?id=14
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",无线新闻台1080（迟）
-http://radius.8866.org:800/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",8频道
+http://23.237.10.66:16150
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW体育
 http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
@@ -301,13 +301,23 @@ https://api.leonardpark.dev/live/icable/108
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",卫视电影台
 http://23.237.10.66:16010
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVB翡翠台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
 http://23.237.10.66:16106
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",无线新闻台
 http://23.237.10.66:16110
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVBJ
+http://23.237.10.66:16410
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ASTRO AOD
+http://23.237.10.66:16419
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ASTRO 双星
+http://23.237.10.66:16495
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",台视HD
 http://23.237.10.66:16344
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中天新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",三立新闻
+http://23.237.10.66:16342
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",民视HD
+http://23.237.10.66:16334
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中天综合HD
 http://23.237.10.66:16372
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",无线财经台
 http://radius.8866.org:800/hls/83/index.m3u8
