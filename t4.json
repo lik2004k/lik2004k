@@ -743,7 +743,7 @@
    "key": "t4影音",
    "name": "T4影音",
    "type": 4,
-   "api": "http://152.67.210.160:8080/vod?sites=all&ali_token=ab06c90c10e64263803aeb6623dfdf4c&timeout=10",
+   "api": "http://152.67.210.160:8010/vod?sites=all&ali_token=ab06c90c10e64263803aeb6623dfdf4c&timeout=10",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
