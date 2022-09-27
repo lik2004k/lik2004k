@@ -1,10 +1,10 @@
-﻿{
+{
     "sites":[
         {
             "key":"T4影音",
             "name":"T4影音",
             "type":4,
-            "api":"http://152.67.210.160:8010/vod?sites=all&ali_token=85ebf88ea36342e9aa4c700c12d1221d&timeout=10",
+            "api":"http://125.65.210.160:8010/vod?sites=all&ali_token=8521d&timeout=10",
             "searchable":1,
             "quickSearch":1,
             "filterable":0
