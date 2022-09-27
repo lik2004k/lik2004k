@@ -61,8 +61,6 @@ http://192.168.123.1:4200/udp/238.1.79.64:4648
 http://192.168.123.1:4200/udp/238.1.79.58:4600
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="央视",央视台球
 http://192.168.123.1:4200/udp/238.1.79.59:4608
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="安徽省内台",爱上4K
-http://192.168.123.1:4200/udp/238.1.78.23:6112
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="央视",CETV-1
 http://192.168.123.1:4200/udp/238.1.78.158:7136
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
@@ -117,34 +115,16 @@ http://192.168.123.1:4200/udp/238.1.81.8:8028
 http://192.168.123.1:4200/udp/238.1.81.9:8032
 #EXTINF:-1 tvg-id="40" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://192.168.123.1:4200/udp/238.1.81.10:8036
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安徽省内台",动漫秀场
-http://192.168.123.1:4200/udp/238.1.78.154:7104
-#EXTINF:-1 tvg-id="" tvg-name="茶" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="安徽省内台",茶(付费)
-http://192.168.123.1:4200/udp/238.1.79.30:4352
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安徽省内台",中甲联赛
-http://192.168.123.1:4200/udp/238.1.79.39:4424
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="安徽省内台",生活时尚
-http://192.168.123.1:4200/udp/238.1.78.155:7112
-#EXTINF:-1 tvg-id="1988" tvg-name="央视纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="安徽省内台",纪实人文
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="安徽省台",爱上4K
+http://192.168.123.1:4200/udp/238.1.78.23:6112
+#EXTINF:-1 tvg-id="1988" tvg-name="央视纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="安徽省台",纪实人文
 http://192.168.123.1:4200/udp/238.1.78.153:7096
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="安徽省内台",金鹰纪实
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="安徽省台",金鹰纪实
 http://192.168.123.1:4200/udp/238.1.79.9:4184
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="安徽省内台",全纪实
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="安徽省台",全纪实
 http://192.168.123.1:4200/udp/238.1.78.151:7080
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="安徽省内台",快乐垂钓(付费)
-http://192.168.123.1:4200/udp/238.1.79.31:4360
 #EXTINF:-1 tvg-id="6595" tvg-name="欢笑4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="安徽省台",欢笑4K
 http://192.168.123.1:4200/udp/238.1.79.67:4672
-#EXTINF:-1 tvg-id="6595" tvg-name="乐游" tvg-logo="" group-title="安徽省台", 乐游
-http://192.168.123.1:4200/udp/238.1.78.151:7080
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安徽省台",陶瓷
-http://192.168.123.1:4200/udp/238.1.78.157:7128
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安徽省台",体育赛事(付费)
-http://192.168.123.1:4200/udp/238.1.78.33:6192
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安徽省台",足球频道
-http://192.168.123.1:4200/udp/238.1.78.250:7872
-#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="安徽省台",IPTV5+
-http://192.168.123.1:4200/udp/238.1.78.238:7776
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="安徽省台",安徽卫视
 http://192.168.123.1:4200/udp/238.1.78.150:7072
 #EXTINF:-1 tvg-id="" tvg-name="安徽公共" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="安徽省台",安徽公共
@@ -171,6 +151,24 @@ http://192.168.123.1:4200/udp/238.1.79.34:4384
 http://192.168.123.1:4200/udp/238.1.78.111:6760
 #EXTINF:-1 tvg-id="" tvg-name="爱生活" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="安徽省台",爱生活
 http://192.168.123.1:4200/udp/238.1.78.17:4040
+#EXTINF:-1 tvg-id="6595" tvg-name="乐游" tvg-logo="" group-title="安徽省台", 乐游
+http://192.168.123.1:4200/udp/238.1.78.151:7080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安徽省台",动漫秀场
+http://192.168.123.1:4200/udp/238.1.78.154:7104
+#EXTINF:-1 tvg-id="" tvg-name="茶" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="安徽省台",茶(付费)
+http://192.168.123.1:4200/udp/238.1.79.30:4352
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="安徽省台",生活时尚
+http://192.168.123.1:4200/udp/238.1.78.155:7112
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="安徽省台",快乐垂钓(付费)
+http://192.168.123.1:4200/udp/238.1.79.31:4360
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安徽省台",陶瓷
+http://192.168.123.1:4200/udp/238.1.78.157:7128
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安徽省台",体育赛事(付费)
+http://192.168.123.1:4200/udp/238.1.78.33:6192
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="安徽省台",足球频道
+http://192.168.123.1:4200/udp/238.1.78.250:7872
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="安徽省台",IPTV5+
+http://192.168.123.1:4200/udp/238.1.78.238:7776
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="81IPTV",CCTV-1HD
 http://192.168.123.1:4200/udp/238.1.81.14:8052
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="81IPTV",CCTV2HD
