@@ -1,0 +1,13 @@
+{
+    "sites":[
+        {
+            "key":"t4影音",
+            "name":"T4影音",
+            "type":4,
+            "api":"http://[ip]:[port]/vod?sites=all&ali_token=3xx9cfxxxx509bxx&timeout=5",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+        }
+    ]
+}
