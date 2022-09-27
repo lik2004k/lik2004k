@@ -1,9 +1,11 @@
 {
-   "key": "t4",
-   "name": "T4影音",
-   "type": 4,
-   "api": "http://152.67.210.160:8080/vod?sites=all&ali_token=ab06c90c10e64263803aeb6623dfdf4c&timeout=10",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  }
+    "sites": [
+        {
+            "key": "T4影音",
+            "type": 4,
+            "api": "T4影音",
+            "ext": "http://152.67.210.160:8080/vod?sites=all&ali_token=ab06c90c10e64263803aeb6623dfdf4c&timeout=10",
+            "plugin": "https://github.com/lik2004k/lik2004k/blob/main/custom_spider.jar"
+        }
+    ]
+}
