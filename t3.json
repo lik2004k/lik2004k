@@ -1,0 +1,10 @@
+{
+            "key": "T4",
+            "name": "📡T4_2",
+            "type": 4,
+            "api": " http://43.139.29.179:8080/vod?sites=all&ali_token=阿里token&timeout=10",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar":"https://神器每日推送.tk/jar;md5;3550969fb9a34fa1136d98c3e33f03a1"
+        }
