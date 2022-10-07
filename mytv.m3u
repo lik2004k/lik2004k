@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
+http://223.17.122.230:9981/stream/channelid/1847209808?ticket=3c53b520f7ae8e8d804712782f6ad89c82688c44&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",开电视HD
+http://223.17.122.230:9981/stream/channelid/1238433746?ticket=5c55d8d7cff49bc5c6479d604d3b077081920138&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32HD
+https://epg.pm/stream/cb4e8d8c7964dbf1a8a5f8d2fea27decde933dc7ab8b11c3cc3038b52c20f677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK31
+http://218.93.208.119:54799/hk/index.php?id=11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32
+http://218.93.208.119:54799/hk/index.php?id=12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ViuTV HD
+http://218.93.208.119:54799/hk/index.php?id=13
+#EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
+http://218.93.208.119:54799/hk/index.php?id=1
+#EXTINF:-1 tvg-id="236" tvg-name="无线新闻" tvg-logo="" group-title="港澳台",无线新闻台
+http://218.93.208.119:54799/hk/index.php?id=15
+#EXTINF:-1 tvg-id="237" tvg-name="无线财经" tvg-logo="" group-title="港澳台",无线财经台
+http://218.93.208.119:54799/hk/index.php?id=14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",8频道
+http://23.237.10.66:16150
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW体育
+http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
+https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW直播
+http://livetv.dnsfor.me/channel.3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",开电视720P
+http://218.93.208.119:54799/hk/index.php?id=16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线18台
+http://218.93.208.119:54799/hk/index.php?id=17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线财经
+http://218.93.208.119:54799/hk/index.php?id=18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线体育
+http://218.93.208.119:54799/hk/index.php?id=19
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线新闻
+http://218.93.208.119:54799/hk/index.php?id=20
+#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台",有线财经资讯台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",卫视电影台
+http://23.237.10.66:16010
+#EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
+http://23.237.10.66:16106
+#EXTINF:-1 tvg-id="236" tvg-name="" tvg-logo="" group-title="港澳台",无线新闻台
+http://23.237.10.66:16110
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVBJ
+http://23.237.10.66:16410
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ASTRO AOD
+http://23.237.10.66:16419
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ASTRO 双星
+http://23.237.10.66:16495
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",台视HD
+http://23.237.10.66:16344
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",三立新闻
+http://23.237.10.66:16342
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",民视HD
+http://23.237.10.66:16334
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中天综合HD
+http://23.237.10.66:16372
