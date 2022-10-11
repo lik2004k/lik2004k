@@ -1,16 +1,34 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://[2409:8c02:21c:60::6b]/live.rxip.sc96655.com/live/test1_4000.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-http://[2409:8c02:21c:60::6b]/live.rxip.sc96655.com/live/test2_4000.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227226/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1,RTHK31[1920*1080]
+http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+#EXTINF:-1,RTHK34[1920*1080]
+http://185.207.176.189:8080/channels/tv-34/playlist.m3u8
+#EXTINF:-1,RTHK32[1920*1080]
+http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+#EXTINF:-1,RTHK33[1920*1080]
+http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+#EXTINF:-1,J2台[1920*1080]
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+#EXTINF:-1,翡翠台[1920*1080]
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+#EXTINF:-1,无线新闻台[1920*1080]
+http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+#EXTINF:-1,明珠台[1920*1080]
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+#EXTINF:-1,无线财经台[1920*1080]
+http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+#EXTINF:-1,Viutv6[1920*1080]
+http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+#EXTINF:-1,Viutv[1920*1080]
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 #EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
 http://223.17.122.230:9981/stream/channelid/1847209808?ticket=3c53b520f7ae8e8d804712782f6ad89c82688c44&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",开电视HD
@@ -19,7 +37,7 @@ http://223.17.122.230:9981/stream/channelid/1238433746?ticket=5c55d8d7cff49bc5c6
 http://livetv.dnsfor.me:80/channel.1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32HD
 http://livetv.dnsfor.me:80/channel.2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",开电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线新闻
 http://livetv.dnsfor.me:80/channel.5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK31
 http://218.93.208.119:54799/hk/index.php?id=11
@@ -33,8 +51,10 @@ http://218.93.208.119:54799/hk/index.php?id=1
 http://218.93.208.119:54799/hk/index.php?id=15
 #EXTINF:-1 tvg-id="237" tvg-name="无线财经" tvg-logo="" group-title="港澳台",无线财经台
 http://218.93.208.119:54799/hk/index.php?id=14
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",8频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",新加坡8频道
 http://23.237.10.66:16150
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",马来8频道
+http://51.79.82.208:16005
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW体育
 http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
@@ -44,7 +64,7 @@ https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=332
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW直播
 http://livetv.dnsfor.me/channel.3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",开电视720P
-http://218.93.208.119:54799/hk/index.php?id=16
+http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线18台
 http://218.93.208.119:54799/hk/index.php?id=17
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线财经
@@ -77,3 +97,4 @@ http://23.237.10.66:16342
 http://23.237.10.66:16334
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中天综合HD
 http://23.237.10.66:16372
+
