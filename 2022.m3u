@@ -155,18 +155,6 @@ http://livetv.dnsfor.me:80/channel.1.m3u8
 http://livetv.dnsfor.me:80/channel.2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线新闻
 http://livetv.dnsfor.me:80/channel.5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK31
-http://218.93.208.119:54799/hk/index.php?id=11
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32
-http://218.93.208.119:54799/hk/index.php?id=12
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ViuTV HD
-http://218.93.208.119:54799/hk/index.php?id=13
-#EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
-http://218.93.208.119:54799/hk/index.php?id=1
-#EXTINF:-1 tvg-id="236" tvg-name="无线新闻" tvg-logo="" group-title="港澳台",无线新闻台
-http://218.93.208.119:54799/hk/index.php?id=15
-#EXTINF:-1 tvg-id="237" tvg-name="无线财经" tvg-logo="" group-title="港澳台",无线财经台
-http://218.93.208.119:54799/hk/index.php?id=14
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",新加坡8频道
 http://23.237.10.66:16150
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",马来8频道
@@ -175,20 +163,10 @@ http://51.79.82.208:16005
 http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
 http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
-https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=332
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW直播
 http://livetv.dnsfor.me/channel.3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",开电视720P
 http://livetv.dnsfor.me:80/channel.9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线18台
-http://218.93.208.119:54799/hk/index.php?id=17
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线财经
-http://218.93.208.119:54799/hk/index.php?id=18
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线体育
-http://218.93.208.119:54799/hk/index.php?id=19
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线新闻
-http://218.93.208.119:54799/hk/index.php?id=20
 #EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台",有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
