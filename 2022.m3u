@@ -173,6 +173,8 @@ https://api.leonardpark.dev/live/icable/108
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",卫视电影台
 http://23.237.10.66:16010
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",天映电影
+http://51.79.82.208:16024
 #EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
 http://23.237.10.66:16106
 #EXTINF:-1 tvg-id="236" tvg-name="" tvg-logo="" group-title="港澳台",无线新闻台
@@ -180,7 +182,7 @@ http://23.237.10.66:16110
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVBJ
 http://23.237.10.66:16410
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ASTRO 双星
-http://23.237.10.66:16495
+http://51.79.82.208:16021
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",台视HD
 http://23.237.10.66:16344
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",三立新闻
