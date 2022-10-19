@@ -171,6 +171,14 @@ http://livetv.dnsfor.me:80/channel.9.m3u8
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ViuTV
+http://206.221.176.47:64030
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",经典台
+http://206.221.176.47:64002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",开电视
+http://206.221.176.47:64002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",卫视中文台
+http://206.221.176.47:64033
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",卫视电影台
 http://23.237.10.66:16010
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",天映电影
