@@ -31,10 +31,10 @@ http://192.168.123.1:4200/udp/238.1.79.35:4392
 http://192.168.123.1:4200/udp/238.1.78.243:7816
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
 http://192.168.123.1:4200/udp/238.1.78.222:7648
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥运
-http://192.168.123.1:4200/udp/238.1.79.10:4192
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-4k
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.js.chinamobile.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16-4k" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥运4K
-http://192.168.123.1:4200/udp/238.1.79.68:4680
+http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
 http://192.168.123.1:4200/udp/238.1.78.178:7296
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV电视指南
