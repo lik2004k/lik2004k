@@ -63,6 +63,16 @@ http://192.168.123.1:4200/udp/238.1.79.58:4600
 http://192.168.123.1:4200/udp/238.1.79.59:4608
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="央视",CETV-1
 http://192.168.123.1:4200/udp/238.1.78.158:7136
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",广东体育
+http://118.31.113.130:82/gudou.php?id=gdsportsHD_7000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",上海体育
+http://[2409:8c20:9c71:120::34]/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",北京体育
+http://111.20.33.69/PLTV/88888893/224/3221226232/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育频道",CCTV-5体育
+http://192.168.123.1:4200/udp/238.1.78.171:7240
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育频道",CCTV-5+体育赛事
+http://192.168.123.1:4200/udp/238.1.78.237:7768
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://192.168.123.1:4200/udp/238.1.79.27:4328
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
