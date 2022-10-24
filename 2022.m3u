@@ -35,7 +35,7 @@ http://192.168.123.1:4200/udp/238.1.78.222:7648
 http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
 http://192.168.123.1:4200/udp/238.1.78.178:7296
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-4k
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV-4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-4k
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.js.chinamobile.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CNC" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CNC
 http://[2409:8087:3800:20:1000::802]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225694/index.m3u8
