@@ -39,6 +39,12 @@ http://192.168.123.1:4200/udp/238.1.78.178:7296
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.js.chinamobile.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CNC" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CNC
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CHC动作电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$1080p8mipv6
+#EXTINF:-1 tvg-id="17" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CHC家庭电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$1080p8mipv6
+#EXTINF:-1 tvg-id="17" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CHC高清电影
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$1080p8mipv6
 #EXTINF:-1 tvg-id="9" tvg-name="电视指南" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",电视指南
 http://192.168.123.1:4200/udp/238.1.79.53:4560
 #EXTINF:-1 tvg-id="94" tvg-name="央视文化精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="央视",央视文化精品
