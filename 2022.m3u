@@ -150,10 +150,14 @@ http://23.237.10.66:16106
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",开电视
 http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1 tvg-id="236" tvg-name="无线新闻台" tvg-logo="" group-title="港澳台",无线新闻台
-http://tv.ldlive.xyz/tv/tvb.php?id=1&hq
-#EXTINF:-1 tvg-id="236" tvg-name="无线财经台" tvg-logo="" group-title="港澳台",无线财经台
 http://tv.ldlive.xyz/tv/tvb.php?id=0&hq
-#EXTINF:-1 tvg-id="236" tvg-name="" tvg-logo="" group-title="港澳台",无线新闻台
+#EXTINF:-1 tvg-id="236" tvg-name="无线新闻台" tvg-logo="" group-title="港澳台",无线新闻台
+http://tv.ldlive.xyz/tv/tvb.php?id=1&hq
+#EXTINF:-1 tvg-id="237" tvg-name="无线财经台" tvg-logo="" group-title="港澳台",无线财经台
+http://tv.ldlive.xyz/tv/tvb.php?id=3&hq
+#EXTINF:-1 tvg-id="237" tvg-name="无线财经台" tvg-logo="" group-title="港澳台",无线财经台
+http://tv.ldlive.xyz/tv/tvb.php?id=4&hq
+#EXTINF:-1 tvg-id="237" tvg-name="" tvg-logo="" group-title="港澳台",无线新闻台
 http://23.237.10.66:16110
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线新闻
 http://livetv.dnsfor.me:80/channel.5.m3u8
