@@ -76,7 +76,7 @@ http://118.31.113.130:82/gudou.php?id=gdsportsHD_7000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",上海体育
 http://[2409:8c20:9c71:120::34]/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",北京体育
-http://111.20.33.69/PLTV/88888893/224/3221226232/index.m3u8
+http://yfsl.vsd.gehua.net.cn/live/BTVjishiHD_6000.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育频道",CCTV-5体育
 http://192.168.123.1:4200/udp/238.1.78.171:7240
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育频道",CCTV-5+体育赛事
