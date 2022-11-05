@@ -152,7 +152,7 @@ http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1 tvg-id="236" tvg-name="无线新闻台" tvg-logo="" group-title="港澳台",无线新闻台
 http://tv.ldlive.xyz/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="236" tvg-name="无线新闻台" tvg-logo="" group-title="港澳台",无线新闻台
-http://tv.ldlive.xyz/tv/tvb.php?id=1&hq
+http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=9
 #EXTINF:-1 tvg-id="237" tvg-name="无线财经台" tvg-logo="" group-title="港澳台",无线财经台
 http://tv.ldlive.xyz/tv/tvb.php?id=3&hq
 #EXTINF:-1 tvg-id="237" tvg-name="无线财经台" tvg-logo="" group-title="港澳台",无线财经台
@@ -174,7 +174,7 @@ http://livetv.dnsfor.me/channel.3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVBJ
 http://23.237.10.66:16410
 #EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
-http://223.17.122.230:9981/stream/channelid/1847209808?ticket=3c53b520f7ae8e8d804712782f6ad89c82688c44&profile=pass
+http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK31HD
 http://livetv.dnsfor.me:80/channel.1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32HD
