@@ -157,10 +157,10 @@ http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
 http://hg.lik2004k.ml/xg.php?id=0&hq
 #EXTINF:-1 tvg-id="237" tvg-name="无线财经台" tvg-logo="" group-title="港澳台",无线财经台
 http://hg.lik2004k.ml/xg.php?id=2&hq
-#EXTINF:-1 tvg-id="237" tvg-name="无线直播台1" tvg-logo="" group-title="港澳台",无线直播台1
-http://hg.lik2004k.ml/xg.php?id=4&hq
-#EXTINF:-1 tvg-id="237" tvg-name="无线直播台2" tvg-logo="" group-title="港澳台",无线直播台2
-http://hg.lik2004k.ml/xg.php?id=6&hq
+#EXTINF:-1 tvg-id="237" tvg-name="无线新闻" tvg-logo="" group-title="港澳台",无线新闻
+http://hg.lik2004k.ml/live.php?id=1
+#EXTINF:-1 tvg-id="237" tvg-name="无线财经" tvg-logo="" group-title="港澳台",无线财经
+http://hg.lik2004k.ml/live.php?id=2
 #EXTINF:-1 tvg-id="237" tvg-name="" tvg-logo="" group-title="港澳台",无线新闻台
 http://23.237.10.66:16110
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线新闻
