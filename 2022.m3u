@@ -178,7 +178,9 @@ http://livetv.dnsfor.me/channel.3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVBJ
 http://23.237.10.66:16410
 #EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
-http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=1
+http://223.17.122.230:9981/stream/channelid/2119115367?ticket=bb3cb24126a9d99588a9776ff6852184ac431db1&profile=pass
+#EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",明珠台HD
+http://223.17.122.230:9981/stream/channelid/2119115367?ticket=bb3cb24126a9d99588a9776ff6852184ac431db1&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK31HD
 http://livetv.dnsfor.me:80/channel.1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32HD
