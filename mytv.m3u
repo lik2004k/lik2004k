@@ -1,100 +1,113 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227226/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1,RTHK31[1920*1080]
-http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-#EXTINF:-1,RTHK34[1920*1080]
-http://185.207.176.189:8080/channels/tv-34/playlist.m3u8
-#EXTINF:-1,RTHK32[1920*1080]
-http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-#EXTINF:-1,RTHK33[1920*1080]
-http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-#EXTINF:-1,J2台[1920*1080]
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-#EXTINF:-1,翡翠台[1920*1080]
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-#EXTINF:-1,无线新闻台[1920*1080]
-http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-#EXTINF:-1,明珠台[1920*1080]
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-#EXTINF:-1,无线财经台[1920*1080]
-http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-#EXTINF:-1,Viutv6[1920*1080]
-http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-#EXTINF:-1,Viutv[1920*1080]
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-#EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
-http://223.17.122.230:9981/stream/channelid/1847209808?ticket=3c53b520f7ae8e8d804712782f6ad89c82688c44&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",开电视HD
-http://223.17.122.230:9981/stream/channelid/1238433746?ticket=5c55d8d7cff49bc5c6479d604d3b077081920138&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK31HD
-http://livetv.dnsfor.me:80/channel.1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32HD
-http://livetv.dnsfor.me:80/channel.2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线新闻
-http://livetv.dnsfor.me:80/channel.5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK31
-http://218.93.208.119:54799/hk/index.php?id=11
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32
-http://218.93.208.119:54799/hk/index.php?id=12
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ViuTV HD
-http://218.93.208.119:54799/hk/index.php?id=13
-#EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
-http://218.93.208.119:54799/hk/index.php?id=1
-#EXTINF:-1 tvg-id="236" tvg-name="无线新闻" tvg-logo="" group-title="港澳台",无线新闻台
-http://218.93.208.119:54799/hk/index.php?id=15
-#EXTINF:-1 tvg-id="237" tvg-name="无线财经" tvg-logo="" group-title="港澳台",无线财经台
-http://218.93.208.119:54799/hk/index.php?id=14
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",新加坡8频道
-http://23.237.10.66:16150
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",马来8频道
-http://51.79.82.208:16005
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW体育
-http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
-http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
-https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=332
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW直播
-http://livetv.dnsfor.me/channel.3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",开电视720P
-http://livetv.dnsfor.me:80/channel.9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线18台
-http://218.93.208.119:54799/hk/index.php?id=17
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线财经
-http://218.93.208.119:54799/hk/index.php?id=18
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线体育
-http://218.93.208.119:54799/hk/index.php?id=19
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线新闻
-http://218.93.208.119:54799/hk/index.php?id=20
-#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台",有线财经资讯台
-https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
-https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",卫视电影台
-http://23.237.10.66:16010
-#EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
-http://23.237.10.66:16106
-#EXTINF:-1 tvg-id="236" tvg-name="" tvg-logo="" group-title="港澳台",无线新闻台
-http://23.237.10.66:16110
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVBJ
-http://23.237.10.66:16410
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ASTRO AOD
-http://23.237.10.66:16419
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ASTRO 双星
-http://23.237.10.66:16495
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",台视HD
-http://23.237.10.66:16344
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",三立新闻
-http://23.237.10.66:16342
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",民视HD
-http://23.237.10.66:16334
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中天综合HD
-http://23.237.10.66:16372
-
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1,咪咕4K
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8?
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::149]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225769/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::91]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225774/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::134]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225777/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::136]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225780/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::82]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225783/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::87]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225786/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::99]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225789/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::72]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225792/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::87]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225793/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::152]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225796/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::146]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225799/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::152]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225802/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225805/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::74]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225808/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::136]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225811/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::136]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::84]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::84]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225820/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::a]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225834/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::74]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225837/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::137]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225839/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225840/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225843/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::141]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225845/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225846/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::141]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225848/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::142]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225849/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225850/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::82]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225851/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::149]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::80]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225853/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::147]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225854/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225855/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::142]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225856/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::122]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225857/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::145]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225858/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::149]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225859/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::122]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225860/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225861/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::143]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225862/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225865/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225871/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::138]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225891/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225893/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::134]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225896/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::134]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225899/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::144]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225902/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225905/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::144]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225908/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225914/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::148]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
+#EXTINF:-1,咪咕视频 4M1080
+http://[2409:8087:5c00:10:5::156]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225920/index.m3u8
+#EXTINF:-1,咪咕视频 8M1080
+http://[2409:8087:5c00:10:5::154]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
+#EXTINF:-1,咪咕视频 8M1080
+http://[2409:8087:5c00:10:5::138]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225959/index.m3u8
+#EXTINF:-1,咪咕视频 8M1080
+http://[2409:8087:5c00:10:5::139]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225935/index.m3u8
