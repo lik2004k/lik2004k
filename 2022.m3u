@@ -72,7 +72,7 @@ http://192.168.123.1:4200/udp/238.1.79.59:4608
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="央视",CETV-1
 http://192.168.123.1:4200/udp/238.1.78.158:7136
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",广东体育
-http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+http://99.sc1970.xyz:8888/iptv/GDH.php?id=gdsportsHD_7000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",上海体育
 http://[2409:8c20:9c71:120::34]/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",北京体育
