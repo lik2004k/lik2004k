@@ -247,33 +247,33 @@ http://192.168.123.1:4200/udp/238.1.81.9:8032
 http://192.168.123.1:4200/udp/238.1.81.10:8036
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225841/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 group-title="CDN频道",RTHK31
+#EXTINF:-1 tvg-id="431" tvg-name="RTHK31" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/rthk31.png" group-title="CDN",RTHK31
 https://cdn.hklive.tv/xxxx/31/index.m3u8
-#EXTINF:-1 group-title="CDN频道",RTHK32
+#EXTINF:-1 tvg-id="432" tvg-name="RTHK32" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/rthk32.png" group-title="CDN",RTHK32
 https://cdn.hklive.tv/xxxx/32/index.m3u8
-#EXTINF:-1 group-title="CDN频道",RTHK33
+#EXTINF:-1 tvg-id="433" tvg-name="RTHK33" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/rthk33.png" group-title="CDN",RTHK33
 https://cdn.hklive.tv/xxxx/33/index.m3u8
-#EXTINF:-1 group-title="CDN频道",RTHK34
+#EXTINF:-1 tvg-id="434" tvg-name="RTHK34" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/rthk34.png" group-title="CDN",RTHK34
 https://cdn.hklive.tv/xxxx/34/index.m3u8
-#EXTINF:-1 group-title="CDN频道",HOYTV
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",开电视
 https://cdn.hklive.tv/xxxx/77/index.m3u8
-#EXTINF:-1 group-title="CDN频道",国际财经台
+#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳台",香港国际财经台
 https://cdn.hklive.tv/xxxx/76/index.m3u8
-#EXTINF:-1 group-title="CDN频道",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 group-title="CDN频道",J2台
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台
 https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 group-title="CDN频道",无线新闻台
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
 https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 group-title="CDN频道",无线明珠台
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",无线明珠台
 https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 group-title="CDN频道",无线明珠台(粤)
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",无线明珠台(粤)
 https://cdn.hklive.tv/xxxx/84b/index.m3u8
-#EXTINF:-1 group-title="CDN频道",无线财经台
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经台
 https://cdn.hklive.tv/xxxx/85/index.m3u8
-#EXTINF:-1 group-title="CDN频道",Viutv
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",Viutv
 https://cdn.hklive.tv/xxxx/99/index.m3u8
-#EXTINF:-1 group-title="CDN频道",Viutv6
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",Viutv6
 https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
@@ -289,24 +289,28 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://23.237.10.66:16106
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",开电视
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",开电视
 http://livetv.dnsfor.me:80/channel.9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",开电视
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",开电视
 http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
-#EXTINF:-1 tvg-id="236" tvg-name="无线新闻台" tvg-logo="" group-title="港澳台",无线新闻台
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
 http://hg.lik2004k.ml/xg.php?id=0&hq
-#EXTINF:-1 tvg-id="237" tvg-name="无线财经台" tvg-logo="" group-title="港澳台",无线财经台
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经台
 http://hg.lik2004k.ml/xg.php?id=2&hq
-#EXTINF:-1 tvg-id="237" tvg-name="无线新闻" tvg-logo="" group-title="港澳台",无线新闻
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
 http://hg.lik2004k.ml/live.php?id=1
-#EXTINF:-1 tvg-id="237" tvg-name="无线财经" tvg-logo="" group-title="港澳台",无线财经
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经台
 http://hg.lik2004k.ml/live.php?id=2
-#EXTINF:-1 tvg-id="237" tvg-name="" tvg-logo="" group-title="港澳台",无线新闻台
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻台
 http://23.237.10.66:16110
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",有线新闻
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 http://livetv.dnsfor.me:80/channel.5.m3u8
+#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台",有线财经资讯台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
+https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",新加坡8频道
 http://23.237.10.66:16150
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",马来8频道
@@ -317,20 +321,16 @@ http://livetv.dnsfor.me:80/channel.12.m3u8
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW直播
 http://livetv.dnsfor.me/channel.3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVBJ
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台J" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台J
 http://23.237.10.66:16410
-#EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台HD
-http://223.17.122.230:9981/stream/channelid/2119115367?ticket=bb3cb24126a9d99588a9776ff6852184ac431db1&profile=pass
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+http://223.17.122.230:9981/stream/channelid/1847209808?ticket=3c53b520f7ae8e8d804712782f6ad89c82688c44&profile=pass
 #EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",明珠台HD
 http://223.17.122.230:9981/stream/channelid/2119115367?ticket=bb3cb24126a9d99588a9776ff6852184ac431db1&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK31HD
 http://livetv.dnsfor.me:80/channel.1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32HD
 http://livetv.dnsfor.me:80/channel.2.m3u8
-#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台",有线财经资讯台
-https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
-https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",卫视电影台
 http://23.237.10.66:16010
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",天映电影
