@@ -71,6 +71,8 @@ http://192.168.123.1:4200/udp/238.1.79.58:4600
 http://192.168.123.1:4200/udp/238.1.79.59:4608
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="央视",CETV-1
 http://192.168.123.1:4200/udp/238.1.78.158:7136
+#EXTINF:-1 tvg-id="5" tvg-name="北京纪实8K" tvg-logo="" group-title="体育频道",北京纪实8K
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",广东体育
 http://219.128.40.59:8888/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",上海体育
