@@ -247,6 +247,10 @@ http://192.168.123.1:4200/udp/238.1.81.9:8032
 http://192.168.123.1:4200/udp/238.1.81.10:8036
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225841/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 tvg-id="60" tvg-name="珠江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="卫视",珠江卫视
+http://219.128.40.59:8888/udp/239.77.0.1:5146
+#EXTINF:-1 tvg-id="60" tvg-name="大湾区卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",大湾区卫视
+http://219.128.40.59:8888/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="431" tvg-name="RTHK31" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/rthk31.png" group-title="CDN",RTHK31
 https://cdn.hklive.tv/xxxx/31/index.m3u8
 #EXTINF:-1 tvg-id="432" tvg-name="RTHK32" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/rthk32.png" group-title="CDN",RTHK32
