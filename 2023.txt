@@ -1,4 +1,4 @@
-央视频道,#genre#
+中央频道,#genre#
 CCTV-1综合,http://192.168.123.1:4200/udp/238.1.78.166:7200
 CCTV-2财经,http://192.168.123.1:4200/udp/238.1.78.235:7752
 CCTV-3综艺,http://192.168.123.1:4200/udp/238.1.78.170:7232
@@ -38,7 +38,7 @@ CETV-1,http://192.168.123.1:4200/udp/238.1.78.158:7136
 北京体育,http://yfsl.vsd.gehua.net.cn/live/BTVjishiHD_6000.m3u8
 CCTV-5体育,http://192.168.123.1:4200/udp/238.1.78.171:7240
 CCTV-5+体育赛事,http://192.168.123.1:4200/udp/238.1.78.237:7768
-卫视频道,#genre#
+省卫频道,#genre#
 安徽卫视,http://192.168.123.1:4200/udp/238.1.79.27:4328
 湖南卫视,http://192.168.123.1:4200/udp/238.1.78.160:7152
 江苏卫视,http://192.168.123.1:4200/udp/238.1.78.165:7192
@@ -84,7 +84,7 @@ J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
 无线财经台,https://cdn.hklive.tv/xxxx/85/index.m3u8
 Viutv,https://cdn.hklive.tv/xxxx/99/index.m3u8
 Viutv6,https://cdn.hklive.tv/xxxx/96/index.m3u8
-港台频道,#genre#
+港澳能频道,#genre#
 凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
@@ -131,7 +131,7 @@ J2台[1920*1080],http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 无线财经台[1920*1080],http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 Viutv6[1920*1080],http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 Viutv[1920*1080],http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-地市频道,#genre#
+地区频道,#genre#
 梨园频道,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
 爱上4K,http://192.168.123.1:4200/udp/238.1.78.23:6112
 纪实人文,http://192.168.123.1:4200/udp/238.1.78.153:7096
