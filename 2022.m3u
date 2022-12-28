@@ -210,7 +210,7 @@ https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",新加坡8频道
 http://23.237.10.66:16150
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",马来8频道
-http://51.79.82.208:16005
+http://23.237.10.66:16406
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW体育
 http://livetv.dnsfor.me:80/channel.12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
