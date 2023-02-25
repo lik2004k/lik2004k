@@ -176,13 +176,13 @@ http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",开电视
 http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="WXXW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",WXXW
-http://192.168.123.1/douyin.php?id=0&hq
+http://192.168.123.1:5678/douyin.php?id=0&hq
 #EXTINF:-1 tvg-id="133" tvg-name="WXCJ" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",WXCJ
-http://192.168.123.1/douyin.php?id=2&hq
+http://192.168.123.1:5678/douyin.php?id=2&hq
 #EXTINF:-1 tvg-id="130" tvg-name="WXZB1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",WXZB1
-http://192.168.123.1/douyin.php?id=4&hq
+http://192.168.123.1:5678/douyin.php?id=4&hq
 #EXTINF:-1 tvg-id="133" tvg-name="WXZB2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",WXZB2
-http://192.168.123.1/douyin.php?id=6&hq
+http://192.168.123.1:5678/douyin.php?id=6&hq
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 http://livetv.dnsfor.me:80/channel.5.m3u8
 #EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台",有线财经资讯台
