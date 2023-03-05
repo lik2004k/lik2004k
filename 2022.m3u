@@ -155,6 +155,14 @@ https://cdn.hklive.tv/xxxx/85/index.m3u8
 https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="CDN",Viutv6
 https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1,tvg-id="有线财经资讯台" tvg-name="有线财经资讯台" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png" group-title="CDN",有线财经资讯
+https://cdn.hklive.tv/xxxx/108/chunklist_w628376731.m3u8
+#EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="CDN",有线新闻台
+https://cdn.hklive.tv/xxxx/109/chunklist_w1556522207.m3u8
+#EXTINF:-1,tvg-id="有线直播新闻台" tvg-name="有线直播新闻台" tvg-logo="https://epg.112114.xyz/logo/有线直播新闻台.png" group-title="CDN",有线直播新闻台
+https://cdn.hklive.tv/xxxx/110/chunklist_w384046835.m3u8
+#EXTINF:-1,tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://epg.112114.xyz/logo/NOW新闻台.png" group-title="CDN",now新闻
+https://cdn.hklive.tv/xxxx/332/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227222/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
