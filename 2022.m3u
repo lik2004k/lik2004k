@@ -180,7 +180,7 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://23.237.10.66:16106
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",开电视
-http://livetv.dnsfor.me:80/channel.9.m3u8
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",开电视
 http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="WXXW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",WXXW
@@ -196,7 +196,7 @@ http://192.168.123.1:5678/tvb.php?id=1
 #EXTINF:-1 tvg-id="133" tvg-name="WXZB2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",WXCJ(news)
 http://192.168.123.1:5678/tvb.php?id=2
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
-http://livetv.dnsfor.me:80/channel.5.m3u8
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台",有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
@@ -214,9 +214,9 @@ http://livetv.dnsfor.me/channel.3.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台J" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台J
 http://23.237.10.66:16410
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://223.17.122.230:9981/stream/channelid/1847209808?ticket=3c53b520f7ae8e8d804712782f6ad89c82688c44&profile=pass
-#EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",明珠台HD
-http://223.17.122.230:9981/stream/channelid/2119115367?ticket=bb3cb24126a9d99588a9776ff6852184ac431db1&profile=pass
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台
+http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK31HD
 http://livetv.dnsfor.me:80/channel.1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32HD
