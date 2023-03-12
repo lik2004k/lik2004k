@@ -188,9 +188,9 @@ http://192.168.123.1:5678/xgwx.php?id=0&hq
 #EXTINF:-1 tvg-id="133" tvg-name="WXCJ" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",WXCJ
 http://192.168.123.1:5678/xgwx.php?id=2&hq
 #EXTINF:-1 tvg-id="130" tvg-name="WXZB1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",WXXW(720)
-http://192.168.123.1:5678/xg.php?id=0
+https://epg.pw/stream/8d5a7f09a87780b242828bd930419a73fb6f96aa45e3a2c0846108bcb2d10a6a.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="WXZB2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",WXCJ(720)
-http://192.168.123.1:5678/xg.php?id=2
+https://epg.pw/stream/02d2fa4c3b6e3b9cdcf7068b454c3891e54877272820a998e8739ff96ba1ddbe.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="WXZB1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",WXXW(news)
 http://192.168.123.1:5678/tvb.php?id=1
 #EXTINF:-1 tvg-id="133" tvg-name="WXZB2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",WXCJ(news)
