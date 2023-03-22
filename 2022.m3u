@@ -184,9 +184,9 @@ https://epg.pw/stream/e13281bc6346b3ce46f3130eac70c65a7108fd25f482f8439e63be58c0
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="WXXW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",WXXW
-http://192.168.123.1:5678/xgwx.php?id=0&hq
+http://103.68.63.37:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 #EXTINF:-1 tvg-id="133" tvg-name="WXCJ" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",WXCJ
-http://192.168.123.1:5678/xgwx.php?id=2&hq
+http://youguan.gq/4g.php?tid=gt&id=9&key=0f88a6016471b3caf108e206debc7f79
 #EXTINF:-1 tvg-id="130" tvg-name="WXZB1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",WXXW(720)
 https://epg.pw/stream/8d5a7f09a87780b242828bd930419a73fb6f96aa45e3a2c0846108bcb2d10a6a.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="WXZB2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",WXCJ(720)
