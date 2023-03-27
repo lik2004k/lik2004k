@@ -35,6 +35,10 @@ http://192.168.123.1:4200/udp/238.1.78.222:7648
 http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
 http://192.168.123.1:4200/udp/238.1.78.178:7296
+#EXTINF:-1 tvg-id="143" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CGTN.png" group-title="港澳台",CGTN
+http://171.110.62.59:8181/tsfile/live/1067_1.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="CGTN纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CGTN.png" group-title="港澳台",CGTN纪录
+http://171.110.62.59:8181/tsfile/live/1068_1.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV-4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-4k
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.js.chinamobile.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CNC" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CNC
@@ -162,13 +166,19 @@ https://cdn.hklive.tv/xxxx/109/chunklist_w1556522207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW新闻" tvg-logo="https://epg.112114.xyz/logo/now新闻台.png" group-title="CDN",NOW新闻
 https://cdn.hklive.tv/xxxx/332/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+http://171.110.62.59:8181/tsfile/live/1070_1.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+http://171.110.62.59:8181/tsfile/live/1069_1.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://[2409:8087:3869:8021:1001::e5]:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+http://171.110.62.59:8181/tsfile/live/1071_1.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 http://39.134.116.108:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
@@ -201,34 +211,24 @@ http://192.168.123.1:5678/tvb.php?id=2
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://23.237.10.66:16106
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",新加坡8频道
-http://23.237.10.66:16150
+#EXTINF:-1 tvg-id="143" tvg-name="高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gqdy.png" group-title="港澳台",高清电影台
+http://171.110.62.59:8181/tsfile/live/1074_1.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/dongsen.png" group-title="港澳台",东森电影台
+http://171.110.62.59:8181/tsfile/live/1075_1.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gqdy.png" group-title="港澳台",高清电影
+http://171.110.62.59:8181/tsfile/live/1076_1.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="龙祥电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/longxiang.png" group-title="港澳台",龙祥电影台
+http://171.110.62.59:8181/tsfile/live/1077_1.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/dongsen.png" group-title="港澳台",东森洋片台
+http://171.110.62.59:8181/tsfile/live/1133_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",马来8频道
 http://23.237.10.66:16406
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW体育
-http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW新闻
-http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NOW直播
-http://livetv.dnsfor.me/channel.3.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台J" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台J
 http://23.237.10.66:16410
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台
 http://r.jdshipin.com/qClQf
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK31HD
-http://livetv.dnsfor.me:80/channel.1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",RTHK32HD
-http://livetv.dnsfor.me:80/channel.2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",卫视电影台
-http://23.237.10.66:16010
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",天映电影
-http://51.79.82.208:16024
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ASTRO 双星
-http://51.79.82.208:16021
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",台视HD
 http://23.237.10.66:16344
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",三立新闻
@@ -237,10 +237,6 @@ http://23.237.10.66:16342
 http://23.237.10.66:16334
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中天综合HD
 http://23.237.10.66:16372
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HOY
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",HOY咨询台
-https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="安徽省台",梨园频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="安徽省台",爱上4K
