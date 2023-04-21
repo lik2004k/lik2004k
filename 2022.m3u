@@ -191,6 +191,8 @@ http://192.168.123.1:5678/hk.php?id=0&hq
 http://192.168.123.1:5678/hk.php?id=2&h
 #EXTINF:-1 tvg-id="130" tvg-name="WXXW1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",WXXW1
 http://162.19.247.76:22222/live/tvbnews/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="WXX2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",WXX2
+https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8?by=yeslivetv_comhttps://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台",有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
@@ -199,12 +201,6 @@ https://api.leonardpark.dev/live/icable/109
 http://23.237.10.66:16410
 #EXTINF:-1 tvg-id="233" tvg-name="" tvg-logo="" group-title="港澳台",翡翠台
 http://r.jdshipin.com/qClQf
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",台视HD
-http://23.237.10.66:16344
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",三立新闻
-http://23.237.10.66:16342
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",民视HD
-http://23.237.10.66:16334
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中天综合HD
 http://23.237.10.66:16372
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="安徽省台",梨园频道
