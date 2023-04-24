@@ -188,7 +188,7 @@ http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="WXXW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",WXXW
 http://192.168.123.1:5678/hk.php?id=0&hq
 #EXTINF:-1 tvg-id="133" tvg-name="WXCJ" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",WXCJ
-http://192.168.123.1:5678/hk.php?id=2&h
+http://192.168.123.1:5678/hk.php?id=2&hq
 #EXTINF:-1 tvg-id="130" tvg-name="WXXW1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",WXXW1
 http://162.19.247.76:22222/live/tvbnews/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="WXX2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",WXX2
