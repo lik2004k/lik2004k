@@ -1,0 +1,788 @@
+#EXTM3U
+#EXTINF:-1 group-title="高清央视",CCTV-1HD
+http://192.168.123.1:4200/rtp/238.1.78.166:7200
+#EXTINF:-1 group-title="高清央视",CCTV-1HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.14:8052
+#EXTINF:-1 group-title="高清央视",CCTV-2HD
+http://192.168.123.1:4200/rtp/238.1.78.235:7752
+#EXTINF:-1 group-title="高清央视",CCTV-2HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.29:8112
+#EXTINF:-1 group-title="高清央视",CCTV-3HD
+http://192.168.123.1:4200/rtp/238.1.78.170:7232
+#EXTINF:-1 group-title="高清央视",CCTV-4HD
+http://192.168.123.1:4200/rtp/238.1.78.236:7760
+#EXTINF:-1 group-title="高清央视",CCTV-5＋HD
+http://192.168.123.1:4200/rtp/238.1.78.237:7768
+#EXTINF:-1 group-title="高清央视",CCTV-5+HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.30:8116
+#EXTINF:-1 group-title="高清央视",CCTV-5HD
+http://192.168.123.1:4200/rtp/238.1.78.171:7240
+#EXTINF:-1 group-title="高清央视",CCTV-6HD
+http://192.168.123.1:4200/rtp/238.1.78.172:7248
+#EXTINF:-1 group-title="高清央视",CCTV-7HD
+http://192.168.123.1:4200/rtp/238.1.78.239:7784
+#EXTINF:-1 group-title="高清央视",CCTV-7HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.31:8120
+#EXTINF:-1 group-title="高清央视",CCTV-8HD
+http://192.168.123.1:4200/rtp/238.1.78.173:7256
+#EXTINF:-1 group-title="高清央视",CCTV-9HD
+http://192.168.123.1:4200/rtp/238.1.78.240:7792
+#EXTINF:-1 group-title="高清央视",CCTV-9HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.32:8124
+#EXTINF:-1 group-title="高清央视",CCTV-10HD
+http://192.168.123.1:4200/rtp/238.1.78.241:7800
+#EXTINF:-1 group-title="高清央视",CCTV-10HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.33:8128
+#EXTINF:-1 group-title="高清央视",CCTV-11HD
+http://192.168.123.1:4200/rtp/238.1.78.206:7502
+#EXTINF:-1 group-title="高清央视",CCTV-12HD
+http://192.168.123.1:4200/rtp/238.1.78.242:7808
+#EXTINF:-1 group-title="高清央视",CCTV-12HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.34:8132
+#EXTINF:-1 group-title="高清央视",CCTV-13HD
+http://192.168.123.1:4200/rtp/238.1.79.35:4392
+#EXTINF:-1 group-title="高清央视",CCTV-13HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.47:8184
+#EXTINF:-1 group-title="高清央视",CCTV-14HD
+http://192.168.123.1:4200/rtp/238.1.78.243:7816
+#EXTINF:-1 group-title="高清央视",CCTV-14HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.35:8136
+#EXTINF:-1 group-title="高清央视",CCTV-15HD
+http://192.168.123.1:4200/rtp/238.1.78.222:7648
+#EXTINF:-1 group-title="高清央视",CCTV-16奥运4K
+http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+#EXTINF:-1 group-title="高清央视",CCTV-17HD
+http://192.168.123.1:4200/rtp/238.1.78.178:7296
+#EXTINF:-1 group-title="高清央视",CCTV-17HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.37:8144
+#EXTINF:-1 group-title="高清央视",CCTV-4k
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.js.chinamobile.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 group-title="高清央视",CNC
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
+#EXTINF:-1 group-title="高清央视",CHC动作电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$1080p8mipv6
+#EXTINF:-1 group-title="高清央视",CHC家庭电影
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com$1080p8mipv6
+#EXTINF:-1 group-title="高清央视",CHC高清电影
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$1080p8mipv6
+#EXTINF:-1 group-title="高清央视",电视指南
+http://192.168.123.1:4200/udp/238.1.79.53:4560
+#EXTINF:-1 group-title="高清央视",高清央视文化精品
+http://192.168.123.1:4200/udp/238.1.79.54:4568
+#EXTINF:-1 group-title="高清央视",女性时尚
+http://192.168.123.1:4200/udp/238.1.79.55:4576
+#EXTINF:-1 group-title="高清央视",兵器科技
+http://192.168.123.1:4200/udp/238.1.79.56:4584
+#EXTINF:-1 group-title="高清央视",风云足球
+http://192.168.123.1:4200/udp/238.1.79.57:4592
+#EXTINF:-1 group-title="高清央视",世界地理
+http://192.168.123.1:4200/udp/238.1.79.60:4616
+#EXTINF:-1 group-title="高清央视",怀旧剧场
+http://192.168.123.1:4200/udp/238.1.79.61:4624
+#EXTINF:-1 group-title="高清央视",风云剧场
+http://192.168.123.1:4200/udp/238.1.79.62:4632
+#EXTINF:-1 group-title="高清央视",第一剧场
+http://192.168.123.1:4200/udp/238.1.79.63:4640
+#EXTINF:-1 group-title="高清央视",风云音乐
+http://192.168.123.1:4200/udp/238.1.79.64:4648
+#EXTINF:-1 group-title="高清央视",高尔夫网球
+http://192.168.123.1:4200/udp/238.1.79.58:4600
+#EXTINF:-1 group-title="高清央视",高清央视台球
+http://192.168.123.1:4200/udp/238.1.79.59:4608
+#EXTINF:-1 group-title="高清央视",CETV-1
+http://192.168.123.1:4200/udp/238.1.78.158:7136
+#EXTINF:-1 group-title="高清卫视",北京卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.162:7168
+#EXTINF:-1 group-title="高清卫视",北京卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.43:8168
+#EXTINF:-1 group-title="高清卫视",湖南卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.160:7152
+#EXTINF:-1 group-title="高清卫视",湖南卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.42:8164
+#EXTINF:-1 group-title="高清卫视",东方卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.163:7176
+#EXTINF:-1 group-title="高清卫视",东方卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.44:8172
+#EXTINF:-1 group-title="高清卫视",浙江卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.164:7184
+#EXTINF:-1 group-title="高清卫视",浙江卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.45:8176
+#EXTINF:-1 group-title="高清卫视",江苏卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.165:7192
+#EXTINF:-1 group-title="高清卫视",江苏卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.46:8180
+#EXTINF:-1 group-title="高清卫视",深圳卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.38:8148
+#EXTINF:-1 group-title="高清卫视",深圳卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.156:7120
+#EXTINF:-1 group-title="高清卫视",东南卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.22:6104
+#EXTINF:-1 group-title="高清卫视",东南卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.27:8104
+#EXTINF:-1 group-title="高清卫视",甘肃卫视HD
+http://192.168.123.1:4200/rtp/238.1.79.36:4400
+#EXTINF:-1 group-title="高清卫视",广东卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.161:7160
+#EXTINF:-1 group-title="高清卫视",广西卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.8:8028
+#EXTINF:-1 group-title="高清卫视",贵州卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.244:7824
+#EXTINF:-1 group-title="高清卫视",海南卫视HD
+http://192.168.123.1:4200/rtp/238.1.79.49:4504
+#EXTINF:-1 group-title="高清卫视",河北卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.245:7832
+#EXTINF:-1 group-title="高清卫视",河北卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.36:8140
+#EXTINF:-1 group-title="高清卫视",河南卫视HD
+http://192.168.123.1:4200/rtp/238.1.79.65:4632
+#EXTINF:-1 group-title="高清卫视",黑龙江卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.159:7144
+#EXTINF:-1 group-title="高清卫视",黑龙江卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.41:8160
+#EXTINF:-1 group-title="高清卫视",湖北卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.168:7216
+#EXTINF:-1 group-title="高清卫视",湖北卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.48:8188
+#EXTINF:-1 group-title="高清卫视",吉林卫视HD
+http://192.168.123.1:4200/rtp/238.1.79.48:4496
+#EXTINF:-1 group-title="高清卫视",吉林卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.52:8204
+#EXTINF:-1 group-title="高清卫视",江西卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.26:6136
+#EXTINF:-1 group-title="高清卫视",江西卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.28:8108
+#EXTINF:-1 group-title="高清卫视",辽宁卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.21:6096
+#EXTINF:-1 group-title="高清卫视",山东卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.169:7224
+#EXTINF:-1 group-title="高清卫视",山东卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.49:8192
+#EXTINF:-1 group-title="高清卫视",陕西卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.9:8032
+#EXTINF:-1 group-title="高清卫视",四川卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.30:6168
+#EXTINF:-1 group-title="高清卫视",四川卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.39:8152
+#EXTINF:-1 group-title="高清卫视",天津卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.20:6088
+#EXTINF:-1 group-title="高清卫视",天津卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.26:8101
+#EXTINF:-1 group-title="高清卫视",云南卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.10:8036
+#EXTINF:-1 group-title="高清卫视",重庆卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.31:6176
+#EXTINF:-1 group-title="高清卫视",重庆卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.40:8156
+#EXTINF:-1 group-title="高清卫视",青海卫视
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225841/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 group-title="香港CDN",凤凰中文
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 group-title="香港CDN",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?
+#EXTINF:-1 group-title="香港CDN",凤凰资讯
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226274/index.m3u8
+#EXTINF:-1 group-title="香港CDN",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?
+#EXTINF:-1 group-title="香港CDN",凤凰香港
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1 group-title="香港CDN",凤凰香港
+http://[2409:8087:3869:8021:1001::48]:6610/PLTV/88888910/224/3221226251/index.m3u8
+#EXTINF:-1 group-title="香港CDN",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="香港CDN",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="香港CDN",开电视
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 group-title="香港CDN",开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="香港CDN",开电视N
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 group-title="香港CDN",有线新闻台
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 group-title="香港CDN",WXXW
+http://192.168.123.1:10000/hk.php?id=0&hq
+#EXTINF:-1 group-title="香港CDN",WXCJ
+http://192.168.123.1:10000/hk.php?id=2&hq
+#EXTINF:-1 group-title="香港CDN",WXXW1
+http://162.19.247.76:22222/live/tvbnews/index.m3u8
+#EXTINF:-1 group-title="香港CDN",WXX2
+https://pull-l3-cny.douyincdn.com/live/stream-1452172023043011035.m3u8
+#EXTINF:-1 group-title="香港CDN",有线财经资讯台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 group-title="香港CDN",有线新闻台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 group-title="香港CDN",翡翠台J
+http://23.237.10.66:16410
+#EXTINF:-1 group-title="香港CDN",翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 group-title="香港CDN",中天综合HD
+http://23.237.10.66:16372
+#EXTINF:-1 group-title="香港CDN",RTHK31
+https://cdn.hklive.tv/xxxx/31/index.m3u8
+#EXTINF:-1 group-title="香港CDN",RTHK32
+https://cdn.hklive.tv/xxxx/32/index.m3u8
+#EXTINF:-1 group-title="香港CDN",RTHK33
+https://cdn.hklive.tv/xxxx/33/index.m3u8
+#EXTINF:-1 group-title="香港CDN",RTHK34
+https://cdn.hklive.tv/xxxx/34/index.m3u8
+#EXTINF:-1 group-title="香港CDN",开电视
+https://cdn.hklive.tv/xxxx/77/index.m3u8
+#EXTINF:-1 group-title="香港CDN",开电视资讯台
+https://cdn.hklive.tv/xxxx/78/index.m3u8
+#EXTINF:-1 group-title="香港CDN",香港国际财经台
+https://cdn.hklive.tv/xxxx/76/index.m3u8
+#EXTINF:-1 group-title="香港CDN",翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 group-title="香港CDN",J2台
+https://cdn.hklive.tv/xxxx/82/index.m3u8
+#EXTINF:-1 group-title="香港CDN",无线新闻台
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 group-title="香港CDN",无线明珠台
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1 group-title="香港CDN",无线明珠台(粤)
+https://cdn.hklive.tv/xxxx/84b/index.m3u8
+#EXTINF:-1 group-title="香港CDN",无线财经台
+https://cdn.hklive.tv/xxxx/85/index.m3u8
+#EXTINF:-1 group-title="香港CDN",Viutv
+https://cdn.hklive.tv/xxxx/99/index.m3u8
+#EXTINF:-1 group-title="香港CDN",Viutv6
+https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1 group-title="香港CDN",有线财经资讯
+https://cdn.hklive.tv/xxxx/108/chunklist_w628376731.m3u8
+#EXTINF:-1 group-title="香港CDN",有线新闻
+https://cdn.hklive.tv/xxxx/109/chunklist_w1556522207.m3u8
+#EXTINF:-1 group-title="香港CDN",NOW新闻
+https://cdn.hklive.tv/xxxx/332/index.m3u8
+#EXTINF:-1 group-title="高清安徽",欢笑4K
+http://192.168.123.1:4200/udp/238.1.79.67:4672
+#EXTINF:-1 group-title="高清安徽",爱上4K
+http://192.168.123.1:4200/udp/238.1.78.23:6112
+#EXTINF:-1 group-title="高清安徽",纪实人文
+http://192.168.123.1:4200/udp/238.1.78.153:7096
+#EXTINF:-1 group-title="高清安徽",金鹰纪实
+http://192.168.123.1:4200/udp/238.1.79.9:4184
+#EXTINF:-1 group-title="高清安徽",金鹰卡通HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.17:8064
+#EXTINF:-1 group-title="高清安徽",全纪实
+http://192.168.123.1:4200/udp/238.1.78.151:7080
+#EXTINF:-1 group-title="高清安徽",安徽卫视FHD
+http://192.168.123.1:4200/rtp/238.1.79.27:4328
+#EXTINF:-1 group-title="高清安徽",安徽卫视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.25:8096
+#EXTINF:-1 group-title="高清安徽",安徽公共HD
+http://192.168.123.1:4200/rtp/238.1.79.43:4456
+#EXTINF:-1 group-title="高清安徽",安徽公共HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.55:8216
+#EXTINF:-1 group-title="高清安徽",安徽经济HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.53:8208
+#EXTINF:-1 group-title="高清安徽",安徽经视HD
+http://192.168.123.1:4200/rtp/238.1.79.44:4464
+#EXTINF:-1 group-title="高清安徽",安徽科教HD
+http://192.168.123.1:4200/rtp/238.1.79.40:4432
+#EXTINF:-1 group-title="高清安徽",安徽农业科教HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.57:8224
+#EXTINF:-1 group-title="高清安徽",安徽人物HD
+http://192.168.123.1:4200/rtp/238.1.79.45:4472
+#EXTINF:-1 group-title="高清安徽",安徽影视HD
+http://192.168.123.1:4200/rtp/238.1.79.42:4448
+#EXTINF:-1 group-title="高清安徽",安徽影视HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.54:8212
+#EXTINF:-1 group-title="高清安徽",安徽综艺HD
+http://192.168.123.1:4200/rtp/238.1.79.41:4440
+#EXTINF:-1 group-title="高清安徽",安徽综艺体育HD(81)
+http://192.168.123.1:4200/rtp/238.1.81.56:8220
+#EXTINF:-1 group-title="高清安徽",梨园频道
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
+#EXTINF:-1 group-title="高清安徽",乐游
+http://192.168.123.1:4200/udp/238.1.78.151:7080
+#EXTINF:-1 group-title="高清安徽",动漫秀场
+http://192.168.123.1:4200/udp/238.1.78.154:7104
+#EXTINF:-1 group-title="高清安徽",茶(付费)
+http://192.168.123.1:4200/udp/238.1.79.30:4352
+#EXTINF:-1 group-title="高清安徽",生活时尚
+http://192.168.123.1:4200/udp/238.1.78.155:7112
+#EXTINF:-1 group-title="高清安徽",快乐垂钓(付费)
+http://192.168.123.1:4200/udp/238.1.79.31:4360
+#EXTINF:-1 group-title="高清安徽",陶瓷
+http://192.168.123.1:4200/udp/238.1.78.157:7128
+#EXTINF:-1 group-title="高清安徽",体育赛事(付费)
+http://192.168.123.1:4200/udp/238.1.78.33:6192
+#EXTINF:-1 group-title="高清安徽",足球频道
+http://192.168.123.1:4200/udp/238.1.78.250:7872
+#EXTINF:-1 group-title="高清安徽",安徽卫视HD
+http://192.168.123.1:4200/rtp/238.1.78.150:7072
+#EXTINF:-1 group-title="高清安徽",安徽卫视HD
+http://192.168.123.1:4200/rtp/238.1.79.37:4408
+#EXTINF:-1 group-title="高清安徽",安徽卫视HD
+http://192.168.123.1:4200/rtp/238.1.79.50:4512
+#EXTINF:-1 group-title="高清安徽",IPTV5+
+http://192.168.123.1:4200/udp/238.1.78.238:7776
+#EXTINF:-1 group-title="标清央卫",CCTV-1
+http://192.168.123.1:4200/rtp/238.1.78.41:6200
+#EXTINF:-1 group-title="标清央卫",CCTV-2
+http://192.168.123.1:4200/rtp/238.1.78.43:6216
+#EXTINF:-1 group-title="标清央卫",CCTV-3
+http://192.168.123.1:4200/rtp/238.1.78.174:7264
+#EXTINF:-1 group-title="标清央卫",CCTV4(81)
+http://192.168.123.1:4200/rtp/238.1.81.2:8004
+#EXTINF:-1 group-title="标清央卫",CCTV-4
+http://192.168.123.1:4200/rtp/238.1.78.46:6240
+#EXTINF:-1 group-title="标清央卫",CCTV-5
+http://192.168.123.1:4200/rtp/238.1.78.175:7272
+#EXTINF:-1 group-title="标清央卫",CCTV-6
+http://192.168.123.1:4200/rtp/238.1.78.176:7280
+#EXTINF:-1 group-title="标清央卫",CCTV-7
+http://192.168.123.1:4200/rtp/238.1.78.48:6256
+#EXTINF:-1 group-title="标清央卫",CCTV-8
+http://192.168.123.1:4200/rtp/238.1.78.177:7288
+#EXTINF:-1 group-title="标清央卫",CCTV-10
+http://192.168.123.1:4200/rtp/238.1.78.51:6280
+#EXTINF:-1 group-title="标清央卫",CCTV-11
+http://192.168.123.1:4200/rtp/238.1.78.52:6288
+#EXTINF:-1 group-title="标清央卫",CCTV-12
+http://192.168.123.1:4200/rtp/238.1.78.53:6296
+#EXTINF:-1 group-title="标清央卫",CCTV-13
+http://192.168.123.1:4200/rtp/238.1.78.45:6232
+#EXTINF:-1 group-title="标清央卫",CCTV-14
+http://192.168.123.1:4200/rtp/238.1.78.54:6304
+#EXTINF:-1 group-title="标清央卫",CCTV15(81)
+http://192.168.123.1:4200/rtp/238.1.81.3:8008
+#EXTINF:-1 group-title="标清央卫",CCTV-15
+http://192.168.123.1:4200/rtp/238.1.78.47:6248
+#EXTINF:-1 group-title="标清央卫",CCTV-17
+http://192.168.123.1:4200/rtp/238.1.78.179:7304
+#EXTINF:-1 group-title="标清央卫",CETV1(81)
+http://192.168.123.1:4200/rtp/238.1.81.22:8084
+#EXTINF:-1 group-title="标清央卫",CETV4(81)
+http://192.168.123.1:4200/rtp/238.1.81.50:8196
+#EXTINF:-1 group-title="标清央卫",CETV4
+http://192.168.123.1:4200/rtp/238.1.78.253:7896
+#EXTINF:-1 group-title="标清央卫",CGTN
+http://192.168.123.1:4200/rtp/238.1.78.50:6272
+#EXTINF:-1 group-title="标清央卫",安徽卫视
+http://192.168.123.1:4200/rtp/238.1.78.42:6208
+#EXTINF:-1 group-title="标清央卫",北京卫视
+http://192.168.123.1:4200/rtp/238.1.78.63:6376
+#EXTINF:-1 group-title="标清央卫",兵团卫视(81)
+http://192.168.123.1:4200/rtp/238.1.81.21:8080
+#EXTINF:-1 group-title="标清央卫",兵团卫视
+http://192.168.123.1:4200/rtp/238.1.78.104:6704
+#EXTINF:-1 group-title="标清央卫",东方卫视
+http://192.168.123.1:4200/rtp/238.1.78.44:6224
+#EXTINF:-1 group-title="标清央卫",东南卫视
+http://192.168.123.1:4200/rtp/238.1.78.62:6368
+#EXTINF:-1 group-title="标清央卫",甘肃卫视
+http://192.168.123.1:4200/rtp/238.1.78.108:6736
+#EXTINF:-1 group-title="标清央卫",广东卫视(81)
+http://192.168.123.1:4200/rtp/238.1.81.6:8020
+#EXTINF:-1 group-title="标清央卫",广东卫视
+http://192.168.123.1:4200/rtp/238.1.78.68:6416
+#EXTINF:-1 group-title="标清央卫",广西卫视
+http://192.168.123.1:4200/rtp/238.1.78.70:6432
+#EXTINF:-1 group-title="标清央卫",贵州卫视(81)
+http://192.168.123.1:4200/rtp/238.1.81.11:8040
+#EXTINF:-1 group-title="标清央卫",贵州卫视
+http://192.168.123.1:4200/rtp/238.1.78.90:6592
+#EXTINF:-1 group-title="标清央卫",海南卫视(81)
+http://192.168.123.1:4200/rtp/238.1.81.4:8012
+#EXTINF:-1 group-title="标清央卫",河北卫视
+http://192.168.123.1:4200/rtp/238.1.78.87:6568
+#EXTINF:-1 group-title="标清央卫",河南卫视
+http://192.168.123.1:4200/rtp/238.1.78.69:6424
+#EXTINF:-1 group-title="标清央卫",黑龙江卫视
+http://192.168.123.1:4200/rtp/238.1.78.98:6656
+#EXTINF:-1 group-title="标清央卫",湖北卫视
+http://192.168.123.1:4200/rtp/238.1.78.94:6624
+#EXTINF:-1 group-title="标清央卫",湖南卫视
+http://192.168.123.1:4200/rtp/238.1.78.67:6408
+#EXTINF:-1 group-title="标清央卫",吉林卫视
+http://192.168.123.1:4200/rtp/238.1.78.93:6616
+#EXTINF:-1 group-title="标清央卫",江苏卫视
+http://192.168.123.1:4200/rtp/238.1.78.64:6384
+#EXTINF:-1 group-title="标清央卫",江西卫视
+http://192.168.123.1:4200/rtp/238.1.78.86:6560
+#EXTINF:-1 group-title="标清央卫",辽宁卫视(81)
+http://192.168.123.1:4200/rtp/238.1.81.12:8044
+#EXTINF:-1 group-title="标清央卫",辽宁卫视
+http://192.168.123.1:4200/rtp/238.1.78.92:6608
+#EXTINF:-1 group-title="标清央卫",旅游卫视
+http://192.168.123.1:4200/rtp/238.1.78.49:6264
+#EXTINF:-1 group-title="标清央卫",内蒙古卫视
+http://192.168.123.1:4200/rtp/238.1.78.103:6696
+#EXTINF:-1 group-title="标清央卫",宁夏卫视(81)
+http://192.168.123.1:4200/rtp/238.1.81.23:8088
+#EXTINF:-1 group-title="标清央卫",宁夏卫视
+http://192.168.123.1:4200/rtp/238.1.78.109:6744
+#EXTINF:-1 group-title="标清央卫",青海卫视(81)
+http://192.168.123.1:4200/rtp/238.1.81.19:8072
+#EXTINF:-1 group-title="标清央卫",青海卫视
+http://192.168.123.1:4200/rtp/238.1.78.102:6688
+#EXTINF:-1 group-title="标清央卫",三沙卫视
+http://192.168.123.1:4200/rtp/238.1.78.27:6144
+#EXTINF:-1 group-title="标清央卫",厦门卫视
+http://192.168.123.1:4200/rtp/238.1.78.246:7840
+#EXTINF:-1 group-title="标清央卫",山东卫视
+http://192.168.123.1:4200/rtp/238.1.78.66:6400
+#EXTINF:-1 group-title="标清央卫",山西卫视
+http://192.168.123.1:4200/rtp/238.1.78.95:6632
+#EXTINF:-1 group-title="标清央卫",陕西卫视
+http://192.168.123.1:4200/rtp/238.1.78.88:6576
+#EXTINF:-1 group-title="标清央卫",深圳卫视
+http://192.168.123.1:4200/rtp/238.1.78.99:6664
+#EXTINF:-1 group-title="标清央卫",四川卫视
+http://192.168.123.1:4200/rtp/238.1.78.71:6440
+#EXTINF:-1 group-title="标清央卫",天津卫视
+http://192.168.123.1:4200/rtp/238.1.78.91:6600
+#EXTINF:-1 group-title="标清央卫",西藏卫视(81)
+http://192.168.123.1:4200/rtp/238.1.81.18:8068
+#EXTINF:-1 group-title="标清央卫",西藏卫视
+http://192.168.123.1:4200/rtp/238.1.78.101:6680
+#EXTINF:-1 group-title="标清央卫",新疆卫视(81)
+http://192.168.123.1:4200/rtp/238.1.81.24:8092
+#EXTINF:-1 group-title="标清央卫",新疆卫视
+http://192.168.123.1:4200/rtp/238.1.78.110:6752
+#EXTINF:-1 group-title="标清央卫",云南卫视
+http://192.168.123.1:4200/rtp/238.1.78.89:6584
+#EXTINF:-1 group-title="标清央卫",浙江卫视
+http://192.168.123.1:4200/rtp/238.1.78.65:6392
+#EXTINF:-1 group-title="标清央卫",重庆卫视
+http://192.168.123.1:4200/rtp/238.1.78.72:6448
+#EXTINF:-1 group-title="地市频道",安徽公共
+http://192.168.123.1:4200/rtp/238.1.78.57:6328
+#EXTINF:-1 group-title="地市频道",安徽国际
+http://192.168.123.1:4200/rtp/238.1.78.61:6360
+#EXTINF:-1 group-title="地市频道",安徽经视
+http://192.168.123.1:4200/rtp/238.1.78.55:6312
+#EXTINF:-1 group-title="地市频道",安徽科教
+http://192.168.123.1:4200/rtp/238.1.78.59:6344
+#EXTINF:-1 group-title="地市频道",安徽人物
+http://192.168.123.1:4200/rtp/238.1.78.60:6352
+#EXTINF:-1 group-title="地市频道",安徽影视
+http://192.168.123.1:4200/rtp/238.1.78.56:6320
+#EXTINF:-1 group-title="地市频道",安徽综艺
+http://192.168.123.1:4200/rtp/238.1.78.58:6336
+#EXTINF:-1 group-title="地市频道",阜阳都市
+http://192.168.123.1:4200/rtp/238.1.78.127:6888
+#EXTINF:-1 group-title="地市频道",阜阳公共
+http://192.168.123.1:4200/rtp/238.1.78.125:6872
+#EXTINF:-1 group-title="地市频道",阜阳教育
+http://192.168.123.1:4200/rtp/238.1.78.126:6880
+#EXTINF:-1 group-title="地市频道",阜阳新闻
+http://192.168.123.1:4200/rtp/238.1.78.124:6864
+#EXTINF:-1 group-title="地市频道",爱上4K
+http://192.168.123.1:4200/rtp/238.1.78.23:6112
+#EXTINF:-1 group-title="地市频道",爱生活
+http://192.168.123.1:4200/rtp/238.1.78.17:4040
+#EXTINF:-1 group-title="地市频道",安庆公共
+http://192.168.123.1:4200/rtp/238.1.78.118:6816
+#EXTINF:-1 group-title="地市频道",安庆黄梅戏
+http://192.168.123.1:4200/rtp/238.1.78.120:6832
+#EXTINF:-1 group-title="地市频道",安庆新闻
+http://192.168.123.1:4200/rtp/238.1.78.117:6808
+#EXTINF:-1 group-title="地市频道",蚌埠公共
+http://192.168.123.1:4200/rtp/238.1.78.181:7320
+#EXTINF:-1 group-title="地市频道",蚌埠新闻
+http://192.168.123.1:4200/rtp/238.1.78.180:7312
+#EXTINF:-1 group-title="地市频道",亳州农村
+http://192.168.123.1:4200/rtp/238.1.78.129:6904
+#EXTINF:-1 group-title="地市频道",亳州综合
+http://192.168.123.1:4200/rtp/238.1.78.128:6896
+#EXTINF:-1 group-title="地市频道",财富天下
+http://192.168.123.1:4200/rtp/238.1.78.25:6128
+#EXTINF:-1 group-title="地市频道",池州二套
+http://192.168.123.1:4200/rtp/238.1.78.148:7056
+#EXTINF:-1 group-title="地市频道",池州一套
+http://192.168.123.1:4200/rtp/238.1.78.147:7048
+#EXTINF:-1 group-title="地市频道",滁州公共
+http://192.168.123.1:4200/rtp/238.1.78.133:6936
+#EXTINF:-1 group-title="地市频道",滁州科教
+http://192.168.123.1:4200/rtp/238.1.78.134:6944
+#EXTINF:-1 group-title="地市频道",滁州综合
+http://192.168.123.1:4200/rtp/238.1.78.132:6928
+#EXTINF:-1 group-title="地市频道",枞阳电视台
+http://192.168.123.1:4200/rtp/238.1.78.210:7552
+#EXTINF:-1 group-title="地市频道",地理
+http://192.168.123.1:4200/rtp/238.1.79.4:4144
+#EXTINF:-1 group-title="地市频道",定远综合
+http://192.168.123.1:4200/rtp/238.1.78.205:7512
+#EXTINF:-1 group-title="地市频道",东方财经
+http://192.168.123.1:4200/rtp/238.1.78.73:6456
+#EXTINF:-1 group-title="地市频道",东至新闻
+http://192.168.123.1:4200/rtp/238.1.79.13:4216
+#EXTINF:-1 group-title="地市频道",动画
+http://192.168.123.1:4200/rtp/238.1.78.37:4088
+#EXTINF:-1 group-title="地市频道",动漫秀场
+http://192.168.123.1:4200/rtp/238.1.78.79:6504
+#EXTINF:-1 group-title="地市频道",动作影院
+http://192.168.123.1:4200/rtp/238.1.78.13:4008
+#EXTINF:-1 group-title="地市频道",都市剧场
+http://192.168.123.1:4200/rtp/238.1.78.74:6464
+#EXTINF:-1 group-title="地市频道",法治天地
+http://192.168.123.1:4200/rtp/238.1.78.84:6544
+#EXTINF:-1 group-title="地市频道",繁昌新闻
+http://192.168.123.1:4200/rtp/238.1.78.190:7392
+#EXTINF:-1 group-title="地市频道",肥东生活
+http://192.168.123.1:4200/rtp/238.1.78.184:7344
+#EXTINF:-1 group-title="地市频道",肥东新闻
+http://192.168.123.1:4200/rtp/238.1.78.183:7336
+#EXTINF:-1 group-title="地市频道",肥西新闻
+http://192.168.123.1:4200/rtp/238.1.78.185:7352
+#EXTINF:-1 group-title="地市频道",凤阳新闻
+http://192.168.123.1:4200/rtp/238.1.78.207:7528
+#EXTINF:-1 group-title="地市频道",阜南新闻
+http://192.168.123.1:4200/rtp/238.1.79.11:4200
+#EXTINF:-1 group-title="地市频道",高网
+http://192.168.123.1:4200/rtp/238.1.78.252:7888
+#EXTINF:-1 group-title="地市频道",BRTV少儿(81)
+http://192.168.123.1:4200/rtp/238.1.81.16:8060
+#EXTINF:-1 group-title="地市频道",固镇综合
+http://192.168.123.1:4200/rtp/238.1.79.47:4488
+#EXTINF:-1 group-title="地市频道",光影
+http://192.168.123.1:4200/rtp/238.1.78.40:4112
+#EXTINF:-1 group-title="地市频道",广德生活台
+http://192.168.123.1:4200/rtp/238.1.78.213:7576
+#EXTINF:-1 group-title="地市频道",广德新闻台
+http://192.168.123.1:4200/rtp/238.1.78.212:7568
+#EXTINF:-1 group-title="地市频道",国学
+http://192.168.123.1:4200/rtp/238.1.78.34:4064
+#EXTINF:-1 group-title="地市频道",哈哈炫动
+http://192.168.123.1:4200/rtp/238.1.78.82:6528
+#EXTINF:-1 group-title="地市频道",好学生
+http://192.168.123.1:4200/rtp/238.1.78.18:4048
+#EXTINF:-1 group-title="地市频道",淮北公共
+http://192.168.123.1:4200/rtp/238.1.78.136:6960
+#EXTINF:-1 group-title="地市频道",淮北教育
+http://192.168.123.1:4200/rtp/238.1.78.137:6968
+#EXTINF:-1 group-title="地市频道",淮北新闻
+http://192.168.123.1:4200/rtp/238.1.78.135:6952
+#EXTINF:-1 group-title="地市频道",淮南公共
+http://192.168.123.1:4200/rtp/238.1.78.114:6784
+#EXTINF:-1 group-title="地市频道",淮南新闻
+http://192.168.123.1:4200/rtp/238.1.78.113:6776
+#EXTINF:-1 group-title="地市频道",欢笑4K
+http://192.168.123.1:4200/rtp/238.1.79.67:4672
+#EXTINF:-1 group-title="地市频道",黄山公共
+http://192.168.123.1:4200/rtp/238.1.78.131:6920
+#EXTINF:-1 group-title="地市频道",黄山新闻
+http://192.168.123.1:4200/rtp/238.1.78.130:6912
+#EXTINF:-1 group-title="地市频道",徽州区新闻
+http://192.168.123.1:4200/rtp/238.1.78.138:6976
+#EXTINF:-1 group-title="地市频道",霍邱新闻
+http://192.168.123.1:4200/rtp/238.1.78.119:6824
+#EXTINF:-1 group-title="地市频道",霍山电视台
+http://192.168.123.1:4200/rtp/238.1.78.220:7632
+#EXTINF:-1 group-title="地市频道",纪实人文
+http://192.168.123.1:4200/rtp/238.1.78.96:6640
+#EXTINF:-1 group-title="地市频道",绩溪电视台
+http://192.168.123.1:4200/rtp/238.1.78.218:7616
+#EXTINF:-1 group-title="地市频道",家家购物
+http://192.168.123.1:4200/rtp/238.1.78.32:6184
+#EXTINF:-1 group-title="地市频道",家庭影院
+http://192.168.123.1:4200/rtp/238.1.78.14:4016
+#EXTINF:-1 group-title="地市频道",鉴赏
+http://192.168.123.1:4200/rtp/238.1.78.38:4096
+#EXTINF:-1 group-title="地市频道",界首新闻
+http://192.168.123.1:4200/rtp/238.1.78.195:7432
+#EXTINF:-1 group-title="地市频道",金色频道
+http://192.168.123.1:4200/rtp/238.1.78.76:6480
+#EXTINF:-1 group-title="地市频道",金鹰卡通
+http://192.168.123.1:4200/rtp/238.1.78.100:6672
+#EXTINF:-1 group-title="地市频道",金寨新闻
+http://192.168.123.1:4200/rtp/238.1.79.21:4280
+#EXTINF:-1 group-title="地市频道",旌德电视台
+http://192.168.123.1:4200/rtp/238.1.78.215:7592
+#EXTINF:-1 group-title="地市频道",精选
+http://192.168.123.1:4200/rtp/238.1.78.19:4056
+#EXTINF:-1 group-title="地市频道",军旅剧场
+http://192.168.123.1:4200/rtp/238.1.78.11:7992
+#EXTINF:-1 group-title="地市频道",军事
+http://192.168.123.1:4200/rtp/238.1.79.3:4136
+#EXTINF:-1 group-title="地市频道",卡酷卡通
+http://192.168.123.1:4200/rtp/238.1.78.97:6648
+#EXTINF:-1 group-title="地市频道",空中课堂
+http://192.168.123.1:4200/rtp/238.1.78.107:6728
+#EXTINF:-1 group-title="地市频道",来安电视台
+http://192.168.123.1:4200/rtp/238.1.78.204:7504
+#EXTINF:-1 group-title="地市频道",郎溪新闻台
+http://192.168.123.1:4200/rtp/238.1.78.214:7584
+#EXTINF:-1 group-title="地市频道",利辛综合
+http://192.168.123.1:4200/rtp/238.1.78.196:7440
+#EXTINF:-1 group-title="地市频道",临泉新闻
+http://192.168.123.1:4200/rtp/238.1.78.29:6160
+#EXTINF:-1 group-title="地市频道",灵璧经济
+http://192.168.123.1:4200/rtp/238.1.79.69:4688
+#EXTINF:-1 group-title="地市频道",灵璧综合
+http://192.168.123.1:4200/rtp/238.1.79.68:4680
+#EXTINF:-1 group-title="地市频道",六安公共
+http://192.168.123.1:4200/rtp/238.1.78.145:7032
+#EXTINF:-1 group-title="地市频道",六安新闻
+http://192.168.123.1:4200/rtp/238.1.78.144:7024
+#EXTINF:-1 group-title="地市频道",马鞍山公共
+http://192.168.123.1:4200/rtp/238.1.78.77:6488
+#EXTINF:-1 group-title="地市频道",马鞍山新闻
+http://192.168.123.1:4200/rtp/238.1.79.15:4232
+#EXTINF:-1 group-title="地市频道",美人
+http://192.168.123.1:4200/rtp/238.1.79.1:4120
+#EXTINF:-1 group-title="地市频道",美妆
+http://192.168.123.1:4200/rtp/238.1.79.5:4152
+#EXTINF:-1 group-title="地市频道",蒙城新闻
+http://192.168.123.1:4200/rtp/238.1.79.19:4264
+#EXTINF:-1 group-title="地市频道",明光新闻
+http://192.168.123.1:4200/rtp/238.1.78.208:7536
+#EXTINF:-1 group-title="地市频道",墨宝
+http://192.168.123.1:4200/rtp/238.1.78.39:4104
+#EXTINF:-1 group-title="地市频道",南陵新闻
+http://192.168.123.1:4200/rtp/238.1.78.189:7384
+#EXTINF:-1 group-title="地市频道",宁国一套
+http://192.168.123.1:4200/rtp/238.1.78.216:7600
+#EXTINF:-1 group-title="地市频道",七彩戏剧
+http://192.168.123.1:4200/rtp/238.1.78.85:6552
+#EXTINF:-1 group-title="地市频道",祁门新闻
+http://192.168.123.1:4200/rtp/238.1.79.14:4224
+#EXTINF:-1 group-title="地市频道",潜山电视台
+http://192.168.123.1:4200/rtp/238.1.78.192:7408
+#EXTINF:-1 group-title="地市频道",全纪实
+http://192.168.123.1:4200/rtp/238.1.78.83:6536
+#EXTINF:-1 group-title="地市频道",全椒综合
+http://192.168.123.1:4200/rtp/238.1.78.203:7496
+#EXTINF:-1 group-title="地市频道",山东教育(81)
+http://192.168.123.1:4200/rtp/238.1.81.51:8200
+#EXTINF:-1 group-title="地市频道",山东教育频道
+http://192.168.123.1:4200/rtp/238.1.78.254:7904
+#EXTINF:-1 group-title="地市频道",歙县综合
+http://192.168.123.1:4200/rtp/238.1.78.200:7472
+#EXTINF:-1 group-title="地市频道",生活时尚
+http://192.168.123.1:4200/rtp/238.1.78.78:6496
+#EXTINF:-1 group-title="地市频道",石台新闻
+http://192.168.123.1:4200/rtp/238.1.78.221:7640
+#EXTINF:-1 group-title="地市频道",寿县电视台
+http://192.168.123.1:4200/rtp/238.1.78.146:7040
+#EXTINF:-1 group-title="地市频道",泗县电视台
+http://192.168.123.1:4200/rtp/238.1.78.193:7416
+#EXTINF:-1 group-title="地市频道",宿州公共
+http://192.168.123.1:4200/rtp/238.1.78.122:6848
+#EXTINF:-1 group-title="地市频道",宿州科教
+http://192.168.123.1:4200/rtp/238.1.78.123:6856
+#EXTINF:-1 group-title="地市频道",宿州新闻
+http://192.168.123.1:4200/rtp/238.1.78.121:6840
+#EXTINF:-1 group-title="地市频道",濉溪电视台
+http://192.168.123.1:4200/rtp/238.1.78.209:7544
+#EXTINF:-1 group-title="地市频道",台球
+http://192.168.123.1:4200/rtp/238.1.78.251:7880
+#EXTINF:-1 group-title="地市频道",太湖新闻
+http://192.168.123.1:4200/rtp/238.1.79.12:4208
+#EXTINF:-1 group-title="地市频道",太平电视台
+http://192.168.123.1:4200/rtp/238.1.78.199:7464
+#EXTINF:-1 group-title="地市频道",桐城新闻
+http://192.168.123.1:4200/rtp/238.1.78.28:6152
+#EXTINF:-1 group-title="地市频道",铜陵电视台
+http://192.168.123.1:4200/rtp/238.1.78.139:6984
+#EXTINF:-1 group-title="地市频道",铜陵二套
+http://192.168.123.1:4200/rtp/238.1.78.140:6992
+#EXTINF:-1 group-title="地市频道",铜陵三套
+http://192.168.123.1:4200/rtp/238.1.78.141:7000
+#EXTINF:-1 group-title="地市频道",涡阳新闻
+http://192.168.123.1:4200/rtp/238.1.78.197:7448
+#EXTINF:-1 group-title="地市频道",涡阳影视
+http://192.168.123.1:4200/rtp/238.1.78.198:7456
+#EXTINF:-1 group-title="地市频道",无为新闻
+http://192.168.123.1:4200/rtp/238.1.78.188:7376
+#EXTINF:-1 group-title="地市频道",芜湖公共
+http://192.168.123.1:4200/rtp/238.1.78.80:6512
+#EXTINF:-1 group-title="地市频道",芜湖教育
+http://192.168.123.1:4200/rtp/238.1.78.167:7208
+#EXTINF:-1 group-title="地市频道",芜湖生活
+http://192.168.123.1:4200/rtp/238.1.78.152:7088
+#EXTINF:-1 group-title="地市频道",芜湖县新闻
+http://192.168.123.1:4200/rtp/238.1.78.187:7368
+#EXTINF:-1 group-title="地市频道",芜湖新闻
+http://192.168.123.1:4200/rtp/238.1.78.112:6768
+#EXTINF:-1 group-title="地市频道",五合综合
+http://192.168.123.1:4200/rtp/238.1.79.70:4676
+#EXTINF:-1 group-title="地市频道",武术
+http://192.168.123.1:4200/rtp/238.1.79.2:4128
+#EXTINF:-1 group-title="地市频道",武侠剧场
+http://192.168.123.1:4200/rtp/238.1.78.16:4032
+#EXTINF:-1 group-title="地市频道",戏曲
+http://192.168.123.1:4200/rtp/238.1.78.35:4072
+#EXTINF:-1 group-title="地市频道",县市新闻
+http://192.168.123.1:4200/rtp/238.1.79.52:4528
+#EXTINF:-1 group-title="地市频道",萧县新闻
+http://192.168.123.1:4200/rtp/238.1.79.46:4480
+#EXTINF:-1 group-title="地市频道",星影
+http://192.168.123.1:4200/rtp/238.1.79.7:4168
+#EXTINF:-1 group-title="地市频道",熊猫频道
+http://192.168.123.1:4200/rtp/238.1.79.8:4176
+#EXTINF:-1 group-title="地市频道",休宁新闻
+http://192.168.123.1:4200/rtp/238.1.79.20:4272
+#EXTINF:-1 group-title="地市频道",宣城公共
+http://192.168.123.1:4200/rtp/238.1.78.143:7016
+#EXTINF:-1 group-title="地市频道",宣城新闻
+http://192.168.123.1:4200/rtp/238.1.78.142:7008
+#EXTINF:-1 group-title="地市频道",黟县新闻
+http://192.168.123.1:4200/rtp/238.1.78.149:7064
+#EXTINF:-1 group-title="地市频道",义安电视台
+http://192.168.123.1:4200/rtp/238.1.78.211:7560
+#EXTINF:-1 group-title="地市频道",音乐现场
+http://192.168.123.1:4200/rtp/238.1.78.15:4024
+#EXTINF:-1 group-title="地市频道",颍上新闻
+http://192.168.123.1:4200/rtp/238.1.78.194:7424
+#EXTINF:-1 group-title="地市频道",游戏风云
+http://192.168.123.1:4200/rtp/238.1.78.81:6520
+#EXTINF:-1 group-title="地市频道",早教
+http://192.168.123.1:4200/rtp/238.1.78.36:4080
+#EXTINF:-1 group-title="地市频道",长丰电视台
+http://192.168.123.1:4200/rtp/238.1.78.182:7328
+#EXTINF:-1 group-title="地市频道",直播室201
+http://192.168.123.1:4200/rtp/238.1.78.226:7680
+#EXTINF:-1 group-title="地市频道",直播室202
+http://192.168.123.1:4200/rtp/238.1.78.227:7688
+#EXTINF:-1 group-title="地市频道",直播室203
+http://192.168.123.1:4200/rtp/238.1.78.228:7696
+#EXTINF:-1 group-title="地市频道",直播室204
+http://192.168.123.1:4200/rtp/238.1.78.224:7664
+#EXTINF:-1 group-title="地市频道",直播室205
+http://192.168.123.1:4200/rtp/238.1.78.229:7704
+#EXTINF:-1 group-title="地市频道",直播室206
+http://192.168.123.1:4200/rtp/238.1.78.230:7712
+#EXTINF:-1 group-title="地市频道",直播室207
+http://192.168.123.1:4200/rtp/238.1.78.225:7672
+#EXTINF:-1 group-title="地市频道",直播室208
+http://192.168.123.1:4200/rtp/238.1.78.234:7744
+#EXTINF:-1 group-title="地市频道",直播室209
+http://192.168.123.1:4200/rtp/238.1.78.231:7720
+#EXTINF:-1 group-title="地市频道",直播室210
+http://192.168.123.1:4200/rtp/238.1.78.232:7728
+#EXTINF:-1 group-title="地市频道",直播室211
+http://192.168.123.1:4200/rtp/238.1.78.233:7736
+#EXTINF:-1 group-title="地市频道",中国教育-1
+http://192.168.123.1:4200/rtp/238.1.78.105:6712
+#EXTINF:-1 group-title="地市频道",中国教育-2
+http://192.168.123.1:4200/rtp/238.1.78.106:6720
+#EXTINF:-1 group-title="地市频道",足球频道
+http://192.168.123.1:4200/rtp/238.1.78.250:7872
+#EXTINF:-1 group-title="地市频道",IPTV3＋
+http://192.168.123.1:4200/rtp/238.1.78.247:7848
+#EXTINF:-1 group-title="地市频道",IPTV6＋
+http://192.168.123.1:4200/rtp/238.1.78.248:7856
+#EXTINF:-1 group-title="地市频道",IPTV8＋
+http://192.168.123.1:4200/rtp/238.1.78.249:7864
+#EXTINF:-1 group-title="地市频道",IPTV谍战剧场
+http://192.168.123.1:4200/rtp/238.1.78.2:7920
+#EXTINF:-1 group-title="地市频道",IPTV法治
+http://192.168.123.1:4200/rtp/238.1.78.5:7944
+#EXTINF:-1 group-title="地市频道",IPTV经典电影
+http://192.168.123.1:4200/rtp/238.1.78.10:7984
+#EXTINF:-1 group-title="地市频道",IPTV魅力时尚
+http://192.168.123.1:4200/rtp/238.1.78.7:7960
+#EXTINF:-1 group-title="地市频道",IPTV热播剧场
+http://192.168.123.1:4200/rtp/238.1.78.9:7976
+#EXTINF:-1 group-title="地市频道",IPTV少儿动画
+http://192.168.123.1:4200/rtp/238.1.78.6:7952
+#EXTINF:-1 group-title="地市频道",IPTV收视指南
+http://192.168.123.1:4200/rtp/238.1.78.8:7968
+#EXTINF:-1 group-title="地市频道",IPTV相声小品
+http://192.168.123.1:4200/rtp/238.1.78.3:7928
+#EXTINF:-1 group-title="地市频道",IPTV野外
+http://192.168.123.1:4200/rtp/238.1.78.4:7936
+
