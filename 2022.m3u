@@ -1,61 +1,61 @@
 #EXTM3U
-#EXTINF:-1 group-title="高清央视",CCTV-1HD
+#EXTINF:-1 group-title="高清央视",CCTV1
 http://192.168.123.1:4200/rtp/238.1.78.166:7200
-#EXTINF:-1 group-title="高清央视",CCTV-1HD(81)
+#EXTINF:-1 group-title="高清央视",CCTV1(81)
 http://192.168.123.1:4200/rtp/238.1.81.14:8052
-#EXTINF:-1 group-title="高清央视",CCTV-2HD
+#EXTINF:-1 group-title="高清央视",CCTV2
 http://192.168.123.1:4200/rtp/238.1.78.235:7752
-#EXTINF:-1 group-title="高清央视",CCTV-2HD(81)
+#EXTINF:-1 group-title="高清央视",CCTV2(81)
 http://192.168.123.1:4200/rtp/238.1.81.29:8112
-#EXTINF:-1 group-title="高清央视",CCTV-3HD
+#EXTINF:-1 group-title="高清央视",CCTV3
 http://192.168.123.1:4200/rtp/238.1.78.170:7232
-#EXTINF:-1 group-title="高清央视",CCTV-4HD
+#EXTINF:-1 group-title="高清央视",CCTV4
 http://192.168.123.1:4200/rtp/238.1.78.236:7760
-#EXTINF:-1 group-title="高清央视",CCTV-5＋HD
+#EXTINF:-1 group-title="高清央视",CCTV5＋
 http://192.168.123.1:4200/rtp/238.1.78.237:7768
-#EXTINF:-1 group-title="高清央视",CCTV-5+HD(81)
+#EXTINF:-1 group-title="高清央视",CCTV5+(81)
 http://192.168.123.1:4200/rtp/238.1.81.30:8116
-#EXTINF:-1 group-title="高清央视",CCTV-5HD
+#EXTINF:-1 group-title="高清央视",CCTV5
 http://192.168.123.1:4200/rtp/238.1.78.171:7240
-#EXTINF:-1 group-title="高清央视",CCTV-6HD
+#EXTINF:-1 group-title="高清央视",CCTV6
 http://192.168.123.1:4200/rtp/238.1.78.172:7248
-#EXTINF:-1 group-title="高清央视",CCTV-7HD
+#EXTINF:-1 group-title="高清央视",CCTV7
 http://192.168.123.1:4200/rtp/238.1.78.239:7784
-#EXTINF:-1 group-title="高清央视",CCTV-7HD(81)
+#EXTINF:-1 group-title="高清央视",CCTV7(81)
 http://192.168.123.1:4200/rtp/238.1.81.31:8120
-#EXTINF:-1 group-title="高清央视",CCTV-8HD
+#EXTINF:-1 group-title="高清央视",CCTV8
 http://192.168.123.1:4200/rtp/238.1.78.173:7256
-#EXTINF:-1 group-title="高清央视",CCTV-9HD
+#EXTINF:-1 group-title="高清央视",CCTV9
 http://192.168.123.1:4200/rtp/238.1.78.240:7792
-#EXTINF:-1 group-title="高清央视",CCTV-9HD(81)
+#EXTINF:-1 group-title="高清央视",CCTV9(81)
 http://192.168.123.1:4200/rtp/238.1.81.32:8124
-#EXTINF:-1 group-title="高清央视",CCTV-10HD
+#EXTINF:-1 group-title="高清央视",CCTV10
 http://192.168.123.1:4200/rtp/238.1.78.241:7800
-#EXTINF:-1 group-title="高清央视",CCTV-10HD(81)
+#EXTINF:-1 group-title="高清央视",CCTV10(81)
 http://192.168.123.1:4200/rtp/238.1.81.33:8128
-#EXTINF:-1 group-title="高清央视",CCTV-11HD
+#EXTINF:-1 group-title="高清央视",CCTV11
 http://192.168.123.1:4200/rtp/238.1.78.206:7502
-#EXTINF:-1 group-title="高清央视",CCTV-12HD
+#EXTINF:-1 group-title="高清央视",CCTV12
 http://192.168.123.1:4200/rtp/238.1.78.242:7808
-#EXTINF:-1 group-title="高清央视",CCTV-12HD(81)
+#EXTINF:-1 group-title="高清央视",CCTV12(81)
 http://192.168.123.1:4200/rtp/238.1.81.34:8132
-#EXTINF:-1 group-title="高清央视",CCTV-13HD
+#EXTINF:-1 group-title="高清央视",CCTV13
 http://192.168.123.1:4200/rtp/238.1.79.35:4392
-#EXTINF:-1 group-title="高清央视",CCTV-13HD(81)
+#EXTINF:-1 group-title="高清央视",CCTV13(81)
 http://192.168.123.1:4200/rtp/238.1.81.47:8184
-#EXTINF:-1 group-title="高清央视",CCTV-14HD
+#EXTINF:-1 group-title="高清央视",CCTV14
 http://192.168.123.1:4200/rtp/238.1.78.243:7816
-#EXTINF:-1 group-title="高清央视",CCTV-14HD(81)
+#EXTINF:-1 group-title="高清央视",CCTV14(81)
 http://192.168.123.1:4200/rtp/238.1.81.35:8136
-#EXTINF:-1 group-title="高清央视",CCTV-15HD
+#EXTINF:-1 group-title="高清央视",CCTV15
 http://192.168.123.1:4200/rtp/238.1.78.222:7648
-#EXTINF:-1 group-title="高清央视",CCTV-16奥运4K
+#EXTINF:-1 group-title="高清央视",CCTV16奥运4K
 http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
-#EXTINF:-1 group-title="高清央视",CCTV-17HD
+#EXTINF:-1 group-title="高清央视",CCTV17
 http://192.168.123.1:4200/rtp/238.1.78.178:7296
-#EXTINF:-1 group-title="高清央视",CCTV-17HD(81)
+#EXTINF:-1 group-title="高清央视",CCTV17(81)
 http://192.168.123.1:4200/rtp/238.1.81.37:8144
-#EXTINF:-1 group-title="高清央视",CCTV-4k
+#EXTINF:-1 group-title="高清央视",CCTV4k
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.js.chinamobile.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 group-title="高清央视",CNC
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
@@ -89,89 +89,89 @@ http://192.168.123.1:4200/udp/238.1.79.64:4648
 http://192.168.123.1:4200/udp/238.1.79.58:4600
 #EXTINF:-1 group-title="高清央视",高清央视台球
 http://192.168.123.1:4200/udp/238.1.79.59:4608
-#EXTINF:-1 group-title="高清央视",CETV-1
+#EXTINF:-1 group-title="高清央视",CETV1
 http://192.168.123.1:4200/udp/238.1.78.158:7136
-#EXTINF:-1 group-title="高清卫视",北京卫视HD
+#EXTINF:-1 group-title="高清卫视",北京卫视
 http://192.168.123.1:4200/rtp/238.1.78.162:7168
-#EXTINF:-1 group-title="高清卫视",北京卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",北京卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.43:8168
-#EXTINF:-1 group-title="高清卫视",湖南卫视HD
+#EXTINF:-1 group-title="高清卫视",湖南卫视
 http://192.168.123.1:4200/rtp/238.1.78.160:7152
-#EXTINF:-1 group-title="高清卫视",湖南卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",湖南卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.42:8164
-#EXTINF:-1 group-title="高清卫视",东方卫视HD
+#EXTINF:-1 group-title="高清卫视",东方卫视
 http://192.168.123.1:4200/rtp/238.1.78.163:7176
-#EXTINF:-1 group-title="高清卫视",东方卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",东方卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.44:8172
-#EXTINF:-1 group-title="高清卫视",浙江卫视HD
+#EXTINF:-1 group-title="高清卫视",浙江卫视
 http://192.168.123.1:4200/rtp/238.1.78.164:7184
-#EXTINF:-1 group-title="高清卫视",浙江卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",浙江卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.45:8176
-#EXTINF:-1 group-title="高清卫视",江苏卫视HD
+#EXTINF:-1 group-title="高清卫视",江苏卫视
 http://192.168.123.1:4200/rtp/238.1.78.165:7192
-#EXTINF:-1 group-title="高清卫视",江苏卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",江苏卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.46:8180
-#EXTINF:-1 group-title="高清卫视",深圳卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",深圳卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.38:8148
-#EXTINF:-1 group-title="高清卫视",深圳卫视HD
+#EXTINF:-1 group-title="高清卫视",深圳卫视
 http://192.168.123.1:4200/rtp/238.1.78.156:7120
-#EXTINF:-1 group-title="高清卫视",东南卫视HD
+#EXTINF:-1 group-title="高清卫视",东南卫视
 http://192.168.123.1:4200/rtp/238.1.78.22:6104
-#EXTINF:-1 group-title="高清卫视",东南卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",东南卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.27:8104
-#EXTINF:-1 group-title="高清卫视",甘肃卫视HD
+#EXTINF:-1 group-title="高清卫视",甘肃卫视
 http://192.168.123.1:4200/rtp/238.1.79.36:4400
-#EXTINF:-1 group-title="高清卫视",广东卫视HD
+#EXTINF:-1 group-title="高清卫视",广东卫视
 http://192.168.123.1:4200/rtp/238.1.78.161:7160
-#EXTINF:-1 group-title="高清卫视",广西卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",广西卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.8:8028
-#EXTINF:-1 group-title="高清卫视",贵州卫视HD
+#EXTINF:-1 group-title="高清卫视",贵州卫视
 http://192.168.123.1:4200/rtp/238.1.78.244:7824
-#EXTINF:-1 group-title="高清卫视",海南卫视HD
+#EXTINF:-1 group-title="高清卫视",海南卫视
 http://192.168.123.1:4200/rtp/238.1.79.49:4504
-#EXTINF:-1 group-title="高清卫视",河北卫视HD
+#EXTINF:-1 group-title="高清卫视",河北卫视
 http://192.168.123.1:4200/rtp/238.1.78.245:7832
-#EXTINF:-1 group-title="高清卫视",河北卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",河北卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.36:8140
-#EXTINF:-1 group-title="高清卫视",河南卫视HD
+#EXTINF:-1 group-title="高清卫视",河南卫视
 http://192.168.123.1:4200/rtp/238.1.79.65:4632
-#EXTINF:-1 group-title="高清卫视",黑龙江卫视HD
+#EXTINF:-1 group-title="高清卫视",黑龙江卫视
 http://192.168.123.1:4200/rtp/238.1.78.159:7144
-#EXTINF:-1 group-title="高清卫视",黑龙江卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",黑龙江卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.41:8160
-#EXTINF:-1 group-title="高清卫视",湖北卫视HD
+#EXTINF:-1 group-title="高清卫视",湖北卫视
 http://192.168.123.1:4200/rtp/238.1.78.168:7216
-#EXTINF:-1 group-title="高清卫视",湖北卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",湖北卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.48:8188
-#EXTINF:-1 group-title="高清卫视",吉林卫视HD
+#EXTINF:-1 group-title="高清卫视",吉林卫视
 http://192.168.123.1:4200/rtp/238.1.79.48:4496
-#EXTINF:-1 group-title="高清卫视",吉林卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",吉林卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.52:8204
-#EXTINF:-1 group-title="高清卫视",江西卫视HD
+#EXTINF:-1 group-title="高清卫视",江西卫视
 http://192.168.123.1:4200/rtp/238.1.78.26:6136
-#EXTINF:-1 group-title="高清卫视",江西卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",江西卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.28:8108
-#EXTINF:-1 group-title="高清卫视",辽宁卫视HD
+#EXTINF:-1 group-title="高清卫视",辽宁卫视
 http://192.168.123.1:4200/rtp/238.1.78.21:6096
-#EXTINF:-1 group-title="高清卫视",山东卫视HD
+#EXTINF:-1 group-title="高清卫视",山东卫视
 http://192.168.123.1:4200/rtp/238.1.78.169:7224
-#EXTINF:-1 group-title="高清卫视",山东卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",山东卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.49:8192
-#EXTINF:-1 group-title="高清卫视",陕西卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",陕西卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.9:8032
-#EXTINF:-1 group-title="高清卫视",四川卫视HD
+#EXTINF:-1 group-title="高清卫视",四川卫视
 http://192.168.123.1:4200/rtp/238.1.78.30:6168
-#EXTINF:-1 group-title="高清卫视",四川卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",四川卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.39:8152
-#EXTINF:-1 group-title="高清卫视",天津卫视HD
+#EXTINF:-1 group-title="高清卫视",天津卫视
 http://192.168.123.1:4200/rtp/238.1.78.20:6088
-#EXTINF:-1 group-title="高清卫视",天津卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",天津卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.26:8101
-#EXTINF:-1 group-title="高清卫视",云南卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",云南卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.10:8036
-#EXTINF:-1 group-title="高清卫视",重庆卫视HD
+#EXTINF:-1 group-title="高清卫视",重庆卫视
 http://192.168.123.1:4200/rtp/238.1.78.31:6176
-#EXTINF:-1 group-title="高清卫视",重庆卫视HD(81)
+#EXTINF:-1 group-title="高清卫视",重庆卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.40:8156
 #EXTINF:-1 group-title="高清卫视",青海卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225841/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -192,13 +192,13 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="香港CDN",RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 group-title="香港CDN",开电视
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+https://hoytVlive-stream.hoy.tv/ch77/index-f.m3u8
 #EXTINF:-1 group-title="香港CDN",开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 group-title="香港CDN",开电视N
-https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+https://hoytVlive-stream.hoy.tv/ch78/index-f.m3u8
 #EXTINF:-1 group-title="香港CDN",有线新闻台
-http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+http://61.10.2.140:80/live_freedirect/free209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1 group-title="香港CDN",WXXW
 http://192.168.123.1:10000/hk.php?id=0&hq
 #EXTINF:-1 group-title="香港CDN",WXCJ
@@ -215,7 +215,7 @@ https://api.leonardpark.dev/live/icable/109
 http://23.237.10.66:16410
 #EXTINF:-1 group-title="香港CDN",翡翠台
 http://r.jdshipin.com/qClQf
-#EXTINF:-1 group-title="香港CDN",中天综合HD
+#EXTINF:-1 group-title="香港CDN",中天综合
 http://23.237.10.66:16372
 #EXTINF:-1 group-title="香港CDN",RTHK31
 https://cdn.hklive.tv/xxxx/31/index.m3u8
@@ -261,35 +261,35 @@ http://192.168.123.1:4200/udp/238.1.78.23:6112
 http://192.168.123.1:4200/udp/238.1.78.153:7096
 #EXTINF:-1 group-title="高清安徽",金鹰纪实
 http://192.168.123.1:4200/udp/238.1.79.9:4184
-#EXTINF:-1 group-title="高清安徽",金鹰卡通HD(81)
+#EXTINF:-1 group-title="高清安徽",金鹰卡通(81)
 http://192.168.123.1:4200/rtp/238.1.81.17:8064
 #EXTINF:-1 group-title="高清安徽",全纪实
 http://192.168.123.1:4200/udp/238.1.78.151:7080
-#EXTINF:-1 group-title="高清安徽",安徽卫视FHD
+#EXTINF:-1 group-title="高清安徽",安徽卫视F
 http://192.168.123.1:4200/rtp/238.1.79.27:4328
-#EXTINF:-1 group-title="高清安徽",安徽卫视HD(81)
+#EXTINF:-1 group-title="高清安徽",安徽卫视(81)
 http://192.168.123.1:4200/rtp/238.1.81.25:8096
-#EXTINF:-1 group-title="高清安徽",安徽公共HD
+#EXTINF:-1 group-title="高清安徽",安徽公共
 http://192.168.123.1:4200/rtp/238.1.79.43:4456
-#EXTINF:-1 group-title="高清安徽",安徽公共HD(81)
+#EXTINF:-1 group-title="高清安徽",安徽公共(81)
 http://192.168.123.1:4200/rtp/238.1.81.55:8216
-#EXTINF:-1 group-title="高清安徽",安徽经济HD(81)
+#EXTINF:-1 group-title="高清安徽",安徽经济(81)
 http://192.168.123.1:4200/rtp/238.1.81.53:8208
-#EXTINF:-1 group-title="高清安徽",安徽经视HD
+#EXTINF:-1 group-title="高清安徽",安徽经视
 http://192.168.123.1:4200/rtp/238.1.79.44:4464
-#EXTINF:-1 group-title="高清安徽",安徽科教HD
+#EXTINF:-1 group-title="高清安徽",安徽科教
 http://192.168.123.1:4200/rtp/238.1.79.40:4432
-#EXTINF:-1 group-title="高清安徽",安徽农业科教HD(81)
+#EXTINF:-1 group-title="高清安徽",安徽农业科教(81)
 http://192.168.123.1:4200/rtp/238.1.81.57:8224
-#EXTINF:-1 group-title="高清安徽",安徽人物HD
+#EXTINF:-1 group-title="高清安徽",安徽人物
 http://192.168.123.1:4200/rtp/238.1.79.45:4472
-#EXTINF:-1 group-title="高清安徽",安徽影视HD
+#EXTINF:-1 group-title="高清安徽",安徽影视
 http://192.168.123.1:4200/rtp/238.1.79.42:4448
-#EXTINF:-1 group-title="高清安徽",安徽影视HD(81)
+#EXTINF:-1 group-title="高清安徽",安徽影视(81)
 http://192.168.123.1:4200/rtp/238.1.81.54:8212
-#EXTINF:-1 group-title="高清安徽",安徽综艺HD
+#EXTINF:-1 group-title="高清安徽",安徽综艺
 http://192.168.123.1:4200/rtp/238.1.79.41:4440
-#EXTINF:-1 group-title="高清安徽",安徽综艺体育HD(81)
+#EXTINF:-1 group-title="高清安徽",安徽综艺体育(81)
 http://192.168.123.1:4200/rtp/238.1.81.56:8220
 #EXTINF:-1 group-title="高清安徽",梨园频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
@@ -309,47 +309,47 @@ http://192.168.123.1:4200/udp/238.1.78.157:7128
 http://192.168.123.1:4200/udp/238.1.78.33:6192
 #EXTINF:-1 group-title="高清安徽",足球频道
 http://192.168.123.1:4200/udp/238.1.78.250:7872
-#EXTINF:-1 group-title="高清安徽",安徽卫视HD
+#EXTINF:-1 group-title="高清安徽",安徽卫视
 http://192.168.123.1:4200/rtp/238.1.78.150:7072
-#EXTINF:-1 group-title="高清安徽",安徽卫视HD
+#EXTINF:-1 group-title="高清安徽",安徽卫视
 http://192.168.123.1:4200/rtp/238.1.79.37:4408
-#EXTINF:-1 group-title="高清安徽",安徽卫视HD
+#EXTINF:-1 group-title="高清安徽",安徽卫视
 http://192.168.123.1:4200/rtp/238.1.79.50:4512
 #EXTINF:-1 group-title="高清安徽",IPTV5+
 http://192.168.123.1:4200/udp/238.1.78.238:7776
-#EXTINF:-1 group-title="标清央卫",CCTV-1
+#EXTINF:-1 group-title="标清央卫",CCTV1
 http://192.168.123.1:4200/rtp/238.1.78.41:6200
-#EXTINF:-1 group-title="标清央卫",CCTV-2
+#EXTINF:-1 group-title="标清央卫",CCTV2
 http://192.168.123.1:4200/rtp/238.1.78.43:6216
-#EXTINF:-1 group-title="标清央卫",CCTV-3
+#EXTINF:-1 group-title="标清央卫",CCTV3
 http://192.168.123.1:4200/rtp/238.1.78.174:7264
 #EXTINF:-1 group-title="标清央卫",CCTV4(81)
 http://192.168.123.1:4200/rtp/238.1.81.2:8004
-#EXTINF:-1 group-title="标清央卫",CCTV-4
+#EXTINF:-1 group-title="标清央卫",CCTV4
 http://192.168.123.1:4200/rtp/238.1.78.46:6240
-#EXTINF:-1 group-title="标清央卫",CCTV-5
+#EXTINF:-1 group-title="标清央卫",CCTV5
 http://192.168.123.1:4200/rtp/238.1.78.175:7272
-#EXTINF:-1 group-title="标清央卫",CCTV-6
+#EXTINF:-1 group-title="标清央卫",CCTV6
 http://192.168.123.1:4200/rtp/238.1.78.176:7280
-#EXTINF:-1 group-title="标清央卫",CCTV-7
+#EXTINF:-1 group-title="标清央卫",CCTV7
 http://192.168.123.1:4200/rtp/238.1.78.48:6256
-#EXTINF:-1 group-title="标清央卫",CCTV-8
+#EXTINF:-1 group-title="标清央卫",CCTV8
 http://192.168.123.1:4200/rtp/238.1.78.177:7288
-#EXTINF:-1 group-title="标清央卫",CCTV-10
+#EXTINF:-1 group-title="标清央卫",CCTV10
 http://192.168.123.1:4200/rtp/238.1.78.51:6280
-#EXTINF:-1 group-title="标清央卫",CCTV-11
+#EXTINF:-1 group-title="标清央卫",CCTV11
 http://192.168.123.1:4200/rtp/238.1.78.52:6288
-#EXTINF:-1 group-title="标清央卫",CCTV-12
+#EXTINF:-1 group-title="标清央卫",CCTV12
 http://192.168.123.1:4200/rtp/238.1.78.53:6296
-#EXTINF:-1 group-title="标清央卫",CCTV-13
+#EXTINF:-1 group-title="标清央卫",CCTV13
 http://192.168.123.1:4200/rtp/238.1.78.45:6232
-#EXTINF:-1 group-title="标清央卫",CCTV-14
+#EXTINF:-1 group-title="标清央卫",CCTV14
 http://192.168.123.1:4200/rtp/238.1.78.54:6304
 #EXTINF:-1 group-title="标清央卫",CCTV15(81)
 http://192.168.123.1:4200/rtp/238.1.81.3:8008
-#EXTINF:-1 group-title="标清央卫",CCTV-15
+#EXTINF:-1 group-title="标清央卫",CCTV15
 http://192.168.123.1:4200/rtp/238.1.78.47:6248
-#EXTINF:-1 group-title="标清央卫",CCTV-17
+#EXTINF:-1 group-title="标清央卫",CCTV17
 http://192.168.123.1:4200/rtp/238.1.78.179:7304
 #EXTINF:-1 group-title="标清央卫",CETV1(81)
 http://192.168.123.1:4200/rtp/238.1.81.22:8084
@@ -785,4 +785,3 @@ http://192.168.123.1:4200/rtp/238.1.78.8:7968
 http://192.168.123.1:4200/rtp/238.1.78.3:7928
 #EXTINF:-1 group-title="地市频道",IPTV野外
 http://192.168.123.1:4200/rtp/238.1.78.4:7936
-
