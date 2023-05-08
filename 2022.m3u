@@ -59,6 +59,8 @@ http://192.168.123.1:4200/rtp/238.1.81.37:8144
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.js.chinamobile.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 group-title="高清央视",CCTV4k
 http://192.168.123.1:10000/cctv4k.php
+#EXTINF:-1 group-title="高清央视",CCTV4k
+http://192.168.123.1:10000/cctv4k2.php
 #EXTINF:-1 group-title="高清央视",CNC
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225694/2/index.m3u8
 #EXTINF:-1 group-title="高清央视",CHC动作电影
