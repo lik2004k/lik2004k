@@ -227,6 +227,8 @@ http://23.237.10.66:16410
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 group-title="香港CDN",中天综合
 http://23.237.10.66:16372
+#EXTINF:-1 group-title="香港CDN",莲花卫视
+http://192.168.123.1:10000/lianhua.php
 #EXTINF:-1 group-title="香港CDN",RTHK31
 https://cdn.hklive.tv/xxxx/31/index.m3u8
 #EXTINF:-1 group-title="香港CDN",RTHK32
