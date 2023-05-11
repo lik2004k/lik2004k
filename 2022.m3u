@@ -244,35 +244,35 @@ http://23.237.10.66:16372
 #EXTINF:-1 group-title="香港CDN",莲花卫视
 http://192.168.123.1:10000/lianhua.php
 #EXTINF:-1 group-title="香港CDN",RTHK31
-https://cdn.hklive.tv/xxxx/31/index.m3u8
+http://cdn.hkdtmb.com/raw/31.ts
 #EXTINF:-1 group-title="香港CDN",RTHK32
-https://cdn.hklive.tv/xxxx/32/index.m3u8
+http://cdn.hkdtmb.com/raw/32.ts
 #EXTINF:-1 group-title="香港CDN",RTHK33
-https://cdn.hklive.tv/xxxx/33/index.m3u8
+http://cdn.hkdtmb.com/raw/33.ts
 #EXTINF:-1 group-title="香港CDN",RTHK34
-https://cdn.hklive.tv/xxxx/34/index.m3u8
+http://cdn.hkdtmb.com/raw/34.ts
 #EXTINF:-1 group-title="香港CDN",开电视
-https://cdn.hklive.tv/xxxx/77/index.m3u8
+http://cdn.hkdtmb.com/raw/77.ts
 #EXTINF:-1 group-title="香港CDN",开电视资讯台
-https://cdn.hklive.tv/xxxx/78/index.m3u8
+http://cdn.hkdtmb.com/raw/78.ts
 #EXTINF:-1 group-title="香港CDN",香港国际财经台
-https://cdn.hklive.tv/xxxx/76/index.m3u8
+http://cdn.hkdtmb.com/raw/76.ts
 #EXTINF:-1 group-title="香港CDN",翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8
+http://cdn.hkdtmb.com/raw/81.ts
 #EXTINF:-1 group-title="香港CDN",J2台
-https://cdn.hklive.tv/xxxx/82/index.m3u8
+http://cdn.hkdtmb.com/raw/82.ts
 #EXTINF:-1 group-title="香港CDN",无线新闻台
-https://cdn.hklive.tv/xxxx/83/index.m3u8
+http://cdn.hkdtmb.com/raw/83.ts
 #EXTINF:-1 group-title="香港CDN",无线明珠台
-https://cdn.hklive.tv/xxxx/84/index.m3u8
+http://cdn.hkdtmb.com/raw/84.ts
 #EXTINF:-1 group-title="香港CDN",无线明珠台(粤)
 https://cdn.hklive.tv/xxxx/84b/index.m3u8
 #EXTINF:-1 group-title="香港CDN",无线财经台
-https://cdn.hklive.tv/xxxx/85/index.m3u8
+http://cdn.hkdtmb.com/raw/85.ts
 #EXTINF:-1 group-title="香港CDN",Viutv
-https://cdn.hklive.tv/xxxx/99/index.m3u8
+http://cdn.hkdtmb.com/raw/99.ts
 #EXTINF:-1 group-title="香港CDN",Viutv6
-https://cdn.hklive.tv/xxxx/96/index.m3u8
+http://cdn.hkdtmb.com/raw/96.ts
 #EXTINF:-1 group-title="香港CDN",有线财经资讯
 https://cdn.hklive.tv/xxxx/108/chunklist_w628376731.m3u8
 #EXTINF:-1 group-title="香港CDN",有线新闻
