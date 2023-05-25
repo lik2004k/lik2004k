@@ -206,11 +206,11 @@ http://192.168.123.1:10000/xzws.php?id=1
 #EXTINF:-1 group-title="高清卫视",西藏文艺
 http://192.168.123.1:10000/xzws.php?id=2
 #EXTINF:-1 group-title="香港CDN",凤凰中文
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-91617067-65dd-4def-bbb4-8c356cc0aaf8.m3u8
+http://iptv.weai.love/10010/88888888/back-gxgg.play?tvid=fhzw
 #EXTINF:-1 group-title="香港CDN",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?
 #EXTINF:-1 group-title="香港CDN",凤凰资讯
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226274/index.m3u8
+http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzx
 #EXTINF:-1 group-title="香港CDN",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?
 #EXTINF:-1 group-title="香港CDN",凤凰香港
