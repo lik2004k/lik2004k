@@ -263,6 +263,30 @@ https://cdn.hklive.tv/xxxx/108/chunklist_w628376731.m3u8
 https://cdn.hklive.tv/xxxx/109/chunklist_w1556522207.m3u8
 #EXTINF:-1 group-title="香港CDN",NOW新闻
 https://cdn.hklive.tv/xxxx/332/index.m3u8
+#EXTINF:-1 group-title="YOUTUBE",凤凰资讯
+http://192.168.123.1:35455/youtube/dmDg7NfUoSw?quality=1080
+#EXTINF:-1 group-title="YOUTUBE",中天新闻
+http://192.168.123.1:35455/youtube/oIgbl7t0S_w?quality=1080
+#EXTINF:-1 group-title="YOUTUBE",中视新闻
+http://192.168.123.1:35455/youtube/TCnaIE_SAtM?quality=1080
+#EXTINF:-1 group-title="YOUTUBE",东森新闻
+http://192.168.123.1:35455/youtube/khuZW5GdBXo?quality=1080
+#EXTINF:-1 group-title="YOUTUBE",TVBS新闻
+http://192.168.123.1:35455/youtube/2mCSYvcfhtc?quality=1080
+#EXTINF:-1 group-title="YOUTUBE",寰宇新闻
+http://192.168.123.1:35455/youtube/B7Zp3d6xXWw?quality=1080
+#EXTINF:-1 group-title="YOUTUBE",华视新闻
+http://192.168.123.1:35455/youtube/wM0g8EoUZ_E?quality=1080
+#EXTINF:-1 group-title="YOUTUBE",三立新闻
+http://192.168.123.1:35455/youtube/CKjSm5ZeehE?quality=1080
+#EXTINF:-1 group-title="YOUTUBE",镜新闻
+http://192.168.123.1:35455/youtube/5n0y6b0Q25o?quality=1080
+#EXTINF:-1 group-title="YOUTUBE",台视新闻
+http://192.168.123.1:35455/youtube/xL0ch83RAK8?quality=1080
+#EXTINF:-1 group-title="YOUTUBE",民视新闻
+http://192.168.123.1:35455/youtube/ylYJSBUgaMA?quality=1080
+#EXTINF:-1 group-title="YOUTUBE",ABC新闻
+http://192.168.123.1:35455/youtube/w_Ma8oQLmSM?quality=1080
 #EXTINF:-1 group-title="高清安徽",欢笑4K
 http://192.168.123.1:4200/udp/238.1.79.67:4672
 #EXTINF:-1 group-title="高清安徽",爱上4K
