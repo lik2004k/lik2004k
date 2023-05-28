@@ -197,6 +197,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/o
 http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzx
 #EXTINF:-1 group-title="香港CDN",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?
+#EXTINF:-1 group-title="香港CDN",凤凰香港
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-78912fb8-fd7e-487e-bf73-816914649281.m3u8
 #EXTINF:-1 group-title="香港CDN",RTHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 group-title="香港CDN",RTHK32
@@ -214,7 +216,7 @@ http://192.168.123.1:10000/hk.php?id=2&hq
 #EXTINF:-1 group-title="香港CDN",WXXW1
 http://162.19.247.76:22222/live/tvbnews/index.m3u8
 #EXTINF:-1 group-title="香港CDN",WXX2
-https://pull-l3-cny.douyincdn.com/live/stream-1452172023043011035.m3u8
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-5758e851-5827-4fec-870a-e360f1da0ac8.m3u8
 #EXTINF:-1 group-title="香港CDN",有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 group-title="香港CDN",有线新闻台
