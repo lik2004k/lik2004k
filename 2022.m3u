@@ -214,7 +214,7 @@ http://192.168.123.1:10000/hk.php?id=0&hq
 #EXTINF:-1 group-title="香港CDN",WXCJ
 http://192.168.123.1:10000/hk.php?id=2&hq
 #EXTINF:-1 group-title="香港CDN",WXXW1
-http://162.19.247.76:22222/live/tvbnews/index.m3u8
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-5758e851-5827-4fec-3328-e360f1da0ac8.m3u8
 #EXTINF:-1 group-title="香港CDN",有线新闻
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 group-title="香港CDN",有线财经资讯台
