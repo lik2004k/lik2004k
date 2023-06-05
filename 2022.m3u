@@ -3,6 +3,10 @@
 http://192.168.123.254:10000/cctv4k.php
 #EXTINF:-1 group-title="4K频道",CCTV4k
 http://192.168.123.254:10000/cctv4k2.php
+#EXTINF:-1 group-title="高清安徽",欢笑剧场
+http://192.168.123.1:4200/udp/238.1.79.67:4672
+#EXTINF:-1 group-title="高清安徽",爱上4K
+http://192.168.123.1:4200/udp/238.1.78.23:6112
 #EXTINF:-1 group-title="高清央视",CCTV1
 http://192.168.123.1:4200/rtp/238.1.78.166:7200
 #EXTINF:-1 group-title="高清央视",CCTV1
@@ -229,10 +233,6 @@ http://192.168.123.254:35455/youtube/xL0ch83RAK8?quality=1080
 http://192.168.123.254:35455/youtube/ylYJSBUgaMA?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",ABC新闻
 http://192.168.123.254:35455/youtube/w_Ma8oQLmSM?quality=1080
-#EXTINF:-1 group-title="高清安徽",欢笑4K
-http://192.168.123.1:4200/udp/238.1.79.67:4672
-#EXTINF:-1 group-title="高清安徽",爱上4K
-http://192.168.123.1:4200/udp/238.1.78.23:6112
 #EXTINF:-1 group-title="高清安徽",纪实人文
 http://192.168.123.1:4200/udp/238.1.78.153:7096
 #EXTINF:-1 group-title="高清安徽",金鹰纪实
@@ -241,24 +241,22 @@ http://192.168.123.1:4200/udp/238.1.79.9:4184
 http://192.168.123.1:4200/rtp/238.1.81.17:8064
 #EXTINF:-1 group-title="高清安徽",全纪实
 http://192.168.123.1:4200/udp/238.1.78.151:7080
-#EXTINF:-1 group-title="高清安徽",安徽卫视F
-http://192.168.123.1:4200/rtp/238.1.79.27:4328
-#EXTINF:-1 group-title="高清安徽",安徽卫视(81)
-http://192.168.123.1:4200/rtp/238.1.81.25:8096
+#EXTINF:-1 group-title="高清安徽",海豚少儿
+http://192.168.123.1:4200/rtp/238.1.79.32:4368
+#EXTINF:-1 group-title="高清安徽",海豚影视
+http://192.168.123.1:4200/rtp/238.1.79.34:4384
 #EXTINF:-1 group-title="高清安徽",安徽公共
 http://192.168.123.1:4200/rtp/238.1.79.43:4456
 #EXTINF:-1 group-title="高清安徽",安徽公共
 http://192.168.123.1:4200/rtp/238.1.81.55:8216
-#EXTINF:-1 group-title="高清安徽",安徽经济(81)
+#EXTINF:-1 group-title="高清安徽",安徽经视(81)
 http://192.168.123.1:4200/rtp/238.1.81.53:8208
 #EXTINF:-1 group-title="高清安徽",安徽经视
 http://192.168.123.1:4200/rtp/238.1.79.44:4464
-#EXTINF:-1 group-title="高清安徽",安徽科教
+#EXTINF:-1 group-title="高清安徽",安徽农业科教
 http://192.168.123.1:4200/rtp/238.1.79.40:4432
 #EXTINF:-1 group-title="高清安徽",安徽农业科教
 http://192.168.123.1:4200/rtp/238.1.81.57:8224
-#EXTINF:-1 group-title="高清安徽",安徽人物
-http://192.168.123.1:4200/rtp/238.1.79.45:4472
 #EXTINF:-1 group-title="高清安徽",安徽影视
 http://192.168.123.1:4200/rtp/238.1.79.42:4448
 #EXTINF:-1 group-title="高清安徽",安徽影视
@@ -267,6 +265,10 @@ http://192.168.123.1:4200/rtp/238.1.81.54:8212
 http://192.168.123.1:4200/rtp/238.1.79.41:4440
 #EXTINF:-1 group-title="高清安徽",安徽综艺体育
 http://192.168.123.1:4200/rtp/238.1.81.56:8220
+#EXTINF:-1 group-title="高清安徽",安徽卫视F
+http://192.168.123.1:4200/rtp/238.1.79.27:4328
+#EXTINF:-1 group-title="高清安徽",安徽卫视(81)
+http://192.168.123.1:4200/rtp/238.1.81.25:8096
 #EXTINF:-1 group-title="高清安徽",梨园频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
 #EXTINF:-1 group-title="高清安徽",乐游
@@ -285,10 +287,6 @@ http://192.168.123.1:4200/udp/238.1.78.157:7128
 http://192.168.123.1:4200/udp/238.1.78.33:6192
 #EXTINF:-1 group-title="高清安徽",足球频道
 http://192.168.123.1:4200/udp/238.1.78.250:7872
-#EXTINF:-1 group-title="高清安徽",安徽卫视
-http://192.168.123.1:4200/rtp/238.1.78.150:7072
-#EXTINF:-1 group-title="高清安徽",安徽卫视
-http://192.168.123.1:4200/rtp/238.1.79.37:4408
 #EXTINF:-1 group-title="高清安徽",安徽卫视
 http://192.168.123.1:4200/rtp/238.1.79.50:4512
 #EXTINF:-1 group-title="高清安徽",IPTV5+
