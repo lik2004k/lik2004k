@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="4K频道",CCTV4k
-http://192.168.123.254:10000/cctv4k.php
+http://192.168.123.254:5678/cctv4k.php
 #EXTINF:-1 group-title="4K频道",CCTV4k
-http://192.168.123.254:10000/cctv4k2.php
+http://192.168.123.254:5678/cctv4k2.php
 #EXTINF:-1 group-title="高清安徽",欢笑剧场
 http://192.168.123.1:4200/udp/238.1.79.67:4672
 #EXTINF:-1 group-title="高清安徽",爱上4K
@@ -98,27 +98,27 @@ http://192.168.123.1:4200/udp/238.1.79.59:4608
 #EXTINF:-1 group-title="高清央视",CETV1
 http://192.168.123.1:4200/udp/238.1.78.158:7136
 #EXTINF:-1 group-title="高清卫视",凤凰中文
-http://192.168.123.254:10000/sxg.php?id=test1_4000
+http://192.168.123.254:5678/sxg.php?id=test1_4000
 #EXTINF:-1 group-title="高清卫视",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?
 #EXTINF:-1 group-title="高清卫视",凤凰资讯
-http://192.168.123.254:10000/sxg.php?id=test2_4000
+http://192.168.123.254:5678/sxg.php?id=test2_4000
 #EXTINF:-1 group-title="高清卫视",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?
 #EXTINF:-1 group-title="高清卫视",WXXW
-http://192.168.123.254:10000/hk.php?id=0&hq
+http://192.168.123.254:5678/hk.php?id=0&hq
 #EXTINF:-1 group-title="高清卫视",WXCJ
-http://192.168.123.254:10000/hk.php?id=2&hq
+http://192.168.123.254:5678/hk.php?id=2&hq
 #EXTINF:-1 group-title="高清卫视",翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 group-title="高清卫视",莲花卫视
-http://192.168.123.254:10000/lianhua.php
+http://192.168.123.254:5678/lianhua.php
 #EXTINF:-1 group-title="高清卫视",凤凰中文
-http://192.168.123.254:10000/feng.php?id=fhzw
+http://192.168.123.254:5678/feng.php?id=fhzw
 #EXTINF:-1 group-title="高清卫视",凤凰资讯
-http://192.168.123.254:10000/feng.php?id=fhzx
+http://192.168.123.254:5678/feng.php?id=fhzx
 #EXTINF:-1 group-title="高清卫视",凤凰香港
-http://192.168.123.254:10000/feng.php?id=fhhk
+http://192.168.123.254:5678/feng.php?id=fhhk
 #EXTINF:-1 group-title="高清卫视",北京卫视
 http://192.168.123.1:4200/rtp/238.1.78.162:7168
 #EXTINF:-1 group-title="高清卫视",北京卫视
@@ -204,11 +204,11 @@ http://192.168.123.1:4200/rtp/238.1.81.40:8156
 #EXTINF:-1 group-title="高清卫视",青海卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225841/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="高清卫视",西藏卫视
-http://192.168.123.254:10000/xzws.php?id=0
+http://192.168.123.254:5678/xzws.php?id=0
 #EXTINF:-1 group-title="高清卫视",西藏藏语
-http://192.168.123.254:10000/xzws.php?id=1
+http://192.168.123.254:5678/xzws.php?id=1
 #EXTINF:-1 group-title="高清卫视",西藏文艺
-http://192.168.123.254:10000/xzws.php?id=2
+http://192.168.123.254:5678/xzws.php?id=2
 #EXTINF:-1 group-title="YOUTUBE",凤凰资讯
 http://192.168.123.254:35455/youtube/dmDg7NfUoSw?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",中天新闻
@@ -759,3 +759,4 @@ http://192.168.123.1:4200/rtp/238.1.78.8:7968
 http://192.168.123.1:4200/rtp/238.1.78.3:7928
 #EXTINF:-1 group-title="地市频道",IPTV野外
 http://192.168.123.1:4200/rtp/238.1.78.4:7936
+
