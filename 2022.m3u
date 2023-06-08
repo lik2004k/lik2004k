@@ -3,9 +3,9 @@
 http://192.168.123.254:5678/cctv4k.php
 #EXTINF:-1 group-title="4K频道",CCTV4k
 http://192.168.123.254:5678/cctv4k2.php
-#EXTINF:-1 group-title="高清安徽",欢笑剧场
+#EXTINF:-1 group-title="4K频道",欢笑剧场
 http://192.168.123.1:4200/udp/238.1.79.67:4672
-#EXTINF:-1 group-title="高清安徽",爱上4K
+#EXTINF:-1 group-title="4K频道",爱上4K
 http://192.168.123.1:4200/udp/238.1.78.23:6112
 #EXTINF:-1 group-title="高清央视",CCTV1
 http://192.168.123.1:4200/rtp/238.1.78.166:7200
@@ -210,7 +210,7 @@ http://192.168.123.254:5678/xzws.php?id=1
 #EXTINF:-1 group-title="高清卫视",西藏文艺
 http://192.168.123.254:5678/xzws.php?id=2
 #EXTINF:-1 group-title="YOUTUBE",凤凰资讯
-http://192.168.123.254:35455/youtube/dmDg7NfUoSw?quality=1080
+http://192.168.123.254:35455/youtube/if6yQq_JJyY?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",中天新闻
 http://192.168.123.254:35455/youtube/oIgbl7t0S_w?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",中视新闻
