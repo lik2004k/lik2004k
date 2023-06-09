@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="4K频道",CCTV4k
-http://192.168.123.254:5678/cctv4k.php
+http://192.168.123.1:5678/cctv4k.php
 #EXTINF:-1 group-title="4K频道",CCTV4k
-http://192.168.123.254:5678/cctv4k2.php
+http://192.168.123.1:5678/cctv4k2.php
 #EXTINF:-1 group-title="4K频道",欢笑剧场
 http://192.168.123.1:4200/udp/238.1.79.67:4672
 #EXTINF:-1 group-title="4K频道",爱上4K
@@ -98,27 +98,27 @@ http://192.168.123.1:4200/udp/238.1.79.59:4608
 #EXTINF:-1 group-title="高清央视",CETV1
 http://192.168.123.1:4200/udp/238.1.78.158:7136
 #EXTINF:-1 group-title="高清卫视",凤凰中文
-http://192.168.123.254:5678/sxg.php?id=test1_4000
+http://192.168.123.1:5678/sxg.php?id=test1_4000
 #EXTINF:-1 group-title="高清卫视",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?
 #EXTINF:-1 group-title="高清卫视",凤凰资讯
-http://192.168.123.254:5678/sxg.php?id=test2_4000
+http://192.168.123.1:5678/sxg.php?id=test2_4000
 #EXTINF:-1 group-title="高清卫视",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?
 #EXTINF:-1 group-title="高清卫视",WXXW
-http://192.168.123.254:5678/tvb.php?id=0&hq
+http://192.168.123.1:5678/tvb.php?id=0&hq
 #EXTINF:-1 group-title="高清卫视",WXCJ
-http://192.168.123.254:5678/tvb.php?id=2&hq
+http://192.168.123.1:5678/tvb.php?id=2&hq
 #EXTINF:-1 group-title="高清卫视",翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 group-title="高清卫视",莲花卫视
-http://192.168.123.254:5678/lianhua.php
+http://192.168.123.1:5678/lianhua.php
 #EXTINF:-1 group-title="高清卫视",凤凰中文
-http://192.168.123.254:5678/feng.php?id=fhzw
+http://192.168.123.1:5678/feng.php?id=fhzw
 #EXTINF:-1 group-title="高清卫视",凤凰资讯
-http://192.168.123.254:5678/feng.php?id=fhzx
+http://192.168.123.1:5678/feng.php?id=fhzx
 #EXTINF:-1 group-title="高清卫视",凤凰香港
-http://192.168.123.254:5678/feng.php?id=fhhk
+http://192.168.123.1:5678/feng.php?id=fhhk
 #EXTINF:-1 group-title="高清卫视",北京卫视
 http://192.168.123.1:4200/rtp/238.1.78.162:7168
 #EXTINF:-1 group-title="高清卫视",北京卫视
@@ -204,35 +204,35 @@ http://192.168.123.1:4200/rtp/238.1.81.40:8156
 #EXTINF:-1 group-title="高清卫视",青海卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225841/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="高清卫视",西藏卫视
-http://192.168.123.254:5678/xzws.php?id=0
+http://192.168.123.1:5678/xzws.php?id=0
 #EXTINF:-1 group-title="高清卫视",西藏藏语
-http://192.168.123.254:5678/xzws.php?id=1
+http://192.168.123.1:5678/xzws.php?id=1
 #EXTINF:-1 group-title="高清卫视",西藏文艺
-http://192.168.123.254:5678/xzws.php?id=2
+http://192.168.123.1:5678/xzws.php?id=2
 #EXTINF:-1 group-title="YOUTUBE",凤凰资讯
-http://192.168.123.254:35455/youtube/if6yQq_JJyY?quality=1080
+http://192.168.123.1:35455/youtube/if6yQq_JJyY?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",中天新闻
-http://192.168.123.254:35455/youtube/oIgbl7t0S_w?quality=1080
+http://192.168.123.1:35455/youtube/oIgbl7t0S_w?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",中视新闻
-http://192.168.123.254:35455/youtube/TCnaIE_SAtM?quality=1080
+http://192.168.123.1:35455/youtube/TCnaIE_SAtM?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",东森新闻
-http://192.168.123.254:35455/youtube/khuZW5GdBXo?quality=1080
+http://192.168.123.1:35455/youtube/khuZW5GdBXo?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",TVBS新闻
-http://192.168.123.254:35455/youtube/2mCSYvcfhtc?quality=1080
+http://192.168.123.1:35455/youtube/2mCSYvcfhtc?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",寰宇新闻
-http://192.168.123.254:35455/youtube/B7Zp3d6xXWw?quality=1080
+http://192.168.123.1:35455/youtube/B7Zp3d6xXWw?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",华视新闻
-http://192.168.123.254:35455/youtube/wM0g8EoUZ_E?quality=1080
+http://192.168.123.1:35455/youtube/wM0g8EoUZ_E?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",三立新闻
-http://192.168.123.254:35455/youtube/CKjSm5ZeehE?quality=1080
+http://192.168.123.1:35455/youtube/CKjSm5ZeehE?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",镜新闻
-http://192.168.123.254:35455/youtube/5n0y6b0Q25o?quality=1080
+http://192.168.123.1:35455/youtube/5n0y6b0Q25o?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",台视新闻
-http://192.168.123.254:35455/youtube/xL0ch83RAK8?quality=1080
+http://192.168.123.1:35455/youtube/xL0ch83RAK8?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",民视新闻
-http://192.168.123.254:35455/youtube/ylYJSBUgaMA?quality=1080
+http://192.168.123.1:35455/youtube/ylYJSBUgaMA?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",ABC新闻
-http://192.168.123.254:35455/youtube/w_Ma8oQLmSM?quality=1080
+http://192.168.123.1:35455/youtube/w_Ma8oQLmSM?quality=1080
 #EXTINF:-1 group-title="高清安徽",纪实人文
 http://192.168.123.1:4200/udp/238.1.78.153:7096
 #EXTINF:-1 group-title="高清安徽",金鹰纪实
@@ -759,4 +759,3 @@ http://192.168.123.1:4200/rtp/238.1.78.8:7968
 http://192.168.123.1:4200/rtp/238.1.78.3:7928
 #EXTINF:-1 group-title="地市频道",IPTV野外
 http://192.168.123.1:4200/rtp/238.1.78.4:7936
-
