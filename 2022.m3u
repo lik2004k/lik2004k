@@ -109,6 +109,12 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ot
 http://192.168.123.2:5678/tvb.php?id=0&hq
 #EXTINF:-1 group-title="高清卫视",WXCJ
 http://192.168.123.2:5678/tvb.php?id=2&hq
+#EXTINF:-1 group-title="高清卫视",HOTV-news
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 group-title="高清卫视",HOTV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 group-title="高清卫视",HOTV-79
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 group-title="高清卫视",翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 group-title="高清卫视",莲花卫视
