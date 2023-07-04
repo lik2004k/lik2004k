@@ -117,6 +117,20 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 group-title="高清卫视",翡翠台
 http://r.jdshipin.com/qClQf
+#EXTINF:-1 group-title="高清卫视",翡翠台
+http://192.168.123.1:5678/hk.php?id=0
+#EXTINF:-1 group-title="高清卫视",无线J2
+http://192.168.123.1:5678/hk.php?id=1
+#EXTINF:-1 group-title="高清卫视",无线新闻台
+http://192.168.123.1:5678/hk.php?id=2
+#EXTINF:-1 group-title="高清卫视",无线财经台海外
+http://192.168.123.1:5678/hk.php?id=6
+#EXTINF:-1 group-title="高清卫视",无线直播
+http://192.168.123.1:5678/hk.php?id=8
+#EXTINF:-1 group-title="高清卫视",明珠台
+http://192.168.123.1:5678/hk.php?id=10
+#EXTINF:-1 group-title="高清卫视",无线新闻台海外
+http://192.168.123.1:5678/hk.php?id=4
 #EXTINF:-1 group-title="高清卫视",莲花卫视
 http://192.168.123.1:35455/lianhua.php
 #EXTINF:-1 group-title="高清卫视",凤凰中文
