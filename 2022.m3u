@@ -97,48 +97,48 @@ http://192.168.123.1:4200/udp/238.1.79.58:4600
 http://192.168.123.1:4200/udp/238.1.79.59:4608
 #EXTINF:-1 group-title="高清央视",CETV1
 http://192.168.123.1:4200/udp/238.1.78.158:7136
-#EXTINF:-1 group-title="高清卫视",凤凰中文
+#EXTINF:-1 group-title="香港电视",凤凰中文
 http://192.168.123.1:5678/sxg.php?id=test1_4000
-#EXTINF:-1 group-title="高清卫视",凤凰中文
+#EXTINF:-1 group-title="香港电视",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?
-#EXTINF:-1 group-title="高清卫视",凤凰资讯
+#EXTINF:-1 group-title="香港电视",凤凰资讯
 http://192.168.123.1:5678/sxg.php?id=test2_4000
-#EXTINF:-1 group-title="高清卫视",凤凰资讯
+#EXTINF:-1 group-title="香港电视",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?
-#EXTINF:-1 group-title="高清卫视",WXXW
+#EXTINF:-1 group-title="香港电视",WXXW
 http://192.168.123.1:5678/tvb.php?id=0&hq
-#EXTINF:-1 group-title="高清卫视",WXCJ
+#EXTINF:-1 group-title="香港电视",WXCJ
 http://192.168.123.1:5678/tvb.php?id=2&hq
-#EXTINF:-1 group-title="高清卫视",HOTV-news
+#EXTINF:-1 group-title="香港电视",HOTV-news
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 group-title="高清卫视",HOTV
+#EXTINF:-1 group-title="香港电视",HOTV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 group-title="高清卫视",HOTV-79
+#EXTINF:-1 group-title="香港电视",HOTV-79
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 group-title="高清卫视",翡翠台
+#EXTINF:-1 group-title="香港电视",翡翠台
 http://r.jdshipin.com/qClQf
-#EXTINF:-1 group-title="高清卫视",翡翠台
+#EXTINF:-1 group-title="香港电视",翡翠台
 http://192.168.123.1:5678/hk.php?id=0
-#EXTINF:-1 group-title="高清卫视",无线J2
+#EXTINF:-1 group-title="香港电视",无线J2
 http://192.168.123.1:5678/hk.php?id=1
-#EXTINF:-1 group-title="高清卫视",无线新闻台
+#EXTINF:-1 group-title="香港电视",无线新闻台
 http://192.168.123.1:5678/hk.php?id=2
-#EXTINF:-1 group-title="高清卫视",无线财经台海外
+#EXTINF:-1 group-title="香港电视",无线财经台海外
 http://192.168.123.1:5678/hk.php?id=6
-#EXTINF:-1 group-title="高清卫视",无线直播
+#EXTINF:-1 group-title="香港电视",无线直播
 http://192.168.123.1:5678/hk.php?id=8
-#EXTINF:-1 group-title="高清卫视",明珠台
+#EXTINF:-1 group-title="香港电视",明珠台
 http://192.168.123.1:5678/hk.php?id=10
-#EXTINF:-1 group-title="高清卫视",无线新闻台海外
+#EXTINF:-1 group-title="香港电视",无线新闻台海外
 http://192.168.123.1:5678/hk.php?id=4
-#EXTINF:-1 group-title="高清卫视",莲花卫视
+#EXTINF:-1 group-title="香港电视",莲花卫视
 http://192.168.123.1:35455/lianhua.php
-#EXTINF:-1 group-title="高清卫视",凤凰中文
-http://192.168.123.1:35455/feng.php?id=fhzw
-#EXTINF:-1 group-title="高清卫视",凤凰资讯
-http://192.168.123.1:35455/feng.php?id=fhzx
-#EXTINF:-1 group-title="高清卫视",凤凰香港
-http://192.168.123.1:35455/feng.php?id=fhhk
+#EXTINF:-1 group-title="香港电视",凤凰中文
+http://192.168.123.1:5678/feng.php?id=fhzw
+#EXTINF:-1 group-title="香港电视",凤凰资讯
+http://192.168.123.1:5678/feng.php?id=fhzx
+#EXTINF:-1 group-title="香港电视",凤凰香港
+http://192.168.123.1:5678/feng.php?id=fhhk
 #EXTINF:-1 group-title="高清卫视",北京卫视
 http://192.168.123.1:4200/rtp/238.1.78.162:7168
 #EXTINF:-1 group-title="高清卫视",北京卫视
