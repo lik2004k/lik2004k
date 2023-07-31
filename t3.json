@@ -6,7 +6,7 @@
  "drives": [
   {
    "name": "🙋丫仙女",
-   "server": "http://192.168.123.4:4567/",
+   "server": "http://192.168.123.4:4567",
    "type": "alist"
   },
   {
@@ -158,7 +158,7 @@
    "ext": [
     {
      "name": "🙋丫仙女",
-     "server": "http://192.168.123.4:4567/",
+     "server": "http://192.168.123.4:4567",
      "startPage": "/",
      "showAll": false,
      "search": true,
