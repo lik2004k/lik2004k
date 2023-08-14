@@ -105,6 +105,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/o
 http://192.168.123.4:5678/sxg.php?id=test2_4000
 #EXTINF:-1 group-title="香港电视",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?
+#EXTINF:-1 group-title="香港电视",凤凰香港
+http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
 #EXTINF:-1 group-title="香港电视",WXXW
 http://192.168.123.4:5678/tvb.php?id=0&hq
 #EXTINF:-1 group-title="香港电视",WXCJ
