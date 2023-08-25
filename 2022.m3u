@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="4K频道",CCTV8k
-http://192.168.123.4:5678/cctv8k.php
+http://192.168.123.8:5678/cctv8k.php
 #EXTINF:-1 group-title="4K频道",CCTV8k50
-http://192.168.123.4:5678/cctv8k50.php
+http://192.168.123.8:5678/cctv8k50.php
 #EXTINF:-1 group-title="4K频道",CCTV4k
 http://192.168.123.4:5678/cctv4k.php
 #EXTINF:-1 group-title="4K频道",CCTV4k
