@@ -107,12 +107,6 @@ http://192.168.123.1:4200/udp/238.1.79.59:4608
 http://192.168.123.1:4200/udp/238.1.78.158:7136
 #EXTINF:-1 group-title="香港电视",凤凰中文
 http://192.168.123.4:5678/sxg.php?id=test1_4000
-#EXTINF:-1 group-title="香港电视",凤凰资讯
-http://192.168.123.8:1003/fhx.php?id=1
-#EXTINF:-1 group-title="香港电视",凤凰中文
-http://192.168.123.8:1003/fhx.php?id=2
-#EXTINF:-1 group-title="香港电视",凤凰香港
-http://192.168.123.8:1003/fhx.php?id=3
 #EXTINF:-1 group-title="香港电视",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?
 #EXTINF:-1 group-title="香港电视",凤凰资讯
@@ -135,6 +129,12 @@ https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 group-title="香港电视",莲花卫视
 http://192.168.123.4:5678/lianhua.php
+#EXTINF:-1 group-title="香港电视",凤凰资讯
+http://192.168.123.8:1003/fhx.php?id=1
+#EXTINF:-1 group-title="香港电视",凤凰中文
+http://192.168.123.8:1003/fhx.php?id=2
+#EXTINF:-1 group-title="香港电视",凤凰香港
+http://192.168.123.8:1003/fhx.php?id=3
 #EXTINF:-1 group-title="高清卫视",北京卫视
 http://192.168.123.1:4200/udp/238.1.78.162:7168
 #EXTINF:-1 group-title="高清卫视",北京卫视
