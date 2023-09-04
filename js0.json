@@ -149,8 +149,8 @@
       "/dav": {
        "password": "998599"
       },
-      "/dav/dav": {
-       "password": "998599"
+      "/guest/guest": {
+       "password": "guest_Api789"
       }
      }
     },
