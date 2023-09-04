@@ -146,11 +146,11 @@
       "Authorization": ""
      },
      "params": {
-      "/guest": {
-       "password": "guest_Api789"
+      "/dav": {
+       "password": "998599"
       },
       "/guest/guest": {
-       "password": "guest_Api789"
+       "password": "998599"
       }
      }
     },
