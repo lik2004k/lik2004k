@@ -6,7 +6,7 @@
  "drives": [
   {
    "name": "🙋丫仙女",
-   "server": "https://alist.lik2004k.top:8001",
+   "server": "https://xiao.lik2004k.top:8001",
    "type": "alist"
   },
   {
@@ -138,7 +138,7 @@
    "ext": [
     {
      "name": "🙋丫仙女",
-     "server": "https://alist.lik2004k.top:8001",
+     "server": "https://xiao.lik2004k.top:8001",
      "startPage": "/",
      "showAll": false,
      "search": true,
