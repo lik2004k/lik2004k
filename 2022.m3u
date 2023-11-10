@@ -86,9 +86,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ot
 #EXTINF:-1 group-title="香港电视",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
 #EXTINF:-1 group-title="香港电视",WXXW
-http://192.168.123.4:5678/tvb.php?id=0&hq
+http://192.168.123.2:5678/tvb.php?id=0&hq
 #EXTINF:-1 group-title="香港电视",WXCJ
-http://192.168.123.4:5678/tvb.php?id=2&hq
+http://192.168.123.2:5678/tvb.php?id=2&hq
 #EXTINF:-1 group-title="香港电视",HOTV-news
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 group-title="香港电视",HOTV
@@ -148,29 +148,29 @@ http://192.168.123.1:4200/udp/238.1.78.164:7184
 #EXTINF:-1 group-title="高清卫视",重庆卫视
 http://192.168.123.1:4200/udp/238.1.78.31:6176
 #EXTINF:-1 group-title="YOUTUBE",凤凰资讯
-http://192.168.123.4:35455/youtube/if6yQq_JJyY?quality=1080
+http://192.168.123.2:35455/youtube/if6yQq_JJyY?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",中天新闻
-http://192.168.123.4:35455/youtube/oIgbl7t0S_w?quality=1080
+http://192.168.123.2:35455/youtube/oIgbl7t0S_w?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",中视新闻
-http://192.168.123.4:35455/youtube/TCnaIE_SAtM?quality=1080
+http://192.168.123.2:35455/youtube/TCnaIE_SAtM?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",东森新闻
-http://192.168.123.4:35455/youtube/khuZW5GdBXo?quality=1080
+http://192.168.123.2:35455/youtube/khuZW5GdBXo?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",TVBS新闻
-http://192.168.123.4:35455/youtube/2mCSYvcfhtc?quality=1080
+http://192.168.123.2:35455/youtube/2mCSYvcfhtc?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",寰宇新闻
-http://192.168.123.4:35455/youtube/B7Zp3d6xXWw?quality=1080
+http://192.168.123.2:35455/youtube/B7Zp3d6xXWw?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",华视新闻
-http://192.168.123.4:35455/youtube/wM0g8EoUZ_E?quality=1080
+http://192.168.123.2:35455/youtube/wM0g8EoUZ_E?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",三立新闻
-http://192.168.123.4:35455/youtube/CKjSm5ZeehE?quality=1080
+http://192.168.123.2:35455/youtube/CKjSm5ZeehE?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",镜新闻
-http://192.168.123.4:35455/youtube/5n0y6b0Q25o?quality=1080
+http://192.168.123.2:35455/youtube/5n0y6b0Q25o?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",台视新闻
-http://192.168.123.4:35455/youtube/xL0ch83RAK8?quality=1080
+http://192.168.123.2:35455/youtube/xL0ch83RAK8?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",民视新闻
-http://192.168.123.4:35455/youtube/ylYJSBUgaMA?quality=1080
+http://192.168.123.2:35455/youtube/ylYJSBUgaMA?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",ABC新闻
-http://192.168.123.4:35455/youtube/w_Ma8oQLmSM?quality=1080
+http://192.168.123.2:35455/youtube/w_Ma8oQLmSM?quality=1080
 #EXTINF:-1 group-title="高清安徽",安徽公共
 http://192.168.123.1:4200/udp/238.1.79.43:4456
 #EXTINF:-1 group-title="高清安徽",安徽国际
