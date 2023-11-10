@@ -148,7 +148,7 @@ http://192.168.123.2:4200/udp/238.1.78.164:7184
 #EXTINF:-1 group-title="高清卫视",重庆卫视
 http://192.168.123.2:4200/udp/238.1.78.31:6176
 #EXTINF:-1 group-title="YOUTUBE",凤凰资讯
-http://192.168.123.2:35455/youtube/if6yQq_JJyY?quality=1080
+http://192.168.123.2:35455/youtube/bYBjjtgKUnM?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",中天新闻
 http://192.168.123.2:35455/youtube/oIgbl7t0S_w?quality=1080
 #EXTINF:-1 group-title="YOUTUBE",中视新闻
