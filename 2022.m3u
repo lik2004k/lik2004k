@@ -86,9 +86,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ot
 #EXTINF:-1 group-title="香港电视",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
 #EXTINF:-1 group-title="香港电视",WXXW
+http://192.168.123.2:5678/tvb.php?id=4&hq
+EXTINF:-1 group-title="香港电视",WXXW
 http://192.168.123.2:5678/tvb.php?id=0&hq
-#EXTINF:-1 group-title="香港电视",WXCJ
+EXTINF:-1 group-title="香港电视",WXCJ
 http://192.168.123.2:5678/tvb.php?id=2&hq
+#EXTINF:-1 group-title="香港电视",WXCJ
+http://192.168.123.2:5678/tvb.php?id=6&hq
 #EXTINF:-1 group-title="香港电视",HOTV-news
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 group-title="香港电视",HOTV
