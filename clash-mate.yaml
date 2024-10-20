@@ -1,0 +1,38 @@
+system-port: 7890
+external-controller: 127.0.0.1:9090
+allow-lan: false
+mode: rule
+log-level: info
+ipv6: true
+unified-delay: true
+profile:
+  store-selected: true
+  store-fake-ip: true
+tun:
+  enable: true
+  stack: system
+  auto-route: true
+  auto-detect-interface: true
+dns:
+  enable: true
+  prefer-h3: true
+  listen: 0.0.0.0:53
+  enhanced-mode: fake-ip
+  nameserver:
+    - 223.5.5.5
+    - 8.8.8.8
+proxies:
+  - name: Hysteria2
+    type: hysteria2
+    server: 46.17.42.82
+    port: 25500
+    password: chang998599#
+    sni: www.bing.com
+    skip-cert-verify: true
+proxy-groups:
+  - name: auto
+    type: select
+    proxies:
+      - Hysteria2
+rules:
+  - MATCH,auto
